@@ -1,0 +1,158 @@
+Phrase,PMID,Title,Abstract,Response
+Impact of social and community factors,12159550,Immigration and migration in America: social impact and social response.,,"Apologies for the confusion, but I do not find any 'is-a' relationships in the provided text. 'Is-a' relationships usually define a hierarchy or categorization, such as ""A dog is-an animal"". If you have further texts or specific relationships in mind, feel free to provide them for a more accurate extraction."
+Impact of social and community factors,30764541,Obesity and Urban Environments.,,"Apologies for the confusion, but the provided text does not seem to contain clear ""is-a"" relationships that could be translated into RDF triples for a social determinants of health ontology. The text discusses various factors and their impacts on health, but does not explicitly define a class/subclass (""is-a"") relationship between any concepts. This kind of relationship would require statements like ""X is a type of Y"" or ""X is a Y"". If more specific or differently worded information is provided, I might be able to help you better."
+Impact of social and community factors,31675514,Housing as a determinant of health equity: A conceptual model.,,"1. (Housing, is-a, Pathway for health disparities)
+2. (Cost, is-a, Pillar of health-promoting housing factor)
+3. (Conditions, is-a, Pillar of health-promoting housing factor)
+4. (Consistency, is-a, Pillar of health-promoting housing factor)
+5. (Context, is-a, Pillar of health-promoting housing factor)
+6. (Structural inequalities, is-a, Cause of unequal distribution of access to health-promoting housing factors) 
+7. (Housing affordability, is-a, Aspect of cost)
+8. (Housing quality, is-a, Aspect of conditions)
+9. (Residential stability, is-a, Aspect of consistency)
+10. (Neighborhood opportunity, is-a, Aspect of context)
+11. (Healthy housing, is-a, Aspect of health equity)
+12. (Cumulative burden, is-a, Result of interaction between housing factors and structural inequalities) 
+13. (Health disparities, is-a, Result of cumulative burden)
+"
+Impact of social and community factors,36562901,The impact of social and environmental factors on cancer biology in Black Americans.,,"Apologies for the misunderstanding earlier. Here are the 'is-a' relationship based RDF triples extracted from the text:
+
+1. (Low socioeconomic status, is-associated-with, early onset of chronic diseases)
+2. (Low socioeconomic status, is-associated-with, reduced life expectancy)
+3. (SES, is-associated-with, chronic health conditions)
+4. (Chronic life stress, is-more-prevalent-in, low SES communities)
+5. (Neighborhood-level factors, is-a, determinant of cancer risk)
+6. (Neighborhood-level factors, is-a, contributor to cancer outcomes)
+7. (Environmental pollutants, is-a, socioenvironmental factor affecting tumor biology)
+8. (Neighborhood deprivation, is-a, socioenvironmental factor affecting tumor biology)
+9. (Social isolation, is-a, socioenvironmental factor affecting tumor biology)
+10. (Structural racism, is-a, socioenvironmental factor affecting tumor biology)
+11. (Discrimination, is-a, socioenvironmental factor affecting tumor biology)
+12. (Deprivation, is-a, measurable factor in cancer health disparities)
+13. (Discrimination, is-a, measurable factor in cancer health disparities)
+14. (Structural racism, is-a, measurable factor in cancer health disparities"
+Impact of social and community factors,33146364,Housing and health: an overview.,,"Apologies for the confusion earlier. Based on your request, here are the RDF triples with an ""is-a"" relationship related to the social determinants of health from the provided text:
+
+1. (Living environment, is-a, determinant of health)
+2. (Dwellings, is-a, determinant of health)
+3. (Housing, is-a, determinant of health)
+4. (Residential instability, is-a, housing factor that impacts health)
+5. (Affordability, is-a, housing factor that impacts health)
+6. (Housing safety and quality, is-a, housing factor that impacts health)
+7. (Neighborhood characteristics, is-a, determinant of health)
+8. (Political choices, is-a, factor that impacts neighborhood conditions)
+9. (Administrative choices, is-a, factor that impacts neighborhood conditions)
+10. (Regulatory system, is-a, factor that ensures Public Health protection)
+11. (Social justice, is-a, outcome of good health standards)"
+Impact of social and community factors,37078786,Social and structural determinants of recovery: The impact of race.,,"1. (Relapse rates, is a, SUDs treatment outcome)
+2. (Social determinants of recovery, is a, factor influencing SUDs treatment outcome)
+3. (Economic stability, is a, social determinant of health)
+4. (Educational access and quality, is a, social determinant of health)
+5. (Healthcare access and quality, is a, social determinant of health)
+6. (Neighborhood and built environment, is a, social determinant of health)
+7. (Social and community context, is a, social determinant of health)
+8. (Race and racial discrimination, is a, factor influencing SUDs treatment outcome)
+9. (Race and racial discrimination, is a, social determinant of health)"
+Impact of social and community factors,26482055,Social Frailty in Community-Dwelling Older Adults as a Risk Factor for Disability.,,"The provided text doesn't provide enough information to extract ""is-a"" relationships that can contribute to a social determinants of health ontology. An ""is-a"" relation signifies a hierarchical relationship between a more general class and a specific instance or subclass of that entity. This text primarily provides information on a study and its findings, rather than defining new entities or classes in relation to existing ones in a hierarchal manner. Please provide a text with more hierarchal relationships between the entities."
+Impact of social and community factors,26315036,Understanding the Role of Social Factors in Farmworker Housing and Health.,,"1. (Social advantage, is-a, determinant of health conditions)
+2. (Social advantage, is-a, determinant of life expectancy)
+3. (Farmworker housing, is-a, potential modulator of health impact)
+4. (Social capital, is-a, factor affecting farmworker health)
+5. (Housing situations, is-a, stress factor for farmworkers)
+6. (Housing, is-a, factor affecting social support for healthy behaviors)
+7. (Adequate farmworker housing, is-a, need for specific social and community benefits)
+8. (Effects on children, is-a, potential long-term determinant of health)"
+Impact of social and community factors,30036811,The association of sleep with neighborhood physical and social environment.,,"Apologies for the confusion, but the text provided does not seem to contain any explicit is-a relationships that can be transformed into RDF triples. The is-a relationship typically denotes a subtype or instance relationship between a more specific entity and a more general one, but the text does not provide explicit information of this type. 
+
+However, if certain implications and assumptions are taken into account, some potential is-a relationships could be:
+
+1. (Sleep, is-a, Critical factor for health)
+2. (Physical environment, is-a, Factor affecting sleep outcomes)
+3. (Social environment, is-a, Factor affecting sleep outcomes)
+4. (Neighborhood airplane noise pollution, is-a, Environmental factor promoting sleep loss)
+5. (Roadway noise pollution, is-a, Environmental factor promoting sleep loss)
+6. (Rail noise pollution, is-a, Environmental factor promoting sleep loss)
+7. (Air pollution, is-a, Environmental factor promoting sleep loss)
+8. (Ambient light, is-a, Environmental factor promoting sleep loss)
+9. (Neighborhood green space, is-a, Social characteristic affecting sleep)
+10. (Walkability, is-a, Social characteristic affecting sleep)
+11. (Safety, is-a, Social characteristic affecting sleep)
+12. (Built environment, is"
+Impact of social and community factors,22647382,Social health and nutrition impacts of community kitchens: a systematic review.,,"Apologies for the confusion, the provided text does not define ""is-a"" relationships directly. An ""is-a"" relationship is an assertion about a taxonomic relationship between two entities, where one class is a subtype of another. The text provided does not include taxonomical definitions or hierarchy-based statements that can be extracted into an ""is-a"" RDF triple."
+Impact of social and community factors,35452534,Effects of the physical and social environment on youth cognitive performance.,,"1. (Children's cognitive abilities, is-a, Life and health outcome)
+2. (Environmental components, is-a, Factor influencing individual differences in children's cognitive abilities)
+3. (Socioeconomic effects, is-a, Factor influencing individual differences in children's cognitive abilities)
+4. (Adolescent Brain Cognitive Development Study, is-a, Longitudinal study)
+5. (Youth- and caregiver-report questionnaires, is-a, Method for defining principal components of children's environments)
+6. (National database registries, is-a, Method for defining principal components of children's environments)
+7. (Home, is-a, Component of children's environments)
+8. (School, is-a, Component of children's environments)
+9. (Neighborhood, is-a, Component of children's environments)
+10. (Cultural environments, is-a, Component of children's environments)
+11. (General cognitive ability, is-a, Cognitive performance in children)
+12. (Executive functioning, is-a, Cognitive performance in children)
+13. (Learning/memory abilities, is-a, Cognitive performance in children)"
+Impact of social and community factors,37354326,The Impact of Neighborhoods on Diabetes Risk and Outcomes: Centering Health Equity.,,"Based on the provided text, here are the RDF triples with an ""is-a"" relationship which can be added to a social determinants of health ontology:
+
+1. (Neighborhood environment, is-a, determinant of diabetes risk factors)
+2. (Social environment, is-a, component of neighborhood environment)
+3. (Economic environment, is-a, component of neighborhood environment)
+4. (Physical environment, is-a, component of neighborhood environment)
+5. (Access to healthy food, is-a, factor influencing health outcomes)
+6. (Access to green spaces, is-a, factor influencing health outcomes)
+7. (Access to safe housing, is-a, factor influencing health outcomes)
+8. (Access to transportation options, is-a, factor influencing health outcomes)
+9. (Social cohesion, is-a, social factor influencing health outcomes)
+10. (Neighborhood safety, is-a, social factor influencing health outcomes)
+11. (Structural racism, is-a, driver of neighborhood environment)
+12. (Institutional racism, is-a, driver of neighborhood environment)
+13. (Health equity, is-a, principle in health disparities research)"
+Impact of social and community factors,32606096,Close to Home: Evidence on the Impact of Community-Based Girl Groups.,,"Apologies for the confusion earlier, but the text provided does not explicitly contain is-a relationships, which typically define a category or class membership (e.g., a 'dog' is-a 'mammal'). However, using the information provided, I'll attempt to infer plausible is-a relationships:
+
+1. (CBGGs, is-a, Community-based programming)
+2. (Gender equity promotion, is-a, Community-based programming)
+3. (Impact evaluations, is-a, Research method)
+4. (Randomized controlled trials, is-a, Research method)
+5. (Quasi-experimental designs, is-a, Research method)
+6. (Life skills education, is-a, Program content)
+7. (Financial literacy and microsavings, is-a, Program content)
+8. (Complementary activities with community, is-a, Program approach)
+
+Please note that these are inferred and the actual text may need to be analysed further for more explicit is-a relationships.
+"
+Impact of social and community factors,32486380,The Impact of COVID-19 on Physical Activity Behavior and Well-Being of Canadians.,,"The provided text does not seem to include any is-a relationships that could be added to a social determinants of health ontology. The text mainly focuses on the impact of COVID-19 related restrictions on the physical activity and well-being of Canadians, not their inherent or is-a characteristics. Therefore, extracting RDF triples with an is-a relationship from this particular text might not be feasible."
+Impact of social and community factors,34919687,Housing Unit Type and Perceived Social Isolation Among Senior Housing Community Residents.,,"Based on the text provided, there aren't any typical explicit is-a relationships presented. However, considering the context, we can infer certain is-a relationships to form RDF triples related to social determinants of health. Here are some potential examples:
+
+1. (Social isolation, is-a, health implication)
+2. (Older adults, is-a, demographic at risk of social isolation)
+3. (Housing unit type, is-a, factor influencing social isolation)
+4. (Townhome-style unit, is-a, type of housing unit)
+5. (Apartment building-style unit, is-a, type of housing unit)
+6. (Perceived social isolation, is-a, subjective health outcome)
+7. (Mental and emotional health outcomes, is-a, type of health outcomes)
+
+Please note that these are inferred from the context and may require additional contextual information to validate."
+Impact of social and community factors,35801904,System resilience and neighbourhood action on social determinants of health inequalities: an English Case Study.,,"Extracting RDF triples that share an ""is-a"" relationship from the provided text:
+
+1. (""Neighbourhood Resilience Programme"", is-a, ""practical programme of action research"")
+2. (""Neighbourhoods For Learning"", is-a, ""zone of resilience study"")
+3. (""Difference-in-difference analysis"", is-a, ""statistical method"")
+4. (""Social connectivity, cultural coherence, local decision-making, economic activity, and the local environment"", is-a, ""resilience domains"")
+5. (""A narrative review"", is-a, ""literature review method"")
+6. (""Longitudinal household survey"", is-a, ""survey method"")
+7. (""Reflexive journals"", is-a, ""academic record"")
+8. (""Semi-structured interviews"", is-a, ""research method"")"
+Impact of social and community factors,34791516,Neighbourhood characteristics and social isolation of people with psychosis: a multi-site cross-sectional study.,,"The text provided does not contain any ""is-a"" relationships related to the social determinants of health. The available information primarily discusses associations and effects, rather than classifications or hierarchical relationships, which are typically represented by ""is-a"" relationships in RDF triples. Kindly provide another text for extraction of ""is-a"" relationships."
+Impact of social and community factors,34477585,Faith Community Nursing: Identifying and Combating Social Isolation and Loneliness in Older Adults.,,"Based on the text provided, I can generate the following RDF triples adhering to the ""is-a"" relationship:
+
+1. (Older adults, is-a, population group)
+2. (Social isolation, is-a, health risk factor)
+3. (Loneliness, is-a, health risk factor)
+4. (Physical impacts, is-a, health consequence)
+5. (Mental impacts, is-a, health consequence)
+6. (Spiritual impacts, is-a, health consequence)
+7. (Faith community nurses, is-a, health care professionals)
+8. (Community-dwelling older adults, is-a, population group)
+9. (Risk factors, is-a, health determinant)
+10. (Interventions, is-a, health care strategies)
+11. (Case study, is-a, research method)"

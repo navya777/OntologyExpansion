@@ -1,0 +1,157 @@
+PMID,Child Concept,Relationship,Parent Concept,Most Similar Concept
+35903894,Urban Living,is-a,Protective Factor,Protective Factor
+35903894,Economic Stability,is-a,Protective Factor,Protective Factor
+35903894,Living with Parents,is-a,Protective Factor,Protective Factor
+37560103,HIV/AIDS,is-a,Health issue,Mental health issue
+19939991,Macronutrient interventions,is-a,Nutritional intervention,Nutritional Intervention
+34168595,Pre-confinement working conditions,is-a,Protective factor,Protective Factor
+34168595,Post-confinement work expectancy,is-a,Protective factor,Protective Factor
+34168595,Stable couple without children,is-a,Protective factor,Protective Factor
+34168595,Residential or suburban area confinement,is-a,Protective factor,Protective Factor
+35914487,Religion,is-a,protective factor,Protective Factor
+35914487,Social support,is-a,protective factor,Protective Factor
+35914487,Economic stability,is-a,protective factor,Protective Factor
+35914487,Linguistic proficiency,is-a,protective factor,Protective Factor
+30192447,Traumatic event,is a factor in,suicide attempts,suicide attempts
+37887669,Physical trauma,is-a,health issue,Mental health issue
+37887669,Mental trauma,is-a,health issue,Mental health issue
+37887669,Mental health issues,is-a,health problem,Mental health problem
+34903427,Exposure to substance using peers during adolescence,is-a,Risk factor for homelessness,history of domestic violence
+10890808,Problem drinkers,is-a,Alcohol users,alcohol drinking
+10890808,Alcoholics,is-a,Alcohol users,alcohol drinking
+10890808,Alcohol-related dysfunction,is-a,Health issue,Mental health issue
+10890808,Physical dependence on alcohol,is-a,Health issue,Mental health issue
+34504382,Anxiety symptoms,is-a,Psychological distress,Psychological Distress
+37312527,Food Insecurity,is-a,Health Issue,Mental health issue
+23698667,Cancer disparities,is-a,health issue,Mental health issue
+34447518,Anxiety disorder,is-a,mental health problem,Mental health problem
+30142180,High stress,is-a,psychological factor,psychological factor
+30142180,Stress,is-a,psychological factor,psychological factor
+36041159,Hopelessness,is a,Mental Health Issue,Mental health issue
+36976691,Negative attitudes,is-a,psychological factor,psychological factor
+36976691,Poor perception,is-a,psychological factor,psychological factor
+35270579,Perceptions of job stability,is-a,Psychosocial factor,psychosocial factors
+35270579,5-star and 4-star hotels,is-a,Work environment,Work environment
+35270579,Category A travel agencies,is-a,Work environment,Work environment
+26506676,Mandatory motorcycle helmet law,is-a,safety regulation,workplace safety requirements
+23870846,Mental health problems,is-a,Health issue,Mental health issue
+23870846,Substance use problems,is-a,Health issue,Mental health issue
+23870846,Depression,is-a,Mental health problem,Mental health problem
+23870846,Anxiety,is-a,Mental health problem,Mental health problem
+23870846,Co-occurring mental health and substance use problems,is-a,Health issue,Mental health issue
+31281173,Economic Instability,is-a,risk factor for Domestic Violence,history of domestic violence
+31281173,Witnessing Domestic Violence in Childhood,is-a,risk factor for Domestic Violence,history of domestic violence
+16619736,malnutrition problem,is-a,health issue,Mental health issue
+27414815,Witnessed traumatic events,is-a,traumatic experience,Adverse Childhood Experiences
+31060633,Self-harm,is-a,mental health issue,Mental health issue
+14672243,Childhood adversity,is-a,risk factor for depression,history of domestic violence
+32568157,Economic stress,is-a,Workplace issues,workplace safety requirements
+32568157,Safety outcomes,is-a,Workplace issues,workplace safety requirements
+32604457,Infectious diseases,is-a,Health problem,Mental health problem
+24753897,Infertility,is-a,Health issue,Mental health issue
+35903894,Urban Living,is-a,Protective Factor,Protective Factor
+35903894,Economic Stability,is-a,Protective Factor,Protective Factor
+35903894,Living with Parents,is-a,Protective Factor,Protective Factor
+35895432,Malnutrition,is-a,health issue,Mental health issue
+29470783,Rising economic standards,is-a,factor associated with marriage,history of domestic violence
+34168595,Stress,is-a,Mental health issue,Mental health issue
+34168595,Anxiety,is-a,Mental health issue,Mental health issue
+35914487,Fear of deportation,is-a,psychological factor,psychological factor
+35914487,Uncertainty regarding the future,is-a,psychological factor,psychological factor
+35914487,Religion,is-a,protective factor,Protective Factor
+35914487,Social support,is-a,protective factor,Protective Factor
+35914487,Economic stability,is-a,protective factor,Protective Factor
+35914487,Linguistic proficiency,is-a,protective factor,Protective Factor
+37214777,Psychological and social stress,is-a,mental health issue,Mental health issue
+36091197,mental disorders,is-a,health problem,Mental health problem
+34504382,Anxiety symptoms,is-a,psychological distress,Psychological Distress
+34447518,Anxiety disorder,is-a,mental health problem,Mental health problem
+34447518,Health loss,is-a,health problem,Mental health problem
+34447518,Disability,is-a,health problem,Mental health problem
+36976691,Negative attitudes,is-a,psychological factor,psychological factor
+36976691,Poor perception,is-a,psychological factor,psychological factor
+36976691,Embarrassment,is-a,psychological factor,psychological factor
+32994680,Cold chain,is-a,vaccine storage requirement,workplace safety requirements
+23870846,Mental Health Problems,is-a,Health Issue,Mental health issue
+23870846,Substance Use Problems,is-a,Health Issue,Mental health issue
+33013604,PTSD symptoms,is-a,psychological distress,Psychological Distress
+16619736,Malnutrition,is-a,Nutritional deficiency,Nutritional Deficiency
+16619736,Iron deficiency,is-a,Micronutrient deficiency,Micronutrient deficiencies
+16619736,Iodine deficiency,is-a,Micronutrient deficiency,Micronutrient deficiencies
+16619736,Vitamin A deficiency,is-a,Micronutrient deficiency,Micronutrient deficiencies
+37973715,Parental Stress,is-a,Psychological Factor,psychological factor
+31060633,Self-harm,is-a,Mental health issue,Mental health issue
+14672243,Low socio-economic status,is-a,Childhood adversity,Adverse Childhood Experiences
+14672243,Family disruption,is-a,Childhood adversity,Adverse Childhood Experiences
+14672243,Residential instability,is-a,Childhood adversity,Adverse Childhood Experiences
+6403929,Artificial feedings,is-a,nutritional intervention,Nutritional Intervention
+35998765,Unintentional overdose,is-a,Health issue,Mental health issue
+35998765,Suicide overdose,is-a,Health issue,Mental health issue
+28060469,Cancer-related health,is-a,health issue,Mental health issue
+35079208,Confidence and expectations,is-a,psychological factor,psychological factor
+30476088,Economic hardship,is-a,Childhood experience,Adverse Childhood Experiences
+30476088,Domestic conflict,is-a,Childhood experience,Adverse Childhood Experiences
+34447518,Anxiety,is-a,mental health problem,Mental health problem
+30142180,High stress,is-a,psychological factor,psychological factor
+30865765,Non-accidental fractures,is-a,indicator of violence,history of domestic violence
+26506676,Mandatory motorcycle helmet law,is-a,Safety regulation,workplace safety requirements
+16619736,Chronic diseases,is-a,health issue,Mental health issue
+16619736,Malnutrition,is-a,health issue,Mental health issue
+34820889,COVID-19,is-a,health issue,Mental health issue
+14672243,Childhood adversity,is-a,Risk factor for depression,history of domestic violence
+15960239,HIV epidemic,is-a,health issue,Mental health issue
+35223758,Cultural connectedness,is-a,protective factor,Protective Factor
+35223758,Educational/career aspirations,is-a,protective factor,Protective Factor
+29455743,Risk perception,is-a,psychological factor,psychological factor
+10180676,Mental health problems,is-a,Health issue,Mental health issue
+10180676,Social health problems,is-a,Health issue,Mental health issue
+10180676,Suicides,is-a,Mental health problem,Mental health problem
+20693740,HIV/AIDS,is-a,Health Issue,Mental health issue
+28044191,Repeated occupational injuries,is-a,Workplace safety issue,workplace safety requirements
+33027490,AIDS epidemic,is-a,Health issue,Mental health issue
+34254343,Occupational injuries,is-a,Health issue,Mental health issue
+26478647,Women's perceptions of economic instability,is-a,Psychological factor,psychological factor
+25376129,Socio-Emotional Instability,is-a,Mental Health Issue,Mental health issue
+14964610,Brain injury,is-a,health issue,Mental health issue
+32105196,Sexual health,is-a,health issue,Mental health issue
+32105196,Reproductive health,is-a,health issue,Mental health issue
+32993833,Self-harm,is-a,mental health issue,Mental health issue
+22519844,Bereavement,is-a,psychological factor,psychological factor
+34340279,Quality of life,is-a,psychological factor,psychological factor
+34340279,Economic worries,is-a,psychological factor,psychological factor
+34340279,Distress in complying with quarantine guidelines,is-a,psychological factor,psychological factor
+34340279,Interest in seeking something to do alone,is-a,psychological factor,psychological factor
+26630520,Professional identity,is-a,psychological factor,psychological factor
+16753194,HIV/AIDS,is-a,health issue,Mental health issue
+33318226,Early childhood physical abuse,is-a,Childhood adversity,Adverse Childhood Experiences
+34539868,Mental health needs and challenges,is-a,health issue,Mental health issue
+21709370,Depression,is-a,Mental health issue,Mental health issue
+16642773,Tuberculosis,is-a,health issue,Mental health issue
+28589002,Post-traumatic stress disorder,is-a,health issue,Mental health issue
+28589002,Anxiety,is-a,health issue,Mental health issue
+28742870,HIV epidemic,is-a,health issue,Mental health issue
+22029874,HIV/AIDS,is-a,health issue,Mental health issue
+36515763,COVID-19 deaths,is-a,health issue,Mental health issue
+31086192,Non-communicable diseases,is-a,Health issue,Mental health issue
+32585839,Stress and uncertainty,is-a,Psychological Factor,psychological factor
+36593476,Non-communicable diseases,is-a,Health issue,Mental health issue
+34087631,Depression,is-a,mental health issue,Mental health issue
+34087631,Posttraumatic stress,is-a,mental health issue,Mental health issue
+36946262,Childbearing Motivations,is-a,Psychological factor,psychological factor
+36946262,Desires and Intentions,is-a,Psychological factor,psychological factor
+21474174,Non-Communicable Diseases,is-a,health issue,Mental health issue
+31779726,Mental health problems,is-a,health issue,Mental health issue
+31779726,Alcohol problems,is-a,health issue,Mental health issue
+31779726,Post-service socio-economic stability,is-a,protective factor,Protective Factor
+36542051,Reduced socioeconomic disadvantage,is-a,protective factor,Protective Factor
+36542051,Provision of housing stability,is-a,protective factor,Protective Factor
+36542051,Condom use,is-a,protective factor,Protective Factor
+31463614,Mental Health Problems,is-a,health issue,Mental health issue
+31463614,Depression,is-a,Mental Health Problem,Mental health problem
+31463614,Anxiety,is-a,Mental Health Problem,Mental health problem
+31463614,Post-traumatic stress disorder symptoms,is-a,Mental Health Problem,Mental health problem
+31463614,Somatic syndrome,is-a,Mental Health Problem,Mental health problem
+31463614,Alcohol dependence,is-a,Mental Health Problem,Mental health problem
+37923417,Depressive symptoms,is-a,Mental health problem,Mental health problem
+37923417,Anxiety symptoms,is-a,Mental health problem,Mental health problem
+37923417,Distress symptoms,is-a,Mental health problem,Mental health problem

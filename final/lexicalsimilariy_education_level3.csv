@@ -1,0 +1,1006 @@
+0,1,2,3,Min Jaccard Distance,Min Euclidean Distance,Most Matching Term by Jaccard,Most Matching Term by Euclidean,Most Matching Term by Levenshtein,Min Levenshtein Distance
+PMID,Child Concept,Relationship,Parent Concept,,,,,'employment prospect',13.0
+32313284,Self-directed learning,is-a,teaching pedagogy,,,,,'racial segreggation',15.0
+32313284,Self-directed learning,is-a,set of skills,,,,,'lower earning',13.0
+32313284,Self-directed learning,is-a,learning process,,,,,'employment prospect',14.0
+32313284,Lecture-based classroom,is-a,teaching pedagogy,,,,,'racial segreggation',15.0
+37866832,Educational attainment,is-a,social determinant of health,,,,,'racial segreggation',19.0
+37866832,School environment,is-a,social determinant of health,,,,,'racial segreggation',19.0
+37866832,Chronic conditions,is-a,health outcome,,,,,'lower earning',14.0
+37866832,Functional limitations,is-a,health outcome,,,,,'lower earning',14.0
+37866832,Overall health,is-a,health outcome,,,,,'lower earning',14.0
+30264521,Occupational therapy education,is-a,type of health education,,,,,'racial segreggation',17.0
+30264521,Occupational perspective of health,is-a,perspective in health education,,,,,'racial segreggation',21.0
+30264521,Occupation-based practice,is-a,type of occupational therapy practice,,,,,'educational infrastructure',22.0
+30264521,Practice education coordinator,is-a,type of occupational therapy educator,,,,,'educational infrastructure',23.0
+30264521,Occupation for health philosophy,is-a,philosophy in occupational therapy education,,,,,'vocational training',31.0
+32885990,Laryngology,is-a,field in otolaryngology resident training programs,,,,,'social-emotional skills training',36.0
+32885990,Laryngology education,is-a,"vital component for care of patients with voice, swallowing, and airway complaints",,,,,'inaccessible education due to thresholds of assistance programs',61.0
+32885990,SLPs,is-a,specialist in voice and swallowing disorders,,,,,'alternative schooling',32.0
+32885990,SLPs,is-a,part of laryngology team,,,,,'poor parenting',18.0
+32885990,SLPs,is-a,beneficial factor in laryngology resident training,,,,,'social-emotional skills training',32.0
+36497622,Environmental education,is-a,part of National Curriculum Statement Grades R-12,,,,,'additional training at school',35.0
+36497622,Primary school learners,is-a,target group for environmental education,,,,,'additional training at school',30.0
+36497622,National Curriculum Statement Grades R-12,is-a,curriculum in South Africa,,,,,'cultural barriers',21.0
+36497622,South Africa,is-a,location of study,,,,,'vocational training',13.0
+22881052,Student participation,is-a,educational design tool,,,,,'vocational training',12.0
+22881052,Inventory of Perceived Study Environment Extended,is-a,data collection method,,,,,'racial segreggation',18.0
+22881052,Inventory of Learning Styles,is-a,data collection method,,,,,'racial segreggation',18.0
+22881052,Participatory design,is-a,instructional design method,,,,,'vocational training',18.0
+37421879,Diagnostic Radiography programmes,is-a,type of health course,,,,,'poor parenting',17.0
+37421879,Professional and Statutory Regulatory Bodies,is-a,type of regulatory authority,,,,,'racial segreggation',22.0
+37421879,Practice-based learning,is-a,component of Diagnostic Radiography programmes,,,,,'additional training at school',37.0
+37421879,Simulation-based education,is-a,type of practice-based learning,,,,,'vocational training',21.0
+37421879,University School Simulation Group,is-a,type of academic group,,,,,'poor parenting',16.0
+37421879,Simulation education facilitators,is-a,type of academic role,,,,,'poor parenting',16.0
+37421879,Learning and Teaching Hub Research Ethics Panel,is-a,type of ethics committee,,,,,'alternative schooling',20.0
+37421879,Standardised guide,is-a,requirement for delivering SBE,,,,,'employment prospect',22.0
+37421879,Training and reassurance,is-a,need for facilitators,,,,,'poor parenting',16.0
+37421879,Health professionals,is-a,deliverers of SBE,,,,,'lower earning',14.0
+37421879,Innovative and creative ways,is-a,method for delivering SBE,,,,,'lower earning',18.0
+19077214,Shantou University Medical College,is-a,Medical Institution,,,,,'racial segreggation',14.0
+19077214,Medical doctor,is-a,Medical Career,,,,,'cultural barriers',12.0
+19077214,Medical teaching,is-a,Medical Career,,,,,'cultural barriers',12.0
+19077214,Medical research,is-a,Medical Career,,,,,'cultural barriers',12.0
+19077214,English language proficiency,is-a,Skill,,,,,'lower earning',14.0
+19077214,Computer skills,is-a,Skill,,,,,'lower earning',14.0
+19077214,Biomedical research,is-a,Academic Interest,,,,,'cultural barriers',15.0
+19077214,Career aspirations,is-a,Personal characteristic,,,,,'cultural barriers',16.0
+19077214,Family background,is-a,Social determinant of career interest,,,,,'cultural barriers',24.0
+16036848,EMS educators,is-a,type of emergency medicine practitioners,,,,,'social-emotional skills training',29.0
+16036848,EMS instructors,is-a,type of educators,,,,,'poor parenting',14.0
+16036848,EMS administrators,is-a,type of oversight organizations,,,,,'racial segreggation',22.0
+16036848,EMS practitioners,is-a,type of emergency medicine practitioners,,,,,'social-emotional skills training',29.0
+37714655,Diversity,is-a,Principle,,,,,'poor parenting',12.0
+37714655,Equity,is-a,Principle,,,,,'poor parenting',12.0
+37714655,Inclusion,is-a,Principle,,,,,'poor parenting',12.0
+37714655,Anti-racism,is-a,Principle,,,,,'poor parenting',12.0
+37714655,Race,is-a,Social construct,,,,,'poor parenting',14.0
+37714655,Precision medicine,is-a,Basis for deconstructing social constructs,,,,,'additional training at school',31.0
+37714655,Pharmacogenomics,is-a,Basis for deconstructing social constructs,,,,,'additional training at school',31.0
+37714655,Health education,is-a,"Platform for incorporating diversity, equity, inclusion, and anti-racism",,,,,'availability of financial aid',56.0
+37714655,Pharmacogenomic-based perspective,is-a,Approach for health education,,,,,'racial segreggation',19.0
+37714655,Clinical decisions,is-a,Outcome of using race in health education,,,,,'educational infrastructure',31.0
+37714655,Less-than-optimal clinical decisions,is-a,Result of using race in health education,,,,,'educational infrastructure',28.0
+23402324,Collaborative model,is-a,clinical education model,,,,,'racial segreggation',17.0
+23402324,Peer learning,is-a,advantage of the collaborative model,,,,,'availability of financial aid',27.0
+23402324,Reduced individual supervision,is-a,disadvantage of the collaborative model,,,,,'availability of financial aid',29.0
+23402324,Allied health disciplines,is-a,field of implementation for the collaborative model,,,,,'social-emotional skills training',37.0
+36150854,Flipped Classroom,is-a,educational environment,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+36150854,Flipped Classroom,is-a,individual learning space,,,,,'vocational training',17.0
+36150854,Systematic review,is-a,research method,,,,,'lower earning',14.0
+36150854,Anatomy,is-a,academic subject,,,,,'lower earning',15.0
+36150854,Self-confidence,is-a,personal trait,,,,,'vocational training',12.0
+36150854,Academic achievement,is-a,educational outcome,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+36150854,Student interest,is-a,personal trait,,,,,'vocational training',12.0
+36150854,Student satisfaction,is-a,educational outcome,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+36150854,Learning activity,is-a,educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+36150854,Overall performance,is-a,educational outcome,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+10604074,Years of schooling,is-a,aspect of education,,,,,'racial segreggation',15.0
+10604074,Credential,is-a,aspect of education,,,,,'racial segreggation',15.0
+10604074,College selectivity,is-a,aspect of education,,,,,'racial segreggation',15.0
+10604074,Physical functioning,is-a,aspect of health,,,,,'lower earning',15.0
+10604074,Perceived health,is-a,aspect of health,,,,,'lower earning',15.0
+10604074,Work conditions,is-a,aspect of economic conditions,,,,,'vocational training',23.0
+10604074,Economic conditions,is-a,social determinant of health,,,,,'racial segreggation',19.0
+10604074,Social psychological resources,is-a,social determinant of health,,,,,'racial segreggation',19.0
+10604074,Health lifestyle,is-a,social determinant of health,,,,,'racial segreggation',19.0
+36820837,maieutic,is-a,question-asking method,,,,,'vocational training',18.0
+36820837,maieutic,is-associated-with,Socratic dialogue,,,,,'vocational training',15.0
+36820837,maieutic,is-used-in,professional medical ethics education,,,,,'racial segreggation',26.0
+36820837,ethical sense,is-a,"concept in, professional medical ethics",,,,,'availability of financial aid',28.0
+36820837,ethical sense,is-derived-from,pre-understandings of students,,,,,'educational infrastructure',23.0
+36820837,teaching and learning by asking,is-a,"method in, professional medical ethics education",,,,,'social-emotional skills training',35.0
+36820837,Common Sense,is-a,school of philosophy,,,,,'poor parenting',16.0
+36820837,Common Sense,is-from,Scottish Enlightenment,,,,,'poor parenting',17.0
+36820837,American pragmatic philosophers,were-influenced-by,Common Sense philosophy,,,,,'employment prospect',17.0
+19342129,Written assignment feedback,is-a,form of feedback,,,,,'poor parenting',14.0
+19342129,Quality feedback,is-a,form of feedback,,,,,'poor parenting',14.0
+19342129,Constructive comments,is-a,type of feedback,,,,,'poor parenting',14.0
+19342129,Students' current performance information,is-a,type of feedback,,,,,'poor parenting',14.0
+19342129,Future learning enhancement,is-a,goal of feedback,,,,,'poor parenting',14.0
+19342129,Theoretical frameworks,is-a,method for interpreting feedback,,,,,'poor parenting',23.0
+36631219,Radiography program,is-a,Postsecondary education program,,,,,'alternative schooling',23.0
+36631219,Joint Review Committee on Education in Radiologic Technology (JRCERT),is-a,Accreditation body,,,,,'lower earning',15.0
+36631219,National Center for Education Statistics,is-a,National education data source,,,,,'additional training at school',20.0
+36631219,Certificate in Radiography,is-a,Radiography qualification,,,,,'racial segreggation',17.0
+36631219,Applied Associate of Science Degree in Radiography,is-a,Radiography qualification,,,,,'racial segreggation',17.0
+36631219,Associate of Science Degree in Radiography,is-a,Radiography qualification,,,,,'racial segreggation',17.0
+36631219,Bachelor of Science Degree in Radiography,is-a,Radiography qualification,,,,,'racial segreggation',17.0
+28732525,Clinical placement,is-a,component of professional health training,,,,,'social-emotional skills training',24.0
+28732525,Simulation activities,is-a,type of clinical placement,,,,,'vocational training',20.0
+28732525,Occupational therapy,is-a,health profession,,,,,'poor parenting',14.0
+32202963,Psychiatric nursing,is-a,Nursing speciality,,,,,'racial segreggation',15.0
+32202963,Mental health,is-a,Aspect of health,,,,,'lower earning',15.0
+32202963,Mental illness,is-a,Health condition,,,,,'lower earning',14.0
+32202963,Addictions,is-a,Health condition,,,,,'lower earning',14.0
+32202963,Therapeutic relationship,is-a,Approach in psychiatric nursing,,,,,'poor parenting',22.0
+32202963,Holistic approach,is-a,Approach in psychiatric nursing,,,,,'poor parenting',22.0
+32202963,Recovery orientation,is-a,Approach in psychiatric nursing,,,,,'poor parenting',22.0
+32202963,Stigma reduction,is-a,Goal in psychiatric nursing,,,,,'poor parenting',20.0
+32202963,Advocacy for change,is-a,Goal in psychiatric nursing,,,,,'poor parenting',20.0
+32202963,Psychiatric nursing students,is-a,Role in health education,,,,,'racial segreggation',17.0
+32202963,High quality care,is-a,Outcome of good nursing education,,,,,'racial segreggation',24.0
+32202963,Compassionate care,is-a,Outcome of good nursing education,,,,,'racial segreggation',24.0
+32202963,Safe care,is-a,Outcome of good nursing education,,,,,'racial segreggation',24.0
+30702219,Neuroanatomy,is-a,"part of, anatomical curriculum",,,,,'vocational training',22.0
+30702219,Neurophobia,is-a,"cause of, negative influence on the choice of neurology",,,,,'alternative schooling',40.0
+30702219,3D teaching tools,is-a,"type of, educational strategies in neuroanatomy",,,,,'additional training at school',31.0
+30702219,Near peer teaching tool,is-a,"type of, educational strategies in neuroanatomy",,,,,'additional training at school',31.0
+30702219,Flipped classroom tool,is-a,"type of, educational strategies in neuroanatomy",,,,,'additional training at school',31.0
+30702219,Applied neuroanatomy elective course,is-a,"type of, educational strategies in neuroanatomy",,,,,'additional training at school',31.0
+30702219,Mobile augmented reality,is-a,"type of, educational strategies in neuroanatomy",,,,,'additional training at school',31.0
+30702219,Inquiry-based clinical case,is-a,"type of, educational strategies in neuroanatomy",,,,,'additional training at school',31.0
+22228781,Interdisciplinary Population Health Project,is-a,educational initiative,0.6666666666666667,,'educational infrastructure',,'educational infrastructure',11.0
+22228781,Nursing and health care students,is-a,group of students,,,,,'lower earning',14.0
+22228781,Parsell and Bligh's Readiness of Health Care Students for Interprofessional Learning Scale,is-a,data collection tool,,,,,'poor parenting',16.0
+22228781,One group pretest-posttest design,is-a,research design,,,,,'lower earning',13.0
+22228781,Paired t tests and one-way analyses of variance,is-a,statistical methods,,,,,'cultural barriers',16.0
+22228781,Inequalities imagination model,is-a,pedagogical model,,,,,'employment prospect',16.0
+11559005,Self-directed learning readiness scale,is-a,instrument for measuring readiness,,,,,'lower earning',25.0
+11559005,Delphi technique,is-a,method for assessing validity,,,,,'higher stress level',21.0
+11559005,Principal components factor analysis,is-a,method for analyzing questionnaires,,,,,'educational infrastructure',24.0
+11559005,Chronbach's coefficient alpha,is-a,method for measuring internal consistency,,,,,'high criminal activities',30.0
+11559005,Nurse educators,is-a,professionals in adult education,,,,,'educational infrastructure',21.0
+31744999,Educator's Portfolio,is a,tool for reflection on educational practice,,,,,'vocational training',31.0
+31744999,Sensitizing session,is a,method for Educator's Portfolio preparation,,,,,'employment prospect',32.0
+31744999,Semi-structured interviews,is a,method for data collection,,,,,'employment prospect',19.0
+31744999,Qualitative content analysis,is a,method for data analysis,,,,,'poor parenting',18.0
+31744999,Faculty development,is a,result of reflection on educational practice,,,,,'vocational training',32.0
+31744999,Educational practice,is a,subject of reflection in Educator's Portfolio,,,,,'additional training at school',33.0
+33184139,Surgical career progression,is-a,professional development outcome,,,,,'additional training at school',23.0
+33184139,Core Surgical Training (CST) outcome,is-a,professional development outcome,,,,,'additional training at school',23.0
+33184139,Membership of the Royal College of Surgeons or the Diploma in Otolaryngology-Head and Neck Surgery (MRCS/DO-HNS),is-a,professional qualification,,,,,'vocational training',16.0
+33184139,Annual Review of Competence Progression (ARCP),is-a,professional assessment,,,,,'vocational training',16.0
+12269512,This study,is-a,examination of occupational therapists' use and perceptions of written education materials,,,,,'inaccessible education due to thresholds of assistance programs',64.0
+12269512,A random sample of 50 occupational therapists,is-a,participants of the study,,,,,'alternative schooling',20.0
+12269512,Written materials,is-a,tool used by occupational therapists to reinforce verbal information,,,,,'additional training at school',50.0
+12269512,Client education,is-a,core treatment modality for participants in this study,,,,,'additional training at school',40.0
+33252596,VARK questionnaire,is-a,Learning style identification tool,,,,,'racial segreggation',23.0
+33252596,Multiple Intelligences Questionnaire,is-a,Intelligence type identification tool,,,,,'additional training at school',26.0
+33252596,Modified Peyton's four-step approach,is-a,Teaching method for cardiac auscultation,,,,,'high criminal activities',29.0
+33252596,Kinesthetic style,is-a,Type of learning style,,,,,'lower earning',14.0
+33252596,Visual-spatial intelligence,is-a,Type of intelligence,,,,,'poor parenting',14.0
+33252596,Mathematical and logical intelligence,is-a,Type of intelligence,,,,,'poor parenting',14.0
+33252596,Linguistic intelligence,is-a,Type of intelligence,,,,,'poor parenting',14.0
+30051154,Patient educators,is-a,teaching strategy,,,,,'vocational training',14.0
+30051154,Patient-centred care,is-a,principle of medical education,,,,,'racial segreggation',19.0
+30051154,Pre-clerkship learners,is-a,medical students,,,,,'lower earning',14.0
+30051154,Clinical trainees,is-a,medical students,,,,,'lower earning',14.0
+30051154,Group interviews,is-a,research method,,,,,'lower earning',14.0
+30051154,Thematic analysis,is-a,data analysis method,,,,,'cultural barriers',17.0
+30051154,CanMEDS roles,is-a,competency framework,,,,,'vocational training',16.0
+35618385,Coaching intervention,is-a,educational intervention,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+35618385,Educator beliefs and practices,is-a,determinant of children's development,,,,,'higher stress level',27.0
+35618385,Teacher-child interactions,is-a,factor in education,,,,,'racial segreggation',13.0
+35618385,Latent profile analysis,is-a,research method,,,,,'lower earning',14.0
+35618385,Latent transition analysis,is-a,research method,,,,,'lower earning',14.0
+4512353,Poverty,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Education,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Unemployment,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Access to Healthcare,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Housing Conditions,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Social Exclusion,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Food Insecurity,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Racial Discrimination,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+4512353,Gender Inequality,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+38185490,Experiential food education program,is-a,Education program,,,,,'vocational training',13.0
+38185490,Focus groups,is-a,Qualitative research method,,,,,'alternative schooling',18.0
+38185490,Inductive thematic analysis,is-a,Data analysis method,,,,,'cultural barriers',17.0
+38185490,Washington DC,is-a,Geographic location,,,,,'racial segreggation',15.0
+3908024,Computer-based techniques,is-a,meal planning method,,,,,'bullying at school',16.0
+3908024,Computer-based techniques,is-a,diet education method,,,,,'alternative schooling',18.0
+3908024,Diabetes diet counseling,is-a,health intervention,,,,,'poor parenting',14.0
+3908024,Inner-city subjects with limited educational background,is-a,demographic group,,,,,'poor parenting',14.0
+3908024,Diabetes mellitus,is-a,chronic disease,,,,,'lower earning',14.0
+3908024,Computer-assisted instruction,is-a,education method,,,,,'vocational training',14.0
+3908024,Interactive videodisc system,is-a,education tool,,,,,'vocational training',13.0
+3908024,Diabetes education programs,is-a,health intervention,,,,,'poor parenting',14.0
+22400415,Situation Awareness,is-a,Perception Concept,,,,,'vocational training',15.0
+22400415,Situation Awareness,is-a,Comprehension Concept,,,,,'employment prospect',16.0
+22400415,Situation Awareness,is-a,Projection Concept,,,,,'vocational training',15.0
+22400415,Aviation Industry,has,Situation Awareness,,,,,'vocational training',14.0
+22400415,Anesthesia,has,Situation Awareness,,,,,'vocational training',14.0
+22400415,SRNAs,study,Situation Awareness,,,,,'vocational training',14.0
+22400415,Cognition,is-a,Predictor of Situation Awareness,,,,,'racial segreggation',24.0
+17131851,Pregnancy,is-a,special period in a woman's life,,,,,'racial segreggation',22.0
+17131851,Birthing school,is-a,institution for preparing for parenting,,,,,'additional training at school',27.0
+17131851,Birthing school classes,is-a,form of education,,,,,'racial segreggation',14.0
+17131851,Study group,is-a,group of women who participated in birthing school classes,,,,,'additional training at school',43.0
+17131851,Control group,is-a,group of women who did not participate in birthing school classes,,,,,'additional training at school',49.0
+17131851,Questionnaire,is-a,research tool,,,,,'lower earning',13.0
+9463643,Problem-based learning,is-a,pedagogical principle,,,,,'vocational training',15.0
+9463643,Early patient contact,is-a,pedagogical principle,,,,,'vocational training',15.0
+9463643,Integration between different subject areas,is-a,pedagogical principle,,,,,'vocational training',15.0
+9463643,Elements of multiprofessional education,is-a,pedagogical principle,,,,,'vocational training',15.0
+9463643,Development of communications skills,is-a,pedagogical principle,,,,,'vocational training',15.0
+26056403,Self-testing,is-a,study method,,,,,'poor parenting',13.0
+26056403,Online practice quizzes,is-a,form of self-testing,,,,,'poor parenting',14.0
+26056403,Pathophysiology,is-a,subject for self-testing,,,,,'poor parenting',17.0
+26056403,Examination scores,is-a,measure of academic performance,,,,,'alternative schooling',24.0
+26056403,Number of practice quiz attempts,is-a,factor affecting examination scores,,,,,'racial segreggation',25.0
+30873778,AHEC,is-a,pipeline program,,,,,'lower earning',14.0
+30873778,Stellenbosch University Faculty of Medicine and Health Sciences SA AHEC,is-a,partnership program,,,,,'cultural barriers',16.0
+30873778,Morehouse School of Medicine,is-a,partner in SA AHEC program,,,,,'alternative schooling',20.0
+30873778,Health workers,is-a,shortage in WHO Africa Region,,,,,'vocational training',23.0
+30873778,Discriminatory policies and practices,is-a,shared history of South Africa and the United States,,,,,'high risk of substance abuse',35.0
+30873778,Under-represented groups in health professions,is-a,result of discriminatory policies and practices,,,,,'high criminal activities',33.0
+30873778,Formative evaluation,is-a,method used to assess Stellenbosch AHEC Program,,,,,'additional training at school',37.0
+30873778,Increased student maturity,motivation,"and academic success, is-a, strength of the AHEC program",,,,,'additional training at school',43.0
+30873778,Limited time with students,is-a,challenge of the AHEC program,,,,,'bullying at school',21.0
+30873778,Location of some sites,is-a,challenge of the AHEC program,,,,,'bullying at school',21.0
+30873778,Educators' need for more engagement,is-a,challenge of the AHEC program,,,,,'bullying at school',21.0
+34011051,Teaching resource,is-a,factor in clinical performance improvement,,,,,'racial segreggation',31.0
+34011051,Admission and development criteria,is-a,component of education resources,,,,,'employment prospect',24.0
+34011051,Educational budget and allocation of resources,is-a,domain in teaching resource criteria,,,,,'educational infrastructure',26.0
+34011051,Infrastructure,is-a,domain in teaching resource criteria,,,,,'educational infrastructure',26.0
+34011051,Clinical teaching bases,is-a,domain in teaching resource criteria,,,,,'educational infrastructure',26.0
+34011051,Books and information services,is-a,domain in teaching resource criteria,,,,,'educational infrastructure',26.0
+34011051,Educational experts,is-a,domain in teaching resource criteria,,,,,'educational infrastructure',26.0
+34011051,Educational exchanges,is-a,domain in teaching resource criteria,,,,,'educational infrastructure',26.0
+26056404,Individualized teaching method,is-a,teaching method,,,,,'bullying at school',14.0
+26056404,Pharmacy skills laboratory,is-a,laboratory,,,,,'lower earning',12.0
+26056404,Communication skills,is-a,skills,,,,,'lower earning',14.0
+26056404,Clinical competency,is-a,competency,,,,,'poor parenting',11.0
+26056404,Clinical pharmacists,is-a,pharmacists,,,,,'lower earning',12.0
+26056404,Accreditation Council for Pharmacy Education,is-a,accreditation council,,,,,'alternative schooling',17.0
+26056404,Doctor of pharmacy program,is-a,pharmacy program,,,,,'poor parenting',14.0
+26056404,Objective structured clinical examination,is-a,examination,,,,,'lower earning',13.0
+26056404,Formative assessment,is-a,assessment,,,,,'lower earning',13.0
+32431306,PharmD curriculum,is-a,Professional curriculum,,,,,'vocational training',14.0
+32431306,Calibrated peer review system,is-a,Evaluation system,,,,,'vocational training',15.0
+32431306,Pharmacy student,is-a,Student,,,,,'lower earning',13.0
+32431306,Faculty members,is-a,Evaluators,,,,,'cultural barriers',14.0
+32431306,Web-based calibrated peer review system,is-a,Digital tool,,,,,'bullying at school',14.0
+31642706,Outcome-based education,is-a,Education method,,,,,'vocational training',14.0
+31642706,Integrated teaching,is-a,Education method,,,,,'vocational training',14.0
+31642706,Undergraduate medical program,is-a,Education program,,,,,'vocational training',13.0
+31642706,Self-directed learning,is-a,Learning approach,,,,,'bullying at school',14.0
+31642706,Deep approach,is-a,Learning approach,,,,,'bullying at school',14.0
+36721283,Metaverse,is-a,Virtual-reality platform,,,,,'racial segreggation',18.0
+36721283,Flipped learning,is-a,Educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+36721283,E-learning,is-a,Educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+36721283,Cyber resilience,is-a,Aspect of cybersecurity,,,,,'poor parenting',18.0
+36721283,Mental health,is-a,Aspect of health,,,,,'lower earning',15.0
+36721283,Quantitative design,is-a,Research method,,,,,'lower earning',14.0
+36721283,Survey,is-a,Data collection method,,,,,'racial segreggation',18.0
+36721283,Questionnaire,is-a,Data collection tool,,,,,'poor parenting',16.0
+36721283,Chinese educational institutions,is-a,Educational institution,0.6666666666666667,,'educational infrastructure',,'educational infrastructure',11.0
+36721283,China's education and cybersecurity departments,is-a,Government department,,,,,'employment prospect',15.0
+32921405,Surgical educator,is-a,type of medical professional,,,,,'employment prospect',20.0
+32921405,Teaching style,is-a,method of instruction,,,,,'poor parenting',16.0
+32921405,Learning preference,is-a,individual educational characteristic,,,,,'educational infrastructure',22.0
+26062096,Low-income status,is-a,Socioeconomic factor,,,,,'vocational training',18.0
+26062096,Minority status,is-a,Demographic factor,,,,,'poor parenting',15.0
+26062096,Poor educational outcomes,is-a,Educational factor,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+26062096,Health benefits,is-a,Health outcome,,,,,'lower earning',14.0
+26062096,Out-of-school-time academic programs,is-a,Educational intervention,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+26062096,Academic achievement,is-a,Educational outcome,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+26062096,Health equity,is-a,Health outcome,,,,,'lower earning',14.0
+26062096,Reading-focused programs,is-a,Type of OSTA program,,,,,'employment prospect',16.0
+26062096,Math-focused programs,is-a,Type of OSTA program,,,,,'employment prospect',16.0
+26062096,General academic programs,is-a,Type of OSTA program,,,,,'employment prospect',16.0
+26062096,Programs with minimal academic focus,is-a,Type of OSTA program,,,,,'employment prospect',16.0
+21598149,ELDER Project,is-a,project to address needs of underserved older adults,,,,,'high risk of substance abuse',40.0
+21598149,Worksite education,is-a,method used by ELDER Project,,,,,'employment prospect',20.0
+21598149,Community health centers,is-a,location for implementation of ELDER Project,,,,,'employment prospect',33.0
+21598149,Home health agencies,is-a,location for implementation of ELDER Project,,,,,'employment prospect',33.0
+21598149,Long-term care facilities,is-a,location for implementation of ELDER Project,,,,,'employment prospect',33.0
+21598149,Health Professional Shortage and Medically Underserved Area,is-a,location for implementation of ELDER Project,,,,,'employment prospect',33.0
+21598149,Agency champion,is-a,individual appointed to sustain program after funding ended,,,,,'social-emotional skills training',44.0
+21598149,Case-based simulation-learning approach,is-a,method used in final year of ELDER Project,,,,,'educational infrastructure',31.0
+21598149,On-site education incorporating simulation,is-a,model for translating gerontological knowledge into practice,,,,,'social-emotional skills training',45.0
+37163456,Virtual patients,is-a,computer-based program,,,,,'cultural barriers',17.0
+37163456,Major trauma events,is-a,health crisis,,,,,'lower earning',12.0
+37163456,Trauma team,is-a,group of medical professionals,,,,,'employment prospect',21.0
+37163456,Assisted learning technologies,is-a,educational tool,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+37163456,Civil military trauma exercise,is-a,training method,0.6666666666666667,,'vocational training',,'bullying at school',14.0
+19535180,Non-Medical Prescribing Student,is-a,Student,,,,,'lower earning',13.0
+19535180,Designated Medical Practitioner,is-a,Medical Practitioner,,,,,'racial segreggation',14.0
+19535180,Primary Care Setting,is-a,Health Care Setting,,,,,'poor parenting',12.0
+19535180,Secondary/Tertiary Care Setting,is-a,Health Care Setting,,,,,'poor parenting',12.0
+14566707,Health Information Technology Institute criteria,is-a,Evaluation method,,,,,'vocational training',15.0
+14566707,MSN,is-a,Search engine,,,,,'lower earning',11.0
+14566707,Google,is-a,Search engine,,,,,'lower earning',11.0
+32577034,Student pharmacists,is-a,Pharmacy students,,,,,'poor parenting',14.0
+32577034,International APPE,is-a,Pharmacy practice experience,,,,,'alternative schooling',21.0
+32577034,Consortium of Universities for Global Health,is-a,Health organization,,,,,'racial segreggation',13.0
+32577034,Low-to middle-income country,is-a,Country classification,,,,,'racial segreggation',17.0
+32577034,High-income country,is-a,Country classification,,,,,'racial segreggation',17.0
+28431420,Transesophageal echocardiography,is-a,monitor for patients undergoing surgery,,,,,'poor parenting',27.0
+28431420,TEE,is-a,tool for evaluation of cardiovascular compromise,,,,,'availability of financial aid',36.0
+28431420,TEE,is-a,challenging tool for anesthesiology residents and medical students to learn,,,,,'inaccessible education due to thresholds of assistance programs',58.0
+28431420,Cardiac anatomy,is-a,critical component of learning to use and interpret TEE,,,,,'social-emotional skills training',42.0
+28431420,Generative retrieval,is-a,method for learning cardiac anatomy,,,,,'lower earning',25.0
+28431420,Standard practice,is-a,method for learning cardiac anatomy,,,,,'lower earning',25.0
+28431420,Medical students and anesthesiology residents,is-a,group who can benefit from GR in learning TEE,,,,,'lower earning',33.0
+32887661,Aggression,is-a,Clinical behavior,,,,,'cultural barriers',13.0
+32887661,Acute care staff,is-a,Health care professionals,,,,,'alternative schooling',19.0
+32887661,Simulation-based training,is-a,Aggression management training format,,,,,'vocational training',24.0
+32887661,Randomised controlled trials,is-a,Study type,,,,,'lower earning',14.0
+32887661,Non-randomised controlled trials,is-a,Study type,,,,,'lower earning',14.0
+32887661,Quasi-experimental studies,is-a,Study type,,,,,'lower earning',14.0
+32887661,Observational studies,is-a,Study type,,,,,'lower earning',14.0
+32887661,De-escalation knowledge,is-a,Health care provider-related outcome,,,,,'additional training at school',28.0
+32887661,De-escalation skills,is-a,Health care provider-related outcome,,,,,'additional training at school',28.0
+32887661,De-escalation behavior,is-a,Health care provider-related outcome,,,,,'additional training at school',28.0
+33580716,Geriatrics and palliative medicine specialists,is-a,healthcare professional,,,,,'cultural barriers',17.0
+33580716,Health system leadership,is-a,leadership role,,,,,'lower earning',13.0
+33580716,ISMMS trained leaders,is-a,leaders,,,,,'lower earning',11.0
+33580716,Non-ISMMS trained leaders,is-a,leaders,,,,,'lower earning',11.0
+33580716,Fellowship graduates,is-a,medical professionals,,,,,'racial segreggation',16.0
+17935466,SEM,is-a,statistical technique,,,,,'vocational training',14.0
+17935466,SEM,is-a,tool for multivariate data analysis,,,,,'poor parenting',26.0
+17935466,SEM,is-a,method for measuring latent variables and their interrelationships,,,,,'social-emotional skills training',51.0
+24118831,Online interprofessional education,is-a,educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+24118831,Interprofessional socialization and valuing scale,is-a,assessment tool,,,,,'lower earning',14.0
+24118831,Dementia case study,is-a,learning resource,,,,,'bullying at school',15.0
+24118831,Health science students,is-a,learner,,,,,'lower earning',10.0
+22158003,RNs,is-a,healthcare professional,,,,,'cultural barriers',17.0
+22158003,APNs,is-a,healthcare professional,,,,,'cultural barriers',17.0
+22158003,DNP students,is-a,healthcare professional,,,,,'cultural barriers',17.0
+22158003,DNP statistics course,is-a,educational program,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+20603340,Mainstream program,is-a,Educational placement,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+20603340,Separate program,is-a,Educational placement,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+26780961,Soundfield amplification devices,is-a,Classroom technology,,,,,'lower earning',14.0
+26780961,Dynamic soundfield system,is-a,Classroom technology,,,,,'lower earning',14.0
+26780961,Standardized tests,is-a,Academic performance evaluation method,,,,,'racial segreggation',28.0
+26780961,Signal-to-noise ratio,is-a,Classroom noise measurement method,,,,,'poor parenting',26.0
+26780961,Teacher's voice,is-a,Classroom teaching tool,,,,,'lower earning',15.0
+26780961,Student's academic performance,is-a,Education outcome,,,,,'vocational training',14.0
+26780961,Teacher's vocal strain,is-a,Occupational health issue,,,,,'vocational training',15.0
+26780961,Control group,is-a,Study group,,,,,'lower earning',13.0
+26780961,Experimental group,is-a,Study group,,,,,'lower earning',13.0
+26780961,Prospective cohort study,is-a,Research methodology,,,,,'lower earning',16.0
+24585466,Thai medical school,is-a,Educational Institution,0.6666666666666667,,'educational infrastructure',,'educational infrastructure',11.0
+24585466,First preclinical year medical students,is-a,Student Group,,,,,'lower earning',13.0
+24585466,Pre-MD GPA,is-a,Academic Achievement Indicator,,,,,'employment prospect',23.0
+24585466,Anatomy,is-a,Major Subject,,,,,'poor parenting',12.0
+24585466,Physiology,is-a,Major Subject,,,,,'poor parenting',12.0
+24585466,Biochemistry,is-a,Major Subject,,,,,'poor parenting',12.0
+24585466,Student satisfaction,is-a,Educational Experience Metric,,,,,'educational infrastructure',16.0
+24585466,Percentage of expected reading,is-a,Study Habit Metric,,,,,'cultural barriers',15.0
+24585466,Monthly earnings,is-a,Economic Factor,,,,,'lower earning',14.0
+24585466,Reading after class and near exam time,is-a,Study Habit Metric,,,,,'cultural barriers',15.0
+24585466,Duration of sleeping periods near exam time,is-a,Lifestyle Factor,,,,,'lower earning',14.0
+24585466,Motivation to study medicine,is-a,Personal Factor,,,,,'cultural barriers',14.0
+24585466,Exam performance expectations,is-a,Academic Goal,,,,,'lower earning',14.0
+21652508,Thyroid diseases,is-a,endocrine disorders,,,,,'cultural barriers',15.0
+21652508,Problem-based learning,is-a,pedagogical strategy,,,,,'vocational training',15.0
+21652508,Hypo-/hyperthyroidism,is-a,thyroid dysfunction,,,,,'poor parenting',15.0
+21652508,Body weight,is-a,clue,,,,,'lower earning',13.0
+21652508,Mesenteric vascularization,is-a,clue,,,,,'lower earning',13.0
+21652508,Visceral fat,is-a,clue,,,,,'lower earning',13.0
+21652508,Heart and thyroid size,is-a,clue,,,,,'lower earning',13.0
+21652508,Heart rate,is-a,clue,,,,,'lower earning',13.0
+21652508,Thyroid-stimulating hormone serum concentration,is-a,clue,,,,,'lower earning',13.0
+21652508,Animals,is-a,material,,,,,'lower earning',12.0
+21652508,Pictures,is-a,material,,,,,'lower earning',12.0
+21652508,Small stuffed toy rats,is-a,material,,,,,'lower earning',12.0
+21652508,Illustrations,is-a,material,,,,,'lower earning',12.0
+38183075,Experiential service-learning,is-a,teaching method,,,,,'bullying at school',14.0
+38183075,Preventive Dentistry,is-a,practical course,,,,,'cultural barriers',13.0
+38183075,Oral Health Examination and Education Project,is-a,example of experiential service-learning,,,,,'alternative schooling',29.0
+38183075,Oral epidemiology,is-a,field in dental and oral public health programs,,,,,'educational infrastructure',34.0
+33594691,Asthma,is-a,Chronic Disease,,,,,'lower earning',14.0
+33594691,Exacerbation,is-a,Health Event,,,,,'lower earning',12.0
+33594691,Primary School,is-a,Educational Institution,0.6666666666666667,,'educational infrastructure',,'educational infrastructure',11.0
+33594691,Teacher,is-a,Professional Role,,,,,'vocational training',14.0
+33594691,Asthma Management,is-a,Health Practice,,,,,'poor parenting',12.0
+33594691,Systematic Review,is-a,Research Method,,,,,'lower earning',14.0
+33594691,Legislation,is-a,Legal Document,,,,,'lower earning',13.0
+33594691,Policy,is-a,Guiding Principle,,,,,'bullying at school',13.0
+33594691,Guideline,is-a,Best Practice,,,,,'poor parenting',11.0
+24838440,Anatomical Knowledge,is-a,Type of Clinical Knowledge,,,,,'vocational training',20.0
+24838440,Carpal Bone Test,is-a,Evaluation Method for Anatomical Knowledge,,,,,'availability of financial aid',29.0
+24838440,Chiropractic Students,is-a,Type of University Students,,,,,'employment prospect',21.0
+24838440,Mnemonics,is-a,Learning Style,,,,,'lower earning',12.0
+24838440,Clinical Application,is-a,Learning Style,,,,,'lower earning',12.0
+31213319,Flipped classroom,is-a,Educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+31213319,Traditional classroom,is-a,Educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+31213319,Web-based survey,is-a,Data collection method,,,,,'racial segreggation',18.0
+31213319,Pharmacy education,is-a,Tertiary education,,,,,'racial segreggation',13.0
+31213319,Final exam performance,is-a,Academic performance measurement,,,,,'employment prospect',23.0
+18836990,Allied Health Professional registration,is-a,professional requirement in the UK,,,,,'vocational training',23.0
+18836990,Continuing Professional Development activity,is-a,part of Allied Health Professional registration,,,,,'racial segreggation',33.0
+18836990,Clinical placement component,is-a,part of pre-registration curriculum,,,,,'racial segreggation',25.0
+18836990,Pre-registration curriculum,is-a,factor influencing learner development,,,,,'racial segreggation',29.0
+18836990,Learning approaches inventory,is-a,tool for data collection,,,,,'poor parenting',17.0
+18836990,Placement self-assessment form,is-a,tool for data collection,,,,,'poor parenting',17.0
+24978016,Nursing students,is-a,type of students,,,,,'poor parenting',13.0
+24978016,Social determinants,is-a,factor impacting health,,,,,'poor parenting',16.0
+24978016,Poverty,is-a,social determinant,,,,,'vocational training',13.0
+24978016,Unsafe housing,is-a,social determinant,,,,,'vocational training',13.0
+24978016,Illiteracy,is-a,social determinant,,,,,'vocational training',13.0
+24978016,Patient advocacy service-learning course,is-a,educational course,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+24978016,Low-income individuals,is-a,vulnerable population,,,,,'cultural barriers',16.0
+24978016,Awareness,is-a,learning objective,,,,,'bullying at school',15.0
+24978016,Proficiency,is-a,learning objective,,,,,'bullying at school',15.0
+15304440,Deaf college students,is-a,College students,,,,,'lower earning',13.0
+15304440,Baccalaureate students,is-a,College students,,,,,'lower earning',13.0
+15304440,Sub-baccalaureate students,is-a,College students,,,,,'lower earning',13.0
+15304440,Tutoring outcomes,is-a,Educational outcomes,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+15304440,Tutoring sessions,is-a,Educational activities,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+15304440,Tutors,is-a,Educational personnel,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+34591229,Clinical educators,is-a,type of healthcare professional,,,,,'employment prospect',23.0
+34591229,Speech pathology placements,is-a,type of student placements,,,,,'employment prospect',18.0
+34591229,Demand-Control-Support model,is-a,theoretical model,,,,,'lower earning',14.0
+34591229,Workplace engagement,is-a,type of job-related factor,,,,,'poor parenting',20.0
+34591229,Caseload throughput,is-a,type of workload,,,,,'lower earning',14.0
+34591229,Fuzzy set Qualitative Comparative Analysis (fsQCA),is-a,research method,,,,,'lower earning',14.0
+34591229,Complexity theory,is-a,theoretical framework,,,,,'vocational training',14.0
+18447571,Undergraduate education,is-a,Education,,,,,'lower earning',12.0
+18447571,Music therapy students' epistemological development,is-a,Developmental need,,,,,'employment prospect',13.0
+18447571,Collaborative learning consensus groups,is-a,Teaching method,,,,,'bullying at school',14.0
+18447571,Music therapy,is-a,Profession,,,,,'lower earning',12.0
+23027675,Online teaching module,is-a,Educational tool,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+23027675,In-house software,is-a,Software tool,,,,,'poor parenting',11.0
+23027675,Final examination,is-a,Assessment method,,,,,'employment prospect',16.0
+23027675,Student survey,is-a,Feedback method,,,,,'lower earning',15.0
+23027675,Multiple choice questions,is-a,Assessment type,,,,,'employment prospect',14.0
+23027675,Short answer questions,is-a,Assessment type,,,,,'employment prospect',14.0
+23027675,Do-It-Yourself e-learning approach,is-a,Learning method,,,,,'lower earning',13.0
+23027675,Online resources,is-a,Learning material,,,,,'bullying at school',14.0
+23027675,Musculoskeletal anatomy,is-a,Anatomy topic,,,,,'lower earning',14.0
+14535145,Prerequisite science course performance,is-a,academic performance indicator,,,,,'employment prospect',23.0
+14535145,Tutoring services,is-a,academic support service,,,,,'higher stress level',19.0
+14535145,First semester nursing students,is-a,student group,,,,,'lower earning',13.0
+14535145,Academic performance,is-a,student performance measure,,,,,'cultural barriers',21.0
+14535145,Tutorial sessions,is-a,academic support service,,,,,'higher stress level',19.0
+14535145,Nursing faculty,is-a,academic staff,,,,,'lower earning',14.0
+25650015,Stellenbosch University,is-a,Educational Institution,0.6666666666666667,,'educational infrastructure',,'educational infrastructure',11.0
+25650015,South Africa,is-a,Country,,,,,'lower earning',13.0
+25650015,Basic histology,is-a,Academic Subject,,,,,'lower earning',15.0
+25650015,First-year medical students,is-a,University Students,,,,,'higher stress level',15.0
+25650015,Physiotherapy students,is-a,University Students,,,,,'higher stress level',15.0
+25650015,Dietetic students,is-a,University Students,,,,,'higher stress level',15.0
+25650015,Lecturer,is-a,Academic Staff,,,,,'lower earning',14.0
+25650015,PowerPoint presentation,is-a,Educational Material,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+25650015,Overhead projector,is-a,Teaching Equipment,,,,,'vocational training',16.0
+25650015,Blank sheets of paper,is-a,Writing Material,,,,,'bullying at school',14.0
+25650015,Questionnaire,is-a,Feedback Tool,,,,,'lower earning',14.0
+25650015,Draw-along maps,is-a,Learning Tool,,,,,'lower earning',11.0
+31332889,Teachers' knowledge,is-a,critical component in student learning,,,,,'social-emotional skills training',26.0
+31332889,Phonological awareness,is-a,literacy knowledge,,,,,'lower earning',14.0
+31332889,Phonemic awareness,is-a,literacy knowledge,,,,,'lower earning',14.0
+31332889,Alphabetic principle/phonics,is-a,literacy knowledge,,,,,'lower earning',14.0
+31332889,Morphology,is-a,literacy knowledge,,,,,'lower earning',14.0
+31332889,Low socio-economic status schools,is-a,challenging environment for effective teaching,,,,,'high criminal activities',34.0
+31332889,Syllable counting skills,is-a,literacy knowledge,,,,,'lower earning',14.0
+31332889,Literacy knowledge,is-a,requirement for effective teaching,,,,,'employment prospect',24.0
+19502890,PICCs,is-a,type of catheter,,,,,'poor parenting',13.0
+19502890,PICC care and troubleshooting,is-a,nursing practice,,,,,'poor parenting',13.0
+19502890,PICC educational intervention,is-a,type of education,,,,,'poor parenting',13.0
+19502890,Knowledge,Confidence,"and Psychomotor skills, is-a, components of nursing practice",,,,,'social-emotional skills training',46.0
+19502890,Pretest,posttest,"Likert scale, and skill checklist, is-a, tools for assessment",,,,,'additional training at school',49.0
+19502890,PICC educational programs,is-a,type of nursing education,,,,,'racial segreggation',17.0
+26070493,Nursing Education,is-a,Higher Education,,,,,'lower earning',12.0
+26070493,Self-directed Learning Readiness,is-a,Learning Process,,,,,'employment prospect',14.0
+26070493,Study Process Questionnaire,is-a,Measurement Tool,,,,,'employment prospect',14.0
+26070493,Directed Learning Readiness Scale for Nursing Education,is-a,Measurement Tool,,,,,'employment prospect',14.0
+3966042,Adolescent mother,is-a,Mother,,,,,'lower earning',12.0
+3966042,Nonadolescent mother,is-a,Mother,,,,,'lower earning',12.0
+3966042,Face-to-face interaction,is-a,Interaction,,,,,'lower earning',11.0
+3966042,Teaching interaction,is-a,Interaction,,,,,'lower earning',11.0
+3966042,Ego development,is-a,Psychological factor,,,,,'cultural barriers',16.0
+3966042,Child care support,is-a,Social support,,,,,'racial segreggation',14.0
+3966042,Education,is-a,Socioeconomic factor,,,,,'vocational training',18.0
+3966042,Maternal age,is-a,Demographic factor,,,,,'poor parenting',15.0
+3966042,Cognitive deficit in infants,is-a,Health outcome,,,,,'lower earning',14.0
+3966042,Higher risk subgroup,is-a,Risk group,,,,,'lower earning',13.0
+3966042,Care-giving environment,is-a,Social environment,,,,,'racial segreggation',14.0
+26079658,Out-of-school-time academic programs,is-a,recommendation for academically at-risk students,,,,,'additional training at school',35.0
+26079658,Reading-focused out-of-school-time academic programs,is-a,Out-of-school-time academic programs,,,,,'alternative schooling',29.0
+26079658,Mathematics-focused out-of-school-time academic programs,is-a,Out-of-school-time academic programs,,,,,'alternative schooling',29.0
+26079658,General out-of-school-time academic programs,is-a,Out-of-school-time academic programs,,,,,'alternative schooling',29.0
+26079658,Out-of-school-time academic programs with minimal academic content,is-a,Out-of-school-time academic programs,,,,,'alternative schooling',29.0
+26079658,Academic achievement,is-a,determinant of long-term health,,,,,'employment prospect',24.0
+26079658,Out-of-school-time academic programs,is-a,intervention implemented in racial and ethnic and minority or low-income communities,,,,,'inaccessible education due to thresholds of assistance programs',65.0
+26079658,Out-of-school-time academic programs,is-a,potential tool to improve health equity,,,,,'educational infrastructure',29.0
+1536274,Psychotherapy Supervision Inventory,is-a,Assessment Tool,,,,,'lower earning',14.0
+1536274,Supervisor,is-a,Role in Psychotherapy,,,,,'bullying at school',17.0
+1536274,Resident,is-a,Role in Psychotherapy,,,,,'bullying at school',17.0
+32431304,Doctor of Pharmacy (PharmD) students,is-a,student pharmacists,,,,,'lower earning',14.0
+32431304,Pharmacists' Patient Care Process (PPCP),is-a,patient care process,,,,,'cultural barriers',16.0
+32431304,Ambulatory pharmacy setting,is-a,practice setting,,,,,'racial segreggation',12.0
+32431304,Institutional pharmacy setting,is-a,practice setting,,,,,'racial segreggation',12.0
+18597667,Problem-based learning methodology,is-a,Teaching methodology,,,,,'bullying at school',15.0
+21249172,Office of College-wide Assessment,is-a,Organizational entity,,,,,'vocational training',15.0
+21249172,Medical student competencies,is-a,Educational standard,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+21249172,Associate Dean of College-wide Assessment,is-a,Academic position,,,,,'racial segreggation',14.0
+21249172,Seamless assessment system,is-a,Educational tool,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+21249172,Educational initiatives,is-a,Program,,,,,'lower earning',12.0
+21249172,Data collection and feedback loops,is-a,Assessment method,,,,,'employment prospect',16.0
+21249172,Performance gaps,is-a,Educational challenge,0.6666666666666667,,'educational infrastructure',,'vocational training',9.0
+21249172,Systems approach to assessment,is-a,Methodology,,,,,'lower earning',13.0
+21249172,Medical education expertise,is-a,Professional skill,,,,,'vocational training',14.0
+21249172,Better Data for Teachers,Better Data for Learners,"Better Patient Care, is-a, Guiding principle",,,,,'additional training at school',32.0
+27293228,Faculty members,is-a,Employees in US schools of pharmacy,,,,,'employment prospect',24.0
+27293228,US schools of pharmacy,is-a,Institutions,,,,,'lower earning',14.0
+27293228,American Association of Colleges of Pharmacy,is-a,Association,,,,,'poor parenting',12.0
+27293228,Faculty database,is-a,Data resource,,,,,'lower earning',13.0
+27293228,Educational background,is-a,Characteristic of faculty members,,,,,'high criminal activities',24.0
+27293228,Academic rank,is-a,Characteristic of faculty members,,,,,'high criminal activities',24.0
+27293228,Previous training,is-a,Experience of faculty members,,,,,'higher stress level',23.0
+27293228,Established schools,is-a,Type of schools,,,,,'bullying at school',11.0
+27293228,Newer schools,is-a,Type of schools,,,,,'bullying at school',11.0
+1430462,Staff development department,is-a,department of hospitals,,,,,'employment prospect',14.0
+1430462,Organizational model,is-a,aspect of staff development department,,,,,'employment prospect',28.0
+1430462,Departmental organization,is-a,aspect of staff development department,,,,,'employment prospect',28.0
+1430462,Instructor role,is-a,aspect of staff development department,,,,,'employment prospect',28.0
+1430462,Staff title,is-a,aspect of staff development department,,,,,'employment prospect',28.0
+1430462,Core responsibilities,is-a,aspect of staff development department,,,,,'employment prospect',28.0
+1430462,Staff preparation,is-a,aspect of staff development department,,,,,'employment prospect',28.0
+1430462,Master's degree,is-a,type of staff preparation,,,,,'racial segreggation',17.0
+29023502,POGIL,is-a,pedagogy,,,,,'lower earning',12.0
+29023502,Process skills,is-a,"part of, science pedagogy",,,,,'racial segreggation',19.0
+29023502,Content teaching,is-a,"part of, science pedagogy",,,,,'racial segreggation',19.0
+29023502,POGIL,is-a,"form of, guided-inquiry activities",,,,,'high criminal activities',20.0
+20122153,Naandi Foundation,is-a,Non-profit organization,,,,,'racial segreggation',16.0
+20122153,CHAMPION trial,is-a,Health intervention trial,,,,,'poor parenting',18.0
+20122153,STRIPES trial,is-a,Educational intervention trial,,,,,'educational infrastructure',14.0
+20122153,Control arm,is-a,Group in a trial,,,,,'poor parenting',13.0
+20122153,Intervention arm,is-a,Group in a trial,,,,,'poor parenting',13.0
+20122153,After-school academic support,is-a,Education intervention,,,,,'vocational training',13.0
+20122153,Uniform and clothes kit,is-a,Material support intervention,,,,,'racial segreggation',19.0
+20122153,Primary school students,is-a,Education system stakeholders,,,,,'educational infrastructure',18.0
+20122153,Community members,is-a,Intervention delivery agents,,,,,'vocational training',21.0
+20122153,Rural Andhra Pradesh,is-a,Geographical location,,,,,'racial segreggation',15.0
+20122153,Maths and language test score,is-a,Academic performance measure,,,,,'employment prospect',22.0
+20122153,Cost-benefit analysis,is-a,Economic evaluation method,,,,,'poor parenting',19.0
+12028612,Self-Determination Theory,is-a,psychological theory,,,,,'bullying at school',16.0
+12028612,Teacher-behaviours,is-a,factor influencing student engagement,,,,,'racial segreggation',27.0
+12028612,Autonomy-supportive behaviour,is-a,type of teacher-behaviour,,,,,'poor parenting',18.0
+12028612,Autonomy-suppressive behaviour,is-a,type of teacher-behaviour,,,,,'poor parenting',18.0
+12028612,Relevance of schoolwork,is-a,factor influencing student engagement,,,,,'racial segreggation',27.0
+12028612,Criticism-suppression,is-a,type of autonomy-suppressive behaviour,,,,,'higher stress level',29.0
+12028612,Teacher's role,is-a,factor influencing student autonomy,,,,,'additional training at school',26.0
+12028612,Provision of choice,is-a,indicator of autonomy support,,,,,'educational infrastructure',22.0
+19772151,USAPI health disparities,is-a,health issue,,,,,'lower earning',14.0
+19772151,Lack of skilled healthcare workers,is-a,health service issue,,,,,'cultural barriers',16.0
+19772151,Family support,is-a,social determinant of health,,,,,'racial segreggation',19.0
+19772151,Financial support,is-a,social determinant of health,,,,,'racial segreggation',19.0
+19772151,Personal commitment,is-a,personal determinant of health,,,,,'additional training at school',21.0
+19772151,Social support during school,is-a,social determinant of health,,,,,'racial segreggation',19.0
+19772151,Limited academic preparation,is-a,educational determinant of health,,,,,'additional training at school',19.0
+19772151,Exposure and guidance,is-a,social determinant of health,,,,,'racial segreggation',19.0
+19772151,Family obligations,is-a,social determinant of health,,,,,'racial segreggation',19.0
+19772151,Desirable careers,is-a,economic determinant of health,,,,,'additional training at school',23.0
+19772151,Homesickness,is-a,psychological determinant of health,,,,,'additional training at school',24.0
+19772151,Health career training,is-a,educational determinant of health,,,,,'additional training at school',19.0
+26671345,Para-teachers,is-a,type of teacher,,,,,'lower earning',14.0
+26671345,Remedial education classes,is-a,type of education,,,,,'poor parenting',13.0
+26671345,Cluster-randomized controlled trial,is-a,type of scientific study,,,,,'poor parenting',17.0
+26671345,Literacy and numeracy,is-a,type of educational outcome,,,,,'vocational training',19.0
+26671345,Cost-effectiveness analysis,is-a,type of economic analysis,,,,,'lower earning',20.0
+19421067,Didactic teaching,is-a,method of undergraduate education,,,,,'racial segreggation',24.0
+19421067,Computer assisted learning,is-a,method of undergraduate education,,,,,'racial segreggation',24.0
+19421067,Interactive multimedia-based tutorials,is-a,type of computer assisted learning,,,,,'lower earning',24.0
+19421067,Traditional lecture-based models,is-a,type of didactic teaching,,,,,'vocational training',18.0
+19421067,Arterial blood gas interpretation,is-a,subject in medical education,,,,,'racial segreggation',20.0
+17277603,School-based physical activity intervention,is-a,Physical activity intervention,,,,,'high criminal activities',21.0
+17277603,Action Schools! BC,is-a,School-based physical activity intervention,,,,,'high criminal activities',28.0
+17277603,Canadian Achievement Test,is-a,Academic performance test,,,,,'cultural barriers',20.0
+17277603,Physical Activity Questionnaire for Children,is-a,Physical activity measurement tool,,,,,'racial segreggation',25.0
+17277603,Cluster randomized controlled trial,is-a,Research method,,,,,'lower earning',14.0
+17277603,Academic performance,is-a,Education outcome,,,,,'vocational training',14.0
+17277603,Physical activity,is-a,Health behavior,,,,,'lower earning',13.0
+22473556,Problem-based learning,is-a,pedagogical method,,,,,'poor parenting',16.0
+22473556,Health Sciences Reasoning Test,is-a,psychometric assessment,,,,,'employment prospect',18.0
+22473556,Analysis,is-a,subscale of HSRT,,,,,'cultural barriers',15.0
+22473556,Inference,is-a,subscale of HSRT,,,,,'cultural barriers',15.0
+22473556,Evaluation,is-a,subscale of HSRT,,,,,'cultural barriers',15.0
+22473556,Deductive reasoning,is-a,subscale of HSRT,,,,,'cultural barriers',15.0
+22473556,Inductive reasoning,is-a,subscale of HSRT,,,,,'cultural barriers',15.0
+12164624,PhD,is-a,advanced degree,,,,,'lower earning',14.0
+12164624,MD/MS,is-a,advanced degree,,,,,'lower earning',14.0
+12164624,Fellowship training,is-a,form of research training,,,,,'vocational training',15.0
+14535146,Nursing student with learning disability,is-a,Student,,,,,'lower earning',13.0
+14535146,Baccalaureate nursing student with learning disabilities,is-a,Nursing student,,,,,'bullying at school',14.0
+14535146,Nursing program,is-a,Educational program,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+14535146,Learning disability,is-a,Disability,,,,,'lower earning',14.0
+21561317,Rehabilitation counselling master programme,is-a,Educational programme,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+21561317,Assistive technology device selection,is-a,Professional practice,,,,,'vocational training',12.0
+21561317,Referral of resources,is-a,Professional practice,,,,,'vocational training',12.0
+21561317,Online survey,is-a,Research methodology,,,,,'lower earning',16.0
+21561317,Descriptive statistics,is-a,Data analysis method,,,,,'cultural barriers',17.0
+21561317,Cross tabulations,is-a,Data analysis method,,,,,'cultural barriers',17.0
+21561317,Continuing education,is-a,Professional development method,,,,,'additional training at school',23.0
+1123535,Subjects,is-a,Participant in semantic memory tasks,,,,,'racial segreggation',27.0
+1123535,Semantic memory tasks,is-a,Psychological test,,,,,'cultural barriers',16.0
+1123535,Recall task,is-a,Type of semantic memory task,,,,,'employment prospect',22.0
+1123535,Recognition task,is-a,Type of semantic memory task,,,,,'employment prospect',22.0
+9701300,CPR training,is-a,health education method,,,,,'alternative schooling',18.0
+9701300,Instructor-taught CPR class,is-a,CPR training,0.6666666666666667,,'vocational training',,'lower earning',9.0
+9701300,Self-training video module,is-a,CPR training,0.6666666666666667,,'vocational training',,'lower earning',9.0
+9701300,Social support intervention,is-a,health support method,,,,,'cultural barriers',17.0
+9701300,Successful CPR learners,is-a,group of individuals,,,,,'poor parenting',16.0
+9701300,Unsuccessful CPR learners,is-a,group of individuals,,,,,'poor parenting',16.0
+20098656,Professional continuing education,is-a,"Component of, librarianship",,,,,'vocational training',19.0
+20098656,Online survey,is-a,"Method, for data collection",,,,,'employment prospect',20.0
+20098656,Face-to-face instruction,is-a,"Preferred modality, for librarians",,,,,'vocational training',27.0
+20098656,Cost,is-a,"Influential factor, for attending CE classes",,,,,'additional training at school',32.0
+19811156,Pathology course,is-a,Medical course,,,,,'cultural barriers',14.0
+19811156,Medical students,is-a,Students,,,,,'lower earning',13.0
+19811156,Case seminar,is-a,Learning method,,,,,'lower earning',13.0
+19811156,Student-centred activities,is-a,Learning method,,,,,'lower earning',13.0
+19811156,Open-ended questionnaires,is-a,Evaluation method,,,,,'vocational training',15.0
+19811156,Qualitative content analysis,is-a,Data analysis method,,,,,'cultural barriers',17.0
+28252486,ADN-prepared nurses,is-a,Registered Nurses,,,,,'cultural barriers',14.0
+28252486,Diploma-prepared nurses,is-a,Registered Nurses,,,,,'cultural barriers',14.0
+28252486,BSN-prepared nurses,is-a,Registered Nurses,,,,,'cultural barriers',14.0
+28252486,Institute of Medicine,is-a,Health Organization,,,,,'racial segreggation',13.0
+28252486,Nurse leaders,is-a,Health Professionals,,,,,'poor parenting',15.0
+28252486,Nurse educators,is-a,Health Professionals,,,,,'poor parenting',15.0
+21951244,Self-management,is-a,vital element for optimal health outcomes,,,,,'employment prospect',31.0
+21951244,Health literacy,is-a,determinant of self-management skills,,,,,'alternative schooling',28.0
+21951244,Cognitive load theory,is-a,theoretical model for educational curriculum design,,,,,'social-emotional skills training',36.0
+21951244,Learning mastery theory,is-a,theoretical model for educational curriculum design,,,,,'social-emotional skills training',36.0
+21951244,Teach to Goal,is-a,multisession educational strategy,,,,,'vocational training',21.0
+21951244,Randomized controlled trial,is-a,method for testing intervention strategies,,,,,'educational infrastructure',31.0
+22076712,Primary Care Physicians,is-a,Healthcare Provider,,,,,'cultural barriers',14.0
+22076712,Chronic Pain Patients,is-a,Patient,,,,,'poor parenting',12.0
+22076712,Patient-centered Medical Home (PCMH) innovations,is-a,Healthcare Innovation,,,,,'racial segreggation',15.0
+22076712,Family Medicine Residency Program,is-a,Medical Training Program,,,,,'vocational training',16.0
+22076712,Negative Attitudes,is-a,Psychological State,,,,,'poor parenting',16.0
+22076712,Pain Clinic,is-a,Healthcare Service,,,,,'cultural barriers',14.0
+22076712,Pretest and Posttest,is-a,Evaluation Method,,,,,'vocational training',15.0
+22076712,Family Medicine Residents,is-a,Medical Trainee,,,,,'vocational training',12.0
+28406656,Tulsa's universal school-based pre-K program,is-a,Educational program,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+28406656,Path modeling techniques,is-a,Research method,,,,,'lower earning',14.0
+28406656,Classroom Assessment Scoring System (CLASS),is-a,Assessment tool,,,,,'lower earning',14.0
+28406656,Instructional Support,is-a,Aspect of classroom quality,,,,,'alternative schooling',22.0
+28406656,Emotional Support,is-a,Aspect of classroom quality,,,,,'alternative schooling',22.0
+28406656,Classroom Management,is-a,Aspect of classroom quality,,,,,'alternative schooling',22.0
+28406656,Kindergarten academic skills,is-a,Educational outcome,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+28406656,Middle-school test scores,is-a,Educational outcome,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+28406656,Gender and income differences,is-a,Social determinant factor,,,,,'racial segreggation',17.0
+28406656,Pre-K quality,is-a,Educational determinant,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+28406656,PsycINFO Database Record,is-a,Source of information,,,,,'racial segreggation',16.0
+24730693,Fear appeals,is-a,type of persuasive messages,,,,,'poor parenting',20.0
+24730693,Self-determined motivation,is-a,type of student motivation,,,,,'racial segreggation',19.0
+24730693,Non-self-determined motivation,is-a,type of student motivation,,,,,'racial segreggation',19.0
+24730693,Examination performance,is-a,type of academic performance,,,,,'employment prospect',22.0
+24708279,Writing abilities,is-a,Academic skill,,,,,'lower earning',13.0
+24708279,Performance feedback,is-a,Educational intervention,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+24708279,Generalization,is-a,Learning outcome,,,,,'bullying at school',14.0
+24708279,Maintenance,is-a,Long-term learning effect,,,,,'lower earning',14.0
+24708279,Practice-only condition,is-a,Learning method,,,,,'lower earning',13.0
+24708279,Performance feedback condition,is-a,Learning method,,,,,'lower earning',13.0
+23446934,Tier 1 Program of the Project P.A.T.H.S.,is-a,Program,,,,,'lower earning',12.0
+23446934,Classroom control,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+23446934,Interactive delivery method,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+23446934,Use of positive and supportive feedback,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+23446934,Opportunity for reflection,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+23446934,Degree of achievement of the objectives,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+23446934,Time management,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+23446934,Lesson preparation,is-a,Aspect of program delivery,,,,,'poor parenting',20.0
+20946674,Effective teaching,is-a,understanding of both content and process knowledge,,,,,'additional training at school',38.0
+20946674,Preceptors with content expertise,is-a,tutor type,,,,,'poor parenting',12.0
+20946674,Preceptors with process expertise,is-a,tutor type,,,,,'poor parenting',12.0
+20946674,Structured small group environment,is-a,teaching method,,,,,'bullying at school',14.0
+20728688,Teacher-student relationship,is-a,type of relationship,,,,,'poor parenting',14.0
+20728688,Congruent Positive,is-a,type of teacher-student relationship,,,,,'racial segreggation',26.0
+20728688,Congruent Negative,is-a,type of teacher-student relationship,,,,,'racial segreggation',26.0
+20728688,Incongruent Child Negative,is-a,type of teacher-student relationship,,,,,'racial segreggation',26.0
+20728688,Incongruent Child Positive,is-a,type of teacher-student relationship,,,,,'racial segreggation',26.0
+27156917,American Sign Language/English bilingual education,is-a,educational approach,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+27156917,d/Deaf and hard of hearing students,is-a,student category,,,,,'lower earning',13.0
+27156917,d/Dhh Multilingual Learners (DMLs),is-a,student category,,,,,'lower earning',13.0
+27156917,longitudinal case study,is-a,research method,,,,,'lower earning',14.0
+27156917,semistructured interviews,is-a,research tool,,,,,'lower earning',13.0
+27156917,assessment data,is-a,research data,,,,,'lower earning',13.0
+27156917,document reviews,is-a,research tool,,,,,'lower earning',13.0
+27156917,educational placements,is-a,educational provision,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+27156917,early communication and language needs,is-a,educational need,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+27156917,instructional techniques and assessments,is-a,teaching method,,,,,'bullying at school',14.0
+27156917,heritage language learning,is-a,language education approach,,,,,'alternative schooling',22.0
+21305981,Early Language and Literacy Classroom Observation,is-a,research tool,,,,,'lower earning',13.0
+21305981,Emergent literacy,is-a,cognitive development aspect,,,,,'employment prospect',18.0
+21305981,Classroom environment,is-a,factor in emergent literacy,,,,,'poor parenting',19.0
+21305981,DHH children,is-a,group of children with hearing impairments,,,,,'employment prospect',32.0
+21305981,Vocabulary,is-a,aspect of emergent literacy,,,,,'poor parenting',19.0
+21305981,Phonological awareness,is-a,aspect of emergent literacy,,,,,'poor parenting',19.0
+21305981,Preschool,is-a,early education level,,,,,'higher stress level',15.0
+21305981,Kindergarten,is-a,early education level,,,,,'higher stress level',15.0
+21305981,First-grade,is-a,early education level,,,,,'higher stress level',15.0
+21305981,Hierarchical linear analysis,is-a,statistical method,,,,,'vocational training',17.0
+15107288,Johns Hopkins Faculty Development Program in Teaching Skills,is-a,faculty development program,,,,,'employment prospect',18.0
+15107288,Clinician-educators,is-a,profession,,,,,'lower earning',12.0
+15107288,Teaching skills,is-a,professional skills,,,,,'vocational training',14.0
+15107288,Experiential learning with reflection,is-a,educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+15107288,Personal awareness sessions,is-a,educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+15107288,Information provision,is-a,educational method,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0
+11438268,Third-year medical students,have,deficiencies in physical examination skills,,,,,'vocational training',32.0
+11438268,Formal teaching,increases,competency in physical examination skills,,,,,'vocational training',31.0
+11438268,Supervised experiences with clinical faculty,increases,competency in physical examination skills,,,,,'vocational training',31.0
+22324882,Computer-assisted teaching method,is-a,Teaching method,,,,,'bullying at school',14.0
+22324882,Handwashing task checklist,is-a,Evaluation tool,,,,,'vocational training',14.0
+22324882,Learning motivation questionnaire,is-a,Evaluation tool,,,,,'vocational training',14.0
+22324882,Computerized teaching station,is-a,Teaching tool,,,,,'bullying at school',12.0
+22324882,Faucet,is-a,Component of computerized teaching station,,,,,'poor parenting',31.0
+22324882,Soap dispenser,is-a,Component of computerized teaching station,,,,,'poor parenting',31.0
+22324882,Towel dispenser,is-a,Component of computerized teaching station,,,,,'poor parenting',31.0
+22324882,Animations,is-a,Component of computerized teaching station,,,,,'poor parenting',31.0
+22324882,Study group,is-a,Type of participant group,,,,,'poor parenting',16.0
+22324882,Control group,is-a,Type of participant group,,,,,'poor parenting',16.0
+22324882,Handwashing performance,is-a,Learning outcome,,,,,'bullying at school',14.0
+22324882,Learning motivation,is-a,Learning outcome,,,,,'bullying at school',14.0
+10676542,Poor achievement,is-a,early risk behavior,,,,,'cultural barriers',15.0
+10676542,Concentration problems,is-a,early risk behavior,,,,,'cultural barriers',15.0
+10676542,Aggression,is-a,early risk behavior,,,,,'cultural barriers',15.0
+10676542,Shy behaviors,is-a,early risk behavior,,,,,'cultural barriers',15.0
+10676542,Classroom-centered intervention,is-a,preventive intervention,,,,,'alternative schooling',17.0
+10676542,Family-school partnership intervention,is-a,preventive intervention,,,,,'alternative schooling',17.0
+10676542,Behavior management,is-a,instructional skill,,,,,'vocational training',15.0
+10676542,Parent-teacher communication,is-a,parental teaching strategy,,,,,'additional training at school',19.0
+10676542,Child behavior management,is-a,parental teaching strategy,,,,,'additional training at school',19.0
+20380949,Academic initiative,is-a,student characteristic,,,,,'cultural barriers',17.0
+20380949,Teacher support,is-a,school class environment factor,,,,,'poor parenting',23.0
+20380949,Classmate support,is-a,school class environment factor,,,,,'poor parenting',23.0
+20380949,Pedagogical caring,is-a,form of teacher support,,,,,'employment prospect',18.0
+20380949,Autonomy support,is-a,form of teacher support,,,,,'employment prospect',18.0
+20380949,Fairness,is-a,form of teacher support,,,,,'employment prospect',18.0
+20380949,Friendliness,is-a,form of teacher support,,,,,'employment prospect',18.0
+2911494,Poverty,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Education,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Employment,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Social Support,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Access to Health Care,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Housing,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Neighborhood Environment,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Food Security,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Transportation,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+2911494,Social Exclusion,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+9425611,Early elementary school teachers,is-a,profession,,,,,'lower earning',12.0
+9425611,Tobacco prevention education,is-a,health education topic,,,,,'alternative schooling',17.0
+9425611,Centers for Disease Control and Prevention guidelines,is-a,health guidelines,,,,,'lower earning',14.0
+9425611,Bachelor's degree,is-a,educational qualification,0.6666666666666667,,'educational infrastructure',,'vocational training',13.0
+9425611,Master's degree,is-a,educational qualification,0.6666666666666667,,'educational infrastructure',,'vocational training',13.0
+9425611,Tobacco prevention training,is-a,professional training,0.6666666666666667,,'vocational training',,'vocational training',7.0
+22398497,Interprofessional course,is-a,educational program,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+22398497,Professional parameters,is-a,learning goal,,,,,'lower earning',11.0
+22398497,Collaboration,is-a,learning goal,,,,,'lower earning',11.0
+22398497,Intervention plan design,is-a,learning goal,,,,,'lower earning',11.0
+22398497,Journal,is-a,evaluation method,,,,,'vocational training',15.0
+22398497,Participation in rounds,is-a,evaluation method,,,,,'vocational training',15.0
+22398497,OSCEs,is-a,evaluation method,,,,,'vocational training',15.0
+22398497,Perception clarity,is-a,learning result,,,,,'lower earning',13.0
+22398497,Effective communication,is-a,learning result,,,,,'lower earning',13.0
+22398497,Professional contribution understanding,is-a,learning result,,,,,'lower earning',13.0
+22398497,Community perception understanding,is-a,learning result,,,,,'lower earning',13.0
+19177384,Study methods,is-a,Learning strategy,,,,,'lower earning',14.0
+19177384,Academic achievement,is-a,Outcome of study methods,,,,,'racial segreggation',19.0
+19177384,Long-term recall of information,is-a,Outcome of study methods,,,,,'racial segreggation',19.0
+19177384,Deep-processing students,is-a,Type of student,,,,,'poor parenting',13.0
+19177384,Surface-approach students,is-a,Type of student,,,,,'poor parenting',13.0
+21240780,TBL,is-a,Learning Method,,,,,'lower earning',13.0
+21240780,SGL,is-a,Learning Method,,,,,'lower earning',13.0
+21240780,Ambulatory Medicine Clerkship,is-a,Clinical Practice,,,,,'vocational training',14.0
+21240780,Knowledge Examination,is-a,Assessment Method,,,,,'employment prospect',16.0
+1893310,Computer-managed instruction,is-a,teaching method,,,,,'bullying at school',14.0
+1893310,Traditional classroom course of study,is-a,teaching method,,,,,'bullying at school',14.0
+1893310,Analysis of covariance,is-a,statistical method,,,,,'vocational training',17.0
+18274032,Biodefense Digital Library,is-a,Digital Library,,,,,'cultural barriers',13.0
+18274032,Biodefense Digital Library,is-a,Learning Collaboratory,,,,,'racial segreggation',17.0
+18274032,Biodefense News Stories,is-a,Educational Resource,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+18274032,Biodefense Graduate Program,is-a,Educational Program,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+19088584,Asthma,is-a,chronic disease,,,,,'lower earning',14.0
+19088584,Watch,Discover,"Think and Act, is-a, computer-based asthma management simulation",,,,,'high risk of substance abuse',49.0
+19088584,Impact and outcome evaluation studies,is-a,method of accountability,,,,,'poor parenting',18.0
+8294644,National Council Licensure Examination,is-a,Examination,,,,,'lower earning',13.0
+8294644,baccalaureate nursing program,is-a,Educational Program,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+8294644,junior year,is-a,Academic Year,,,,,'lower earning',13.0
+8294644,senior year,is-a,Academic Year,,,,,'lower earning',13.0
+8294644,graduation,is-a,Academic Milestone,,,,,'poor parenting',15.0
+8294644,predictive data,is-a,Information,,,,,'poor parenting',11.0
+8294644,student performance,is-a,Academic Performance,,,,,'lower earning',15.0
+8294644,interventions for at-risk students,is-a,Academic Support,,,,,'lower earning',15.0
+8294644,remediation,is-a,Academic Support,,,,,'lower earning',15.0
+2927381,Experiential learning,is-a,Learning method,,,,,'lower earning',13.0
+2927381,Psychiatric nurse students,is-a,Student group,,,,,'lower earning',13.0
+2927381,Nurse educators,is-a,Professional group,,,,,'vocational training',14.0
+2927381,Pilot study,is-a,Research method,,,,,'lower earning',14.0
+2927381,Content analysis,is-a,Data interpretation method,,,,,'racial segreggation',19.0
+19655629,Low health literacy,is-a,healthcare issue,,,,,'poor parenting',13.0
+19655629,Healthcare administration students,is-a,group needing health literacy education,,,,,'racial segreggation',28.0
+19655629,Experiential learning,is-a,pedagogical approach,,,,,'employment prospect',16.0
+17639018,ADPS project,is-a,large-scale research project,,,,,'employment prospect',20.0
+17639018,Language approach data,is-a,key variable in educational achievement research,,,,,'educational infrastructure',32.0
+17639018,No-exclusion model of service,is-a,approach to educational service,,,,,'vocational training',22.0
+17639018,Language-related data,is-a,variable in deaf pupils' educational achievement,,,,,'availability of financial aid',35.0
+17639018,Deaf Pupils in Scotland,is-a,population in educational research,,,,,'vocational training',24.0
+17639018,British Sign Language/English provision,is-a,type of language provision in Scotland,,,,,'additional training at school',27.0
+17639018,Linguistic requirements,is-a,factor in language provision,,,,,'alternative schooling',21.0
+17639018,Local factors,is-a,determinant of language provision,,,,,'alternative schooling',25.0
+17639018,Responsive policies,is-a,factor in language provision,,,,,'alternative schooling',21.0
+17639018,Language situations over time,is-a,complexity in large-scale studies,,,,,'employment prospect',24.0
+15303585,Peer-tutoring program,is-a,Retention strategy,,,,,'vocational training',13.0
+15303585,Medical-surgical nursing course,is-a,Nursing program,,,,,'lower earning',14.0
+15303585,Student attrition rate,is-a,Educational challenge,0.6666666666666667,,'educational infrastructure',,'vocational training',9.0
+1482008,Behavior analysis,is-a,selection science,,,,,'vocational training',14.0
+1482008,B. F. Skinner,is-a,advocate of selectionism,,,,,'vocational training',16.0
+1482008,Morningside Model of Generative Instruction,is-a,application of selection sciences,,,,,'vocational training',22.0
+1482008,Morningside Model of Generative Instruction,is-a,solution for adult literacy and children's learning and attention problems,,,,,'additional training at school',54.0
+1482008,School curricula,is-a,subject of analysis for key component elements and underlying tool skills,,,,,'additional training at school',58.0
+15470834,DMFT-12 index,is-a,Dental caries measurement tool,,,,,'racial segreggation',21.0
+15470834,Adult literacy rate,is-a,Educational indicator,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+15470834,Mean years of schooling,is-a,Educational indicator,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+15470834,Pupil-teacher ratio for primary level,is-a,Educational indicator,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+15470834,Educational expenditure as a percentage of gross national product,is-a,Educational indicator,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+15470834,Primary enrollment ratio,is-a,Educational indicator,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+15470834,Percent completing primary level,is-a,Educational indicator,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+22273558,Horizontal violence,is-a,Workplace violence,,,,,'poor parenting',13.0
+22273558,Intimidation,is-a,Form of horizontal violence,,,,,'vocational training',20.0
+22273558,Coercion,is-a,Form of horizontal violence,,,,,'vocational training',20.0
+22273558,Bullying,is-a,Form of horizontal violence,,,,,'vocational training',20.0
+22273558,Criticism,is-a,Form of horizontal violence,,,,,'vocational training',20.0
+22273558,Exclusion,is-a,Form of horizontal violence,,,,,'vocational training',20.0
+22273558,Belittling,is-a,Form of horizontal violence,,,,,'vocational training',20.0
+15505959,Reciprocal teaching,is-a,metacognitive strategy,,,,,'alternative schooling',16.0
+15505959,Reciprocal teaching,is-a,effective comprehension technique,,,,,'vocational training',25.0
+15505959,Students with learning disabilities,is-a,group benefiting from reciprocal teaching,,,,,'social-emotional skills training',30.0
+10295805,Psychiatric social worker,is-a,Professional role in healthcare,,,,,'educational infrastructure',21.0
+10295805,Client-centred activity,is-a,Professional activity of social workers,,,,,'additional training at school',26.0
+10295805,Teaching,is-a,Professional activity of social workers,,,,,'additional training at school',26.0
+10295805,Research,is-a,Professional activity of social workers,,,,,'additional training at school',26.0
+10295805,Academic appointment,is-a,Form of professional recognition,,,,,'high criminal activities',22.0
+10295805,Psychiatric Residency Training Program,is-a,Training program in healthcare,,,,,'racial segreggation',22.0
+8999476,Smoking,is-a,health risk behavior,,,,,'cultural barriers',15.0
+8999476,Secondary school pupils,is-a,demographic group,,,,,'poor parenting',14.0
+8999476,Occasional smoking,is-a,form of smoking,,,,,'lower earning',12.0
+8999476,Cigarette,is-a,tobacco product,,,,,'employment prospect',14.0
+8999476,Friends' influence,is-a,social factor,,,,,'lower earning',13.0
+8999476,Advertising,is-a,environmental factor,,,,,'employment prospect',15.0
+8999476,Health education,is-a,preventive measure,,,,,'alternative schooling',16.0
+8999476,Legislative measures on advertising,is-a,policy intervention,,,,,'poor parenting',13.0
+12189125,problem-based writing with peer review,is a,teaching method,,,,,'bullying at school',14.0
+12189125,didactic lectures,is a,teaching method,,,,,'bullying at school',14.0
+12189125,group work,is a,teaching method,,,,,'bullying at school',14.0
+12189125,Calibrated Peer Review,is a,Web-delivered program,,,,,'employment prospect',17.0
+12189125,student essays,is a,type of assignment,,,,,'poor parenting',14.0
+12189125,anonymous peer review,is a,type of feedback method,,,,,'poor parenting',19.0
+12189125,class discussion,is a,type of teaching method,,,,,'lower earning',17.0
+20548189,Nursing students,are a type of,Students,,,,,'lower earning',13.0
+20548189,NCLEX,is a type of,Examination,,,,,'lower earning',13.0
+20548189,Stress,is a type of,Emotional response,,,,,'vocational training',11.0
+20548189,Maladaptive behaviors,are a type of,Behavior,,,,,'lower earning',12.0
+20548189,3-credit course,is a type of,Course,,,,,'lower earning',12.0
+20548189,Cognitive behavioral techniques,are a type of,Learning strategy,,,,,'lower earning',14.0
+20548189,Metacognitive strategies,are a type of,Learning strategy,,,,,'lower earning',14.0
+20548189,Test-taking strategies,are a type of,Learning strategy,,,,,'lower earning',14.0
+20548189,Simulated NCLEX experience,is a type of,Learning strategy,,,,,'lower earning',14.0
+20548189,Individualized plan of preparation,is a type of,Learning strategy,,,,,'lower earning',14.0
+19811159,A study,is-a,investigation,,,,,'racial segreggation',13.0
+19811159,PBL tutors,is-a,type of tutor,,,,,'lower earning',13.0
+19811159,Non-staff tutors,is-a,type of tutor,,,,,'lower earning',13.0
+19811159,Staff tutors,is-a,type of tutor,,,,,'lower earning',13.0
+19811159,Student satisfaction,is-a,measure of effectiveness,,,,,'poor parenting',18.0
+19811159,Learning outcomes,is-a,measure of effectiveness,,,,,'poor parenting',18.0
+3635551,Nurse educator,is-a,Researcher,,,,,'lower earning',11.0
+3635551,Research productivity,is-a,Academic performance indicator,,,,,'employment prospect',23.0
+3635551,Teaching quality,is-a,Academic performance indicator,,,,,'employment prospect',23.0
+2928145,Tenure Decision Factor Inventory,is-a,Questionnaire,,,,,'lower earning',13.0
+2928145,Achievement,is-a,Tenure criteria,,,,,'cultural barriers',13.0
+2928145,Ascriptive,is-a,Tenure criteria,,,,,'cultural barriers',13.0
+2928145,Internal Political,is-a,Tenure criteria,,,,,'cultural barriers',13.0
+2928145,External Political,is-a,Tenure criteria,,,,,'cultural barriers',13.0
+2928145,Physics,is-a,Academic discipline,,,,,'lower earning',16.0
+2928145,Psychology,is-a,Academic discipline,,,,,'lower earning',16.0
+2928145,Sociology,is-a,Academic discipline,,,,,'lower earning',16.0
+2928145,Nursing,is-a,Academic discipline,,,,,'lower earning',16.0
+2928145,Management,is-a,Academic discipline,,,,,'lower earning',16.0
+21181674,Poverty,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Education,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Employment,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Social Support Networks,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Access to Health Care,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Housing,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Transportation,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Food Security,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Air Quality,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+21181674,Water Quality,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+11868850,Poverty,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+11868850,Education,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+11868850,Employment,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+11868850,Social Support,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+11868850,Access to Health Services,is-a,Social Determinant of Health,,,,,'racial segreggation',19.0
+36849472,National Collaborative for Education to Address the Social Determinants of Health,is-a,Faculty and Staff,,,,,'cultural barriers',15.0
+36849472,Digital platform for health professions,is-a,Resource,,,,,'lower earning',13.0
+36849472,Curricular work related to SDOH,is-a,Content on digital platform,,,,,'vocational training',21.0
+36849472,Health professions educators,is-a,Users of the digital platform,,,,,'vocational training',23.0
+36849472,Undergraduate and graduate medicine,nursing,"pharmacy, continuing education, is-a, Fields of the educators",,,,,'educational infrastructure',45.0
+36849472,Teaching practice,is-a,Application of the digital platform,,,,,'additional training at school',24.0
+36849472,Work in this field,is-a,Content to be disseminated,,,,,'alternative schooling',19.0
+11760297,African Americans,is-a,socio-economic group,,,,,'lower earning',16.0
+11760297,African American nurses,is-a,healthcare professionals,,,,,'cultural barriers',18.0
+11760297,Health education,is-a,health service,,,,,'lower earning',12.0
+11760297,Health literacy sessions,is-a,health service,,,,,'lower earning',12.0
+11760297,Health status,is-a,health indicator,,,,,'lower earning',15.0
+11760297,Safety,is-a,social determinant of health,,,,,'racial segreggation',19.0
+11760297,Section eight housing area,is-a,low-income housing,,,,,'lower earning',13.0
+31238933,TPACK-Practical Scale,is-a,Assessment tool,,,,,'lower earning',14.0
+31238933,Attitude towards Technology Scale,is-a,Assessment tool,,,,,'lower earning',14.0
+31238933,Ward's minimum variance hierarchical clustering analysis,is-a,Data Analysis Method,,,,,'cultural barriers',17.0
+31238933,Discriminant function analysis,is-a,Data Analysis Method,,,,,'cultural barriers',17.0
+31238933,Multinomial logistic regression analysis,is-a,Data Analysis Method,,,,,'cultural barriers',17.0
+31238933,Simulation-based medical education,is-a,Teaching Method,,,,,'bullying at school',14.0
+19395223,MDEP,is-a,Education Program,,,,,'vocational training',13.0
+19395223,Diabetes knowledge,is-a,Health Literacy aspect,,,,,'employment prospect',16.0
+19395223,Low literacy,is-a,Health Literacy aspect,,,,,'employment prospect',16.0
+11899011,This study,is-a,comparison of teaching methods,,,,,'vocational training',20.0
+11899011,Achievement,is-a,measure of academic success,,,,,'alternative schooling',22.0
+11899011,Attitudes toward success in mathematics,is-a,psychological factor,,,,,'cultural barriers',16.0
+11899011,Mathematics anxiety,is-a,psychological factor,,,,,'cultural barriers',16.0
+11899011,Graphic calculator,is-a,teaching tool,,,,,'bullying at school',12.0
+11899011,Computer algebra system Maple,is-a,teaching tool,,,,,'bullying at school',12.0
+11899011,Technology based text book,is-a,teaching tool,,,,,'bullying at school',12.0
+11899011,Teacher-made achievement test,is-a,assessment method,,,,,'employment prospect',16.0
+11214850,Nursing,is-a,Profession,,,,,'lower earning',12.0
+11214850,Alcohol Early Intervention Education Package,is-a,Education Package,,,,,'vocational training',12.0
+11214850,Bachelor of Nursing,is-a,University Education,,,,,'racial segreggation',15.0
+11214850,Alcohol-related problems,is-a,Health Issue,,,,,'lower earning',14.0
+11214850,Early intervention,is-a,Strategy,,,,,'lower earning',12.0
+11214850,Knowledge,is-a,Requirement for nursing,,,,,'employment prospect',16.0
+11214850,Attitude,is-a,Requirement for nursing,,,,,'employment prospect',16.0
+11214850,Skills,is-a,Requirement for nursing,,,,,'employment prospect',16.0
+17623952,Childhood asthma,is-a,health concern,,,,,'lower earning',13.0
+17623952,Inhaled therapy,is-a,home management for children with asthma,,,,,'employment prospect',30.0
+17623952,Metered-dose inhaler with a spacer,is-a,tool for asthma management,,,,,'cultural barriers',20.0
+17623952,Asthma education,is-a,method for improving skills and confidence among parents,,,,,'social-emotional skills training',41.0
+17623952,Educational intervention,is-a,method for improving inhaler technique,,,,,'vocational training',28.0
+17623952,Educational intervention,is-a,method for improving knowledge of spacer cleaning technique,,,,,'additional training at school',46.0
+28859649,Blended Learning,is-a,Learning Method,,,,,'lower earning',13.0
+28859649,Problem Based Learning,is-a,Learning Method,,,,,'lower earning',13.0
+28859649,Participatory Action Research,is-a,Research Method,,,,,'lower earning',14.0
+28859649,Brookfield's model,is-a,Reflection Model,,,,,'lower earning',15.0
+28859649,Grounded theory analysis,is-a,Data Analysis Method,,,,,'cultural barriers',17.0
+11783555,Educational reform,is a,policy,,,,,'lower earning',13.0
+11783555,Minimum competency testing standards,is a,educational standard,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+11783555,Graduation requirements,is a,educational standard,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+11783555,Public high school students,is a,student group,,,,,'lower earning',13.0
+29412052,'Route-90 Collaborative',is-a,'Collaborative Initiative',,,,,'alternative schooling',16.0
+29412052,'Institute of Medicine's (IOM) Framework for Educating Health Professionals',is-a,'Educational Framework',0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+29412052,'Reproductive health',is-a,'Interprofessional Course',,,,,'high risk of substance abuse',18.0
+29412052,'Global health',is-a,'Interprofessional Course',,,,,'high risk of substance abuse',18.0
+29412052,'Educational intervention',is-a,'Teaching Method',,,,,'bullying at school',12.0
+29412052,'Course evaluations',is-a,'Feedback Mechanism',,,,,'lower earning',14.0
+29412052,'Social Determinants of Health',is-a,'Healthcare Topic',,,,,'poor parenting',12.0
+36098540,SDOH education,is-a,"part of, nursing program curricula",,,,,'additional training at school',26.0
+36098540,Cultural sensitivity and diversity,is-a,"theme, in SDOH",,,,,'lower earning',13.0
+36098540,Social,cultural,"economic, and political factors, are-a, influences, on health",,,,,'additional training at school',45.0
+11725389,Undergraduate education,is-a,type of education,,,,,'poor parenting',13.0
+11725389,University teachers,is-a,type of educators,,,,,'poor parenting',14.0
+11725389,Medical diploma,is-a,type of diploma,,,,,'lower earning',14.0
+11725389,Graduates,is-a,result of education,,,,,'racial segreggation',14.0
+36213020,Colleges and Universities,is-a,Educational Institutions,0.6666666666666667,,'educational infrastructure',,'educational infrastructure',11.0
+36213020,Teaching,is-a,Educational Activity,0.6666666666666667,,'educational infrastructure',,'vocational training',10.0
+36213020,Scientific Research,is-a,Academic Activity,,,,,'lower earning',14.0
+36213020,Labor Education,is-a,Form of Education,,,,,'racial segreggation',14.0
+36213020,Students,is-a,Group of Individuals,,,,,'poor parenting',16.0
+36402731,Digital training resources,is-a,educational tool,0.6666666666666667,,'educational infrastructure',,'vocational training',11.0
+36402731,Digital resources,is-a,part of surgical curricula,,,,,'cultural barriers',18.0
+36402731,Surgical residents,is-a,user of digital resources,,,,,'vocational training',20.0
+36402731,Semi-structured interviews,is-a,research method,,,,,'lower earning',14.0
+36402731,Thematic analysis,is-a,data analysis method,,,,,'cultural barriers',17.0
+36402731,Digital resources,is-a,support for surgical education,,,,,'racial segreggation',21.0
+36402731,On-the-job training,is-a,type of surgical education,,,,,'racial segreggation',18.0
+36402731,Individual needs,is-a,consideration for digital resources implementation,,,,,'educational infrastructure',37.0
+12053778,Teenagers,is-a,Study subjects,,,,,'lower earning',14.0
+12053778,CONASIDA,is-a,Mexican Council for AIDS Prevention and Control,,,,,'additional training at school',34.0
+12053778,Multinomial logistic regression,is-a,Data analysis method,,,,,'cultural barriers',17.0
+12053778,Sexual education training strategies,is-a,Prevention method,,,,,'poor parenting',15.0
+12053778,Father's schooling level,is-a,Socioeconomic factor,,,,,'vocational training',18.0
+18723595,Specific Language Impairment,is-a,Language Disorder,,,,,'cultural barriers',15.0
+18723595,Print Knowledge Delay,is-a,Learning Difficulty,,,,,'bullying at school',16.0
+18723595,Attentional Difficulties,is-a,Cognitive Impairment,,,,,'alternative schooling',17.0
+12444000,Allied Health,is-a,College,,,,,'lower earning',12.0
+12444000,Arts and Science,is-a,College,,,,,'lower earning',12.0
+12444000,Education,is-a,College,,,,,'lower earning',12.0
+12444000,Graduate School,is-a,College,,,,,'lower earning',12.0
+12444000,PGY 412G,is-a,Advanced-level course in human physiology,,,,,'additional training at school',31.0
+12444000,Student's performance,is-a,Assessment measure,,,,,'employment prospect',15.0
+12444000,Mean percentage of correct answers,is-a,Assessment measure,,,,,'employment prospect',15.0
+12444000,Academic year,is-a,Time period,,,,,'lower earning',11.0
+12444000,Letter grade adjustments,is-a,Assessment measure,,,,,'employment prospect',15.0
+12444000,Special educational programs,is-a,Educational intervention,0.6666666666666667,,'educational infrastructure',,'vocational training',12.0

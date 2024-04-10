@@ -1,0 +1,4758 @@
+Health service
+Reproductive health service use
+Survey
+National Survey of Family Growth
+Biological factor
+Reproductive characteristics
+Societal factor
+Sociodemographic characteristics
+Biological factor
+Age at menarche
+Health condition
+Gynecological diagnosis
+Behavioral factor
+Sexual intercourse experience
+Sociodemographic characteristic
+Mother's education
+Societal factor
+Childhood family situation
+Economic factor
+Health insurance
+Social factor
+Religious participation
+Sociodemographic characteristic
+Education
+Geographic factor
+Birthplace
+Policy
+Public health strategies
+Societal factor
+Societal disadvantage
+health issue
+Health disparities
+social determinant of health
+Race/ethnicity
+social determinant of health
+Financial status
+health indicator
+Self-care behaviors
+health condition
+Heart failure
+treatment method
+Medication regimen
+assessment tool
+Self-Care of Heart Failure Index
+statistical method
+Survival analysis
+health outcome
+Cardiac event-free survival
+racial/ethnic group
+African-American race/ethnicity
+racial/ethnic group
+Caucasian race/ethnicity
+negative health result
+Poor outcomes
+patients in the Veterans Affairs (VA
+Women
+user of the VA Healthcare System
+Veteran
+issue in the general population
+Racial disparities
+issue in the general population
+Ethnic disparities
+method to assess health care use, quality, and satisfaction
+Studies on racial and ethnic health care disparities
+service investigated in studies
+Contraception provision/access
+service investigated in studies
+Treatment of low bone mass
+service investigated in studies
+Hormone therapy
+service investigated in studies
+Use of mental health or substance abuse-related services
+service investigated in studies
+Satisfaction with primary care
+unmet need in VA Healthcare System for women
+Disparities research
+Chronic Disease
+Diabetes
+Epidemiological Measure
+Prevalence
+Epidemiological Measure
+Incidence
+Health Indicator
+County-level diabetes data
+Social Inequality Indicator
+Disparity
+Diabetes
+Type 1 diabetes
+Diabetes
+Type 2 diabetes
+Risk Factor
+Obesity
+Risk Factor
+Physical Inactivity
+Health Policy
+Public health interventions
+predictor of general health
+SE status
+predictor of premature morbidity
+SE status
+predictor of mortality
+SE status
+risk for increased CVD mortality
+Lower SE status
+risk for poorer CVD risk factor profiles
+Lower SE status
+risk for people of lower SE status
+COVID-19
+risk for ethnic minority groups
+COVID-19
+risk for decline in mental health during COVID-19 pandemic
+Lower SE status
+risk for increased CVD incidence
+Lower SE status
+cardiogenic shock, are-a, risk for lower SE status individuals
+Acute pathologies like stroke
+cardiogenic shock, are-a, risk for vulnerable elderly populations
+Acute pathologies like stroke
+strategy for tackling SE status and CVD
+Upstream interventions
+Medical Procedure
+Interventional Radiology
+Survey Method
+Web-based Questionnaire
+Professional Society
+British Society of Interventional Radiology
+Medical Support Service
+Nursing Support
+Health Professional
+Scrubbed nurse assistant
+Health Professional
+Radiology Nurse
+Healthcare Service
+Out-of-hours service
+Healthcare Service
+In-hours service
+Health Care Process
+Screening
+Health Care Process
+Prevention
+Health Care Process
+Treatment
+Health Care Issue
+Disparity in Cardiovascular Care
+Health Care Facility
+Emergency Department
+Cardiovascular Disease
+Acute Heart Failure
+Medication
+Diuretic
+Medication
+Nitroglycerin
+Multinational Study
+HEARD-IT Study
+Patient Information
+Clinical Demographics
+Patient Information
+Past Medical History
+Medical Procedure
+Diagnostic Tests
+Demographic Characteristic
+Race
+Patient Outcome
+30-day Death or Readmission
+Measure of health inequalities
+Deprivation index
+Tool for constructing deprivation indices
+Geographic Information Systems
+Method for calculating weights for indicators
+Multi-Criteria Evaluation
+Method for obtaining weights for indicators
+Analytical Hierarchy Process
+Method for creating different deprivation scenarios
+Ordered Weighted Averaging
+Technique for exploring spatial relationships
+Geographically Weighted Regression
+Technique for exploring spatial relationships
+Moran's I analysis
+Health factor
+Distance to health services
+Health factor
+Percentage of people that have never had a live birth
+Tools for identifying highly deprived zones
+Multi-Criteria instruments
+healthcare service
+VA services
+demographic group
+Women veterans
+assessment tool
+Performance measure
+social issue
+Gender inequities
+assessment tool
+Health Effectiveness Data and Information Set performance measures
+Social determinant of health
+Poverty
+Social determinant of health
+Education
+Social determinant of health
+Unemployment
+Social determinant of health
+Safe housing
+Social determinant of health
+Access to nutritious food
+and other People of Color (BIPOC
+Black
+racial/ethnic group
+White residents
+self-reported, validated measure
+Quality of life (QoL)
+analytical method
+Blinder-Oaxaca decomposition techniques
+long-stay residents
+Nursing Home residents
+geographical location
+Minnesota
+facility factors
+Facility structural characteristics
+modifiable characteristics
+Staffing levels
+social determinant of health
+Racial/ethnic disparities in QoL
+Health system
+Private health system
+Legal entity
+Constitutional Court
+Legal entity
+Supreme Court of Chile
+Constitutional principle
+Right to health care
+Constitutional principle
+Nondiscrimination
+Health system goal
+Equity in health care delivery
+Health system goal
+Efficiency in health care delivery
+diversity in British society
+Significant minority populations
+British society
+Responsive end-of-life care
+care for terminally ill patients
+Potential for unwitting discrimination
+care for terminally ill patients
+Religion or faith
+equality in patient care
+Equality Act 2010
+impact positively on patient care
+Government and professional initiatives
+meeting the challenges and seizing the opportunities
+Health professionals
+patient's religion and faith interests
+South Asian descent
+type of Health Care
+Mental Health Treatment
+type of Health Condition
+Mental Illness
+type of Mental Health Treatment
+Mental Health Outpatient Treatment
+type of Health Care
+Pharmacy Treatment
+type of Pharmacy Treatment
+Psychotropic Drugs
+type of Health Care
+Inpatient General Medical Care
+type of Health Care
+Emergency General Medical Care
+type of Health Care Cost
+Acute Medical Care Expenditures
+type of Health Inequality
+Disparities in Health Care Access
+Population Group
+African American Males
+Social Determinant of Health
+Health Disparities
+Health Condition
+High-Grade Splenic Injuries
+Health Outcome
+Mortality Rate
+Program
+Medicare's Hospital Readmissions Reduction Program
+Hospitals
+Safety-net hospitals
+Health Outcome
+Disparities
+Health Outcome
+Clinical conditions
+HRRP-targeted condition
+Acute myocardial infarction
+HRRP-targeted condition
+Pneumonia
+HRRP-targeted condition
+Heart failure
+Measure
+30-day readmission rates
+Hospital Procedure
+Patient discharges
+Financial Instrument
+HRRP penalties
+Clinical Conditions
+Non-targeted conditions
+Clinical Conditions
+HRRP-targeted conditions
+females
+idiopathic intracranial hypertension
+females
+cerebral venous sinus thrombosis
+females
+meningioma
+females
+multiple sclerosis
+females
+migraine
+females
+breast-cancer associated neuro-ophthalmic manifestations
+females
+sarcoidosis
+females
+bisphosphonate-associated orbital inflammation
+females
+pregnancy-related neuro-ophthalmic disorders
+males
+Leber's Hereditary Optic Neuropathy
+Disease
+Resectable Pancreas Cancer
+Health Data Source
+National Cancer Database
+Statistical Method
+Latent Class Analysis
+Treatment Method
+Minimum Expected Treatment
+Treatment Method
+Optimal Treatment
+Health Outcome
+Overall Survival
+Social Determinant Factor
+Demographic Profile
+Social Determinant Factor
+Socioeconomic Status
+Social Determinant Factor
+Insurance
+Social Determinant Factor
+Geography
+Social Determinant Factor
+Race/Ethnicity
+Demographic Factor
+Age
+economic factor
+Low income
+social factor
+Education level
+economic factor
+Unemployment
+environmental factor
+Poor housing
+systemic factor
+Lack of access to healthcare
+social factor
+Social support
+environmental factor
+Community safety
+behavioral factor
+Poor diet
+behavioral factor
+Physical inactivity
+behavioral factor
+Tobacco use
+Data Quality Attribute
+Data Completeness
+Data Quality Attribute
+Data Accuracy
+Health Database Type
+Disease Registry Data
+Health Database Type
+EHR Data
+Patient Data Type
+Race/Ethnicity Data
+Data Accuracy Issue
+Race/Ethnicity Misclassification
+Data Quality Improvement Method
+System-based Interventions
+Data Collection Method
+Self-reported Data
+Data Collection Purpose
+Research Purpose
+Data Collection Purpose
+Quality Improvement Purpose
+high-resource country
+United States
+maternal mortality ratio
+2014 ratio
+unknown
+Causes
+related to social issues
+Causes
+related to economic issues
+Causes
+related to cultural issues
+Causes
+related to medical issues
+Causes
+proposal
+National maternal mortality review committee
+modeled after those in other high-resource nations
+National maternal mortality review committee
+Health reform
+Performance-based financing
+Health care consideration
+Equity of access to care
+Health care consideration
+Financial protection
+Health reform
+Strategic purchasing
+Health care target
+Universal health coverage
+Economic classification
+Low-income countries
+Economic classification
+Middle-income countries
+Geographic-specific reform
+Health reforms in Africa
+Health intervention method
+PBF-type interventions
+Disease
+Prostate Cancer
+Demographic Variable
+Race
+Demographic Variable
+Age
+Socioeconomic Factor
+Income
+Socioeconomic Factor
+Education Level
+Socioeconomic Factor
+Insurance Status
+Health Care Factor
+Treatment Received
+Clinical Variable
+Gleason Score
+Psychosocial Variable
+Medical Mistrust
+Healthcare System Factor
+Diagnosis-to-treatment Interval
+Social determinant of health
+Poverty
+Social determinant of health
+Education
+Social determinant of health
+Unemployment
+Social determinant of health
+Social Support
+Social determinant of health
+Access to health care
+Social determinant of health
+Safe Housing
+Social determinant of health
+Food Security
+Social determinant of health
+Air Quality
+Social determinant of health
+Water Quality
+Health care advancement
+Stem cell medicine
+Determinant of health outcomes
+Socioeconomic conditions
+Aspect of population
+Genetic diversity
+Aspect of population
+Socioeconomic diversity
+Goal of stem cell research
+Social justice
+Oil-exporting upper middle income country
+Iran
+Data source
+Household Income and Expenditure Survey (HIES)
+Government strategy
+National Development Plans (NDPs)
+Health sector challenge
+Inequalities in health care
+Economic aspect of health care
+Health care expenditures
+Type of households
+Urban households
+Type of households
+Rural households
+health risk behavior
+Smoking
+health condition
+Obesity
+social determinant of health
+Education
+social determinant of health
+Unemployment
+environmental determinant of health
+Air pollution
+preventive health measure
+Vaccination
+psychological determinant of health
+Stress
+health risk behavior
+Alcohol consumption
+preventive health measure
+Healthy diet
+preventive health measure
+Physical activity
+Health_disparity
+Racial_disparity
+Health_care_access_issue
+Clinical_delay
+Disease
+Colon_cancer
+Racial_group
+Non-Hispanic_Black_population
+Racial_group
+Non-Hispanic_White_population
+Social_determinant_of_health
+Socioeconomic_status
+Barrier_to_healthcare
+Travel_burden
+Geographic_location
+Chicago
+Health_care_facility
+Public_hospital
+Health_care_facility
+Private_hospital
+Health_care_facility
+Academic_hospital
+Medical_procedure
+Treatment_initiation
+Medical_issue
+Prolonged_clinical_delay
+"health outcome"
+"Health disparity"
+"cause of health disparities"
+"Biological factors"
+"cause of health disparities"
+"Social factors"
+"cause of health disparities"
+"Economic factors"
+"mediator of health disparities"
+"Structural racism"
+"mediator of health disparities"
+"Discriminatory policies"
+"tool to reduce health disparities"
+"Laboratory medicine"
+"method of data collection"
+"Electronic survey"
+"sample size for survey"
+"215 participants"
+"professional group"
+"Laboratorians"
+"professional group"
+"Nonlaboratorians"
+data source
+Medical Expenditure Panel Survey
+health status indicator
+Disparities
+factor influencing health disparities
+Socioeconomic status
+disparity definition
+Institute of Medicine's definition
+factor affecting health disparities
+Race/ethnicity
+measurement of health inequalities
+Disparity trends
+healthcare service
+Office-based or outpatient visit
+measure of healthcare cost
+Medical expenditure
+Treatment Challenges
+Underinsured Patients
+Barriers to Optimal Care
+Social Factors
+aspect of maternal healthcare satisfaction
+Racial disparity
+measure of maternal healthcare
+Quality of care
+significant indicator for maternal healthcare satisfaction
+Race
+significant indicator for maternal healthcare satisfaction
+Age
+significant indicator for maternal healthcare satisfaction
+Income
+recommended area for further in-depth research
+Patient perception
+health care issue
+Racial/ethnic disparities
+measure of health care quality
+Clinical outcomes
+potential cause of health disparities
+Risk factor prevalence
+potential cause of health disparities
+Control of risk factors
+factor in health care quality
+Use of evidence-based procedures and medications
+potential cause of health disparities
+Social and environmental factors
+barrier to accessing care
+Lower-quality health care providers and institutions
+contributor to treatment differences
+Stereotyping and bias in medicine
+intervention for improving health care
+Health policy changes
+intervention for improving health care
+Quality improvement programs
+intervention for improving health care
+Culturally targeted community and clinic-based interventions
+Medical Procedure
+Kidney transplant evaluation
+Medical Treatment
+Dialysis
+Chronic Disease
+Diabetes
+Health Condition
+Physical limitation
+Social Determinant of Health
+Socioeconomic characteristics
+Medical Procedure
+Kidney transplant waitlist
+Cardiovascular Disease
+Coronary artery disease
+Cardiovascular Disease
+Peripheral vascular disease
+Behavioral Risk Factor
+Illegal drug use history
+Social Determinant of Health
+Caregiver absence
+Biological Trait
+O blood type
+Health Outcome
+Cardiovascular morbidity
+Medical Procedure
+UNOS listing
+Ethnic Group
+Indigenous American race
+Ethnic Group
+Non-Hispanic white American race
+health care service
+Dental care
+city
+Sobral
+state
+Ceará
+country
+Brazil
+dental care
+Immediate dental care
+health care issue
+Lack of dental care
+dental treatment
+Restorative treatment
+social determinant of health
+Socioeconomic conditions
+health care service
+Oral health services
+risk factor
+Low socioeconomic status
+population group
+Young people
+research methodology
+Life course perspective
+type of study
+Cohort study
+Health Issue
+Obesity
+Health Behavior
+Smoking
+Socioeconomic factor
+Education
+Environmental factor
+Pollution
+health disparity
+HIV/STI risk
+at-risk population
+Heterosexual African American youth
+risk factor
+Structural disadvantage
+risk factor
+Interpersonal risk
+risk factor
+Community dysfunction
+risk factor
+Individual psychological factors
+risk factor
+Biological factors
+proposed solution
+Multisystemic interventions
+target of multisystemic interventions
+Structural risk factors
+'Determination of relationship between health status and racial/ethnic disparities in outpatient visits'
+'OBJECTIVE'
+'2010-2014 Medical Expenditure Panel Survey'
+'DATA SOURCE'
+'Probit and Negative Binomial modelling of visit probability and visit numbers'
+'STUDY DESIGN'
+'Subsetting to nonelderly adults'
+'EXTRACTION METHODS'
+'Variation in racial/ethnic disparities with health status'
+'PRINCIPAL FINDINGS'
+'Racial/ethnic disparities vary with health level'
+'CONCLUSIONS'
+eating pathology
+Self-reported anorexia nervosa
+eating pathology
+Self-reported bulimia nervosa
+eating pathology
+Eating pathology-specific academic impairment
+gender identity
+Cisgender men
+gender identity
+Cisgender women
+gender identity
+Transgender or genderqueer
+sexual orientation
+Gay or lesbian
+sexual orientation
+Bisexual
+sexual orientation
+Unsure
+sexual orientation
+Other
+study sample
+Minnesota students
+aspect of health care system
+Health care expenditure
+type of health disparity
+Racial/Ethnic differences
+social determinant of health
+Income inequality
+social determinant of health
+Education disparity
+Vulnerable Populations
+African Americans
+Accessible Medical Procedure
+Kidney Transplant
+Intervention
+Multilevel Quality Improvement Endeavor
+ESKD Patient
+Dialysis Center Patient
+Measure
+Kidney Transplant Equity Index
+cause of, neonatal intestinal obstruction
+Intestinal atresia
+type of, intestinal atresia
+Duodenal atresia
+type of, intestinal atresia
+Jejunio-ileal atresia
+type of, intestinal atresia
+Colonic atresia
+cause of, mortality in intestinal atresia patients
+Aspiration
+cause of, mortality in intestinal atresia patients
+Anastomotic leak
+cause of, mortality in intestinal atresia patients
+Sepsis
+significant public health challenge
+Cancer
+major challenge in Africa
+Inequity in cancer care
+primary tier of cancer care
+Prevention
+primary tier of cancer care
+Diagnosis
+primary tier of cancer care
+Treatment/management
+factor contributing to cancer care inequity in Africa
+Inadequate funding
+factor contributing to cancer care inequity in Africa
+Poor cancer education
+factor contributing to cancer care inequity in Africa
+Lack of technical capacity
+national-level initiative for cancer care
+Cancer health promotion
+capacity-based initiative for cancer care
+Insurance coverage
+method for implementing mobile health technology
+Telemedicine diagnosis
+goal for health on the African continent
+Equitable access to cancer care
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Access to Health Services
+Social Determinant of Health
+Environment
+Social Determinant of Health
+Lifestyle Factors
+Social Determinant of Health
+Social Relationships
+Health Determinant of Health
+Culture
+Health Issue
+Mental Disability
+Structural Factor
+Poverty
+Structural Factor
+Inequality
+Structural Factor
+Homelessness
+Structural Factor
+Discrimination
+Approach to Mental Disability
+Human Rights Approach
+Approach to Mental Disability
+Rights-based Approach
+Advocates for Equality
+Healthcare Professionals
+Center of Advocacy Movements
+Persons with Mental Disabilities
+International Treaty
+United Nations Convention on the Rights of Persons with Disabilities
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Access to health services
+Economic Status
+Unemployment
+Economic Status
+Poverty
+Socioeconomic factor
+Education level
+Health system factor
+Access to healthcare
+Environmental factor
+Air pollution
+objective of pay-for-performance programs
+Reducing racial/ethnic disparities
+mechanism to target disparities reduction
+Pay-for-performance programs
+group concerned about funding and implementation of pay-for-performance programs
+Hospital executives
+group potentially at financial risk from pay-for-performance programs
+Safety net hospitals
+tool for caring for minority patients
+Incentive mechanisms
+concern for implementing pay-for-performance programs
+Resource constraints
+strategy to eliminate health disparity
+Primary health care
+intervention to reduce health disparities
+FD policy
+method to simulate health disparity formation
+System dynamics modeling
+simulation of health disparity without interventions
+BAU scenario
+simulation of health disparity with FD intervention
+FD scenario
+simulations of health disparity with supporting policies
+Policy 1/Policy 2/Policy hybrid scenario
+dominant mechanism in reducing health disparities
+Medical price control
+fundamental cause of health disparities
+Socioeconomic status
+aspect of health care costs
+Direct medical costs
+aspect of health care costs
+Indirect costs
+type of indirect cost
+Productivity loss
+health disparity
+Premature death
+societal issue
+Health disparities
+type of health disparities
+Racial/ethnic disparities
+result of eliminating health disparities
+Potential cost savings
+motivation for addressing health disparities
+Social justice
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Unemployment
+Social Determinant of Health
+Income Inequality
+Social Determinant of Health
+Environment
+Social Determinant of Health
+Access to Healthcare
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Social Exclusion
+Social Determinant of Health
+Food Security
+Publication
+U.S. Surgeon General's report
+is-a, Supplement Document
+Mental Health: Culture
+Report
+Mental Health: A Report of the Surgeon General
+Government Agency
+U.S. Department of Health and Human Services
+Health Issue
+Disparities in mental health care
+Ethnic Group
+Latinos
+Scientific Investigation
+Research projects
+Demographic Research
+National studies of adults and children
+Research Method
+Longitudinal designs
+Demographic Analysis
+Analyses of Latino subgroups
+Mental Illness
+Schizophrenia
+Treatment Approach
+Interventions
+Social Factor
+Social networks
+respiratory tract infection
+LRTI
+children
+AI/AN children
+infants
+AI/AN infants
+children
+White children
+infants
+White infants
+hospitals
+Nonfederal hospitals
+health insurance
+Medicaid insurance
+economic condition
+Low household income
+geographical condition
+Rural residence
+Socioeconomic Factor
+Poverty
+Socioeconomic Factor
+Education
+Socioeconomic Factor
+Employment
+Lifestyle Factor
+Healthy Behavior
+Healthy Behavior
+Exercise
+Healthy Behavior
+Good nutrition
+Risk Behavior
+Tobacco use
+Risk Behavior
+Alcohol consumption
+Environmental Factor
+Air Pollution
+Healthcare Factor
+Access to Healthcare
+Social Factor
+Racial Discrimination
+Social Factor
+Social Support
+health care service
+Telehealth services
+health event
+COVID-19 pandemic
+medical specialty
+Hepatology
+social determinant of health
+Racial disparity
+social determinant of health
+Socioeconomic disparity
+digital resource
+Internet access
+digital resource
+Video technology
+health insurance
+Medicare/Medicaid insurance
+Risk Group for HIV
+Black MSM
+Prevention Method
+HIV Testing
+Geographic Risk Factor
+Brooklyn Residency
+is-a, Socioeconomic Risk Factor
+Annual Income Less than US$20
+Risk Behavior
+Not having tested for HIV in past 12 months
+Specific Risk Factor
+Having a black last sex partner
+Race
+Blacks
+Race
+Whites
+Healthcare professional
+Nephrologist
+Medical procedure
+Chronic Dialysis
+Healthcare service
+Nephrology Care
+Medical procedure
+Renal Replacement Therapy (RRT)
+Healthcare service
+Pre-ESRD Nephrology care
+Medical procedure
+Renal Transplant
+Medical procedure
+Peritoneal Dialysis
+Medical procedure
+Hemodialysis Access
+cause of blindness in the elderly
+Age-related macular degeneration
+treatment for neovascular AMD
+Anti-vascular endothelial growth factor agents
+anti-VEGF agent
+Ranibizumab
+anti-VEGF agent
+Bevacizumab
+hematologic malignancy
+acute leukemia
+acute leukemia
+Acute lymphoblastic leukemia (ALL)
+acute leukemia
+Acute myelogenous leukemia (AML)
+race/ethnicity
+blacks
+race/ethnicity
+Hispanics
+race/ethnicity
+non-Hispanic whites
+health outcome
+Survival probability
+health outcome
+Mortality disparity
+result of, acute leukemia
+health outcome
+rape
+Anogenital injury
+racial or skin color differences
+Differences in anogenital injury
+injury prevalence and frequency
+Racial difference
+injury prevalence and frequency
+Skin color difference
+rape victims
+Injury prevalence
+rape victims
+Injury frequency
+significant factor in injury frequency
+Race
+significant factor in injury frequency
+Skin color
+Black and White adolescent/young adult females
+Difference in anogenital injury
+race
+Black adolescent/young adult females
+race
+White adolescent/young adult females
+group of individuals
+Rape victims
+health care disparity
+Non-retention in HIV care
+health care disparity
+Non-viral suppression
+racial/ethnic group
+Caribbean-born Blacks
+racial/ethnic group
+US-born Blacks
+racial/ethnic group
+Hispanics
+racial/ethnic group
+Non-Hispanic Whites
+racial/ethnic group
+Bahamians
+racial/ethnic group
+Haitians
+racial/ethnic group
+Trinidadians and Tobagonians
+statistical measure
+Adjusted odds ratio
+statistical measure
+Confidence interval
+medical measurement
+midtrimester maternal serum analyte concentrations
+ethnic group
+Caucasian
+ethnic group
+Hispanic
+serum analyte
+Alfa-fetoprotein (AFP)
+serum analyte
+estriol
+serum analyte
+human chorionic gonadotrophin (hCG)
+serum analyte
+inhibin-A
+chromosomal disorder
+trisomy 21
+developmental disorder
+neural tube defects
+Geographical Entity
+Arctic States
+Health Professionals
+Physicians
+Health Professionals
+Dentists
+Health Professionals
+Nurses
+Geographical Entity
+Nordic countries
+Geographical Entity
+North America
+Geographical Entity
+Russia
+Geographical Entity
+Northwest Territories
+Geographical Entity
+Nunavut of Canada
+Geographical Entity
+Greenland
+Family medicine practice serving an urban African American population
+P1
+Family medicine practice serving a suburban non-minority population
+P2
+Family medicine practice serving an urban Hispanic population
+P3
+Preventive health measure
+Influenza immunization
+Minority population
+Urban African American population
+Minority population
+Urban Hispanic population
+Majority population
+Suburban non-minority population
+Key figure in promoting immunization
+Practice champion
+Factor affecting influenza immunization
+Communication and collaboration
+Strategy influencing influenza immunization
+Use of systems approaches
+Disease
+Congestive Heart Failure
+Medical Procedure
+Effective CHF treatment
+Benefit of effective CHF treatment
+Improved health
+Benefit of effective CHF treatment
+Greater social value
+Benefit of effective CHF treatment
+Reduced health disparities
+Consequence of CHF
+Lost productivity
+Social issue
+Health disparities
+Result of CHF
+Health disparities
+Research Method
+Microsimulation
+Health Outcome Measure
+Quality-adjusted life years
+Health Outcome Measure
+Disability-free life years
+Consequence of CHF
+Health disparities
+Economic Event
+Great Recession
+Economic Policy
+Healthcare Expenditures
+Healthcare Access Issue
+Unmet Medical Needs
+Data Collection Method
+European Union Statistics of Income and Living Conditions survey
+Statistical Analysis Method
+Difference-in-differences approach
+Research Methodology
+Treatment Case
+Socioeconomic Measure
+Income quintiles
+Government Policy
+Austerity Measures
+Human Right
+Access to medical care
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Unemployment
+Social Determinant of Health
+Access to Healthcare
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Nutrition
+Social Determinant of Health
+Social Inclusion
+Social Determinant of Health
+Transport
+type of cancer survivors
+Minority cancer survivors
+Minority
+Hispanics
+Minority
+African Americans
+type of barriers
+Organizational barriers
+type of barriers
+Transportation barriers
+demographic factor
+Age
+health service access factor
+Insurance
+health status
+Perceived health
+health status
+Comorbidity
+demographic factor
+Nativity
+health policy
+Affordable Care Act
+method of improving, individual health outcomes
+PHR use
+method of healthcare, communication
+PHR use
+factor facilitating, PHR use
+Accessing mHealth Apps
+factor facilitating, PHR use
+Having a usual source of care
+factor facilitating, PHR use
+e-Communication with healthcare providers
+challenge in, PHR use
+Racial/ethnic disparities
+participant in, Health Information National Trends Survey
+Non-Hispanic White adults
+participant in, Health Information National Trends Survey
+Hispanic adults
+form of, PHR use
+Online medical record access
+general characteristic, considered in study
+Age
+general characteristic, considered in study
+Sex
+general characteristic, considered in study
+Education
+general characteristic, considered in study
+Insurance status
+obstructive atherosclerotic disease
+Peripheral artery disease
+cause of significant morbidity and mortality
+Peripheral artery disease
+group disproportionately affected by peripheral artery disease
+Black Americans
+consequence of severe peripheral artery disease
+Lower extremity amputation
+treatment for peripheral artery disease
+Pharmacological modalities
+treatment for peripheral artery disease
+Nonpharmacological modalities
+factor affecting diagnosis and treatment of peripheral artery disease
+Health care inequities
+disparity in cancer reporting
+Study
+Ethnicities
+Disparity
+cancer reporting
+Ethnicity
+health risk assessment
+Cancer reporting
+reporting disparity
+Healthcare professionals
+cancer risk assessment
+Family history of cancer
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Occupation
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Access to Health Care
+Social Determinant of Health
+Housing
+type of health inequality
+Digital health inequality
+indicator of health service use
+Digital utilisation
+type of healthcare providers
+Primary care providers
+determinant of digital utilisation
+Population factors
+type of statistical analysis
+Multivariable regression
+type of health service delivery
+Digital services
+type of health outcomes disparity
+Digital disparity
+factor affecting digital utilisation
+Provider characteristics
+type of population characteristic
+Patient demographics
+determinant of digital service activation
+Healthcare provider resource
+Economic Event
+Great Recession
+Data Source
+Medical Expenditure Panel Survey
+Statistical Method
+Quantile multivariate regressions
+Economic Indicator
+Health care expenditures
+Social Determinant of Health
+Racial/ethnic disparities
+Aspect of culturally competent care
+Nurse-patient communication
+Aspect of culturally competent care
+Cultural issues
+Tool for teaching culturally competent care
+Training module
+Requirement for dealing with health inequities
+Culturally competent care
+Result of multiculturalism in healthcare
+Health inequities
+Entity affected by multiculturalism
+US healthcare system
+No-cost publicly available resource
+Free US government-developed training module
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+Health Insurance Scheme
+Rashtriya Swasthya Bima Yojana
+Health Insurance Scheme
+Arogyasri
+Health Service
+Primary medical care
+Health Service
+Specialist medical care
+Health Policy Intervention
+Family health protection plan
+Medical Education
+Postgraduate courses in family medicine
+Health Infrastructure
+Health centres
+Health Infrastructure
+Non-profit clinics
+Health Infrastructure
+For-profit clinics
+"research publication"
+"1966 article"
+"research method"
+"Bibliometric analysis"
+"research topic"
+"Health inequalities"
+"social determinant of health"
+"Racial discrimination in access to medical care"
+"research publication"
+"Marmot's 1991 article"
+"research topic"
+"Social determinants of health"
+"search engine"
+"Web of Science"
+"factor in research development"
+"British influence on the international status of research on social inequalities of health"
+Research Network
+Cancer Disparities Research Network
+Facility
+Biorepository Facilities
+Research Practice
+Biospecimen Collection
+Profession
+Biospecimen Directors
+Profession
+Biospecimen Administrators
+Procedure
+Biospecimen Sharing Procedures
+Population Group
+Minority and Underserved Populations
+Outreach Program
+Biospecimen Collection Outreach Programs
+Research Type
+Biobanking Research
+Initiatives
+Education/Outreach Initiatives
+Clinical Trials
+Cancer Trials
+Biospecimen Collection
+Minority Biospecimen Collection
+Barrier
+Standardization Barriers
+social determinant of health
+Poverty
+social determinant of health
+Education
+social determinant of health
+Housing
+social determinant of health
+Access to healthcare
+social determinant of health
+Unemployment
+social determinant of health
+Social support
+social determinant of health
+Food security
+social determinant of health
+Stress
+social determinant of health
+Transportation
+social determinant of health
+Neighborhood environment
+dependent variable
+Adequate prenatal care
+independent variable
+Maternal age
+independent variable
+Educational level
+independent variable
+Skin color
+risk factor for inadequate prenatal care
+Adolescent pregnancy
+risk factor for inadequate prenatal care
+Advanced maternal age
+risk factor for inadequate prenatal care
+Low education level
+risk factor for inadequate prenatal care
+Non-white skin color
+"Child health issue"
+"Incomplete DPT vaccination"
+"Child health indicator"
+"Fully-immunised child coverage"
+"Health data source"
+"Nigeria Demographic Health Survey"
+"Data analysis method"
+"Multilevel logistic regression models"
+is-a, "Residential Status"
+"Urban formal and slum
+community and health system level factors", are-a, "Determinants of FIC"
+"Child
+"Risk measurement"
+"Population Attributable Risk"
+"Population attributes"
+"Sociodemographics"
+healthcare system
+Indonesian healthcare system
+population survey
+Indonesian Family Life Surveys
+healthcare type
+outpatient healthcare
+healthcare type
+inpatient healthcare
+healthcare provider
+public provider
+healthcare provider
+private provider
+statistical measure
+Standardised prevalence rate
+statistical measure
+relative index of inequality (RII)
+health insurance
+government health insurance programme
+healthcare policy
+health sector decentralisation
+social determinant of health
+income-related inequalities
+Assessment metric for liver disease
+MELD score
+Treatment for end-stage liver disease
+Liver transplantation
+Area for organ sharing
+UNOS region
+Localized area for organ donation
+Donation service Area
+Organ transplantation service
+Transplant program
+Health Service
+Preventive Dental Care
+Preventive Dental Care
+Evidence-based Services
+Preventive Dental Care
+Professional Dental Cleaning
+Evidence-based Services
+Dental Sealants
+Evidence-based Services
+Topical Fluoride
+Race/Ethnicity Group
+Non-Hispanic black
+Race/Ethnicity Group
+Non-Hispanic white
+Socioeconomic Group
+Low-income families' children
+Health Goal
+Healthy People 2020
+Data Source
+Medical Expenditure Panel Survey
+Statistical Method
+Multivariate logistic regression
+Health Inequality Indicator
+Disparities by race/ethnicity
+Socioeconomic Factor
+Insurance status
+Socioeconomic Factor
+Parental education
+source of demographic data
+Viet Nam's Multiple Indicator Cluster Survey
+source of socioeconomic data
+Viet Nam's Multiple Indicator Cluster Survey
+source of obstetric data
+Viet Nam's Multiple Indicator Cluster Survey
+determinant of antenatal care attendance
+Maternal education
+determinant of antenatal care attendance
+Maternal ethnicity
+determinant of antenatal care attendance
+Household wealth
+determinant of antenatal care attendance
+Place of residence
+determinant of place of delivery
+Maternal education
+determinant of place of delivery
+Maternal ethnicity
+determinant of place of delivery
+Household wealth
+determinant of place of delivery
+Place of residence
+social determinant of health
+Poverty
+social determinant of health
+Education
+social determinant of health
+Housing condition
+social determinant of health
+Employment status
+social determinant of health
+Social support
+social determinant of health
+Access to healthcare
+social determinant of health
+Food security
+social determinant of health
+Transportation options
+social determinant of health
+Neighborhood safety
+social determinant of health
+Racial segregation
+social determinant of health
+Gender discrimination
+health care issue
+Disparity in care
+measure of health service
+Quality of care
+statistical method
+Stratified analyses
+entities responsible for disparity reduction initiatives
+Health care organizations
+statistical method
+Adjusted methods
+healthcare system
+US civilian healthcare system
+universal healthcare system
+US military healthcare system
+healthcare database
+MHS Military Mart database
+disease
+Ischemic stroke
+treatment method
+IV tPA
+patient outcome
+Disposition destination
+economic factor
+Total cost of hospitalization
+healthcare factor
+Length of hospital stay
+diagnostic procedure
+Radiological studies
+healthcare model
+Universal healthcare
+urban phenomenon
+Gentrification
+effect of gentrification
+Urban inequalities
+type of urban inequalities
+Health disparities
+type of health outcome
+Self-rated physical health
+type of health outcome
+Health inequalities
+Medicaid population
+Hawaii's Medicaid population
+health concern
+Clinical conditions
+data type
+Inpatient claims data
+age group
+Children and adolescent group
+age group
+Adult group
+age group
+Elderly group
+racial/ethnic group
+Asians
+racial/ethnic group
+Whites
+racial/ethnic group
+Native Hawaiian/Pacific Islanders
+county in Hawaii
+Hawai'i County
+county in Hawaii
+Honolulu County
+county in Hawaii
+Kaua'i County
+Race
+African-Americans
+Race
+Whites
+Medical Procedure
+Bariatric Surgery
+Health Condition
+Obesity
+Socioeconomic Factors
+Demographics
+Health System Factor
+Healthcare Access
+Health Awareness Factor
+Knowledge of Bariatric Surgery
+Health organization
+Disparities Solutions Center
+Conference
+Strategy Forum
+Experts
+Participants
+Health issue
+Racial/ethnic disparities
+Organizational strategy
+Quality improvement
+Research method
+Implementation research
+Business goal
+Organizational excellence
+Workshop model
+Results Based Facilitation model
+Patient information
+Race and ethnicity data
+Health care solution
+Quality improvement strategies
+Motivational tool
+Incentives
+Information dissemination strategy
+Message and communication strategy
+Patients with lower survival rate after cancer diagnosis
+Minority race/ethnicity patients
+Patients with common solid and hematological malignancies
+Non-Hispanic white patients
+Patients with common solid and hematological malignancies
+African-American patients
+Patients with common solid and hematological malignancies
+Hispanic patients
+Common cancers with decreasing survival disparities
+Breast cancer
+Common cancers with decreasing survival disparities
+Prostate cancer
+Common cancers with decreasing survival disparities
+Non-Hodgkin's lymphoma
+Common cancers with less improvement in survival disparities
+Lung cancer
+Common cancers with less improvement in survival disparities
+Pancreatic cancer
+health intervention hypothesis
+Inverse equity hypothesis
+measurement tool
+Inequality pattern index
+type of wealth driven inequality
+Top inequality
+type of poverty driven inequality
+Bottom inequality
+economic classification
+Wealth quintile
+societal problem
+COVID-19 disparities
+economic issue
+Income disparities
+socioeconomic issue
+Housing disparities
+healthcare issue
+Preexisting health status
+systemic issue
+Institutionalized racism
+societal problem
+Structural violence
+governmental responsibility
+Public health systems
+societal problem
+Economic inequities
+right
+Education
+governmental responsibility
+Environmental and occupational safeguards
+economic solution
+Just tax structures
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Unemployment
+Social Determinant of Health
+Safe Housing
+Social Determinant of Health
+Access to Healthy Foods
+Social Determinant of Health
+Stress
+Social Determinant of Health
+Healthcare Access
+Social Determinant of Health
+Transportation
+Social Determinant of Health
+Social Support
+and Social Disorder, is-a, Social Determinant of Health
+Exposure to Crime
+Country
+Pakistan
+Health issue
+Maternal morbidity
+Health issue
+Childhood morbidity
+Health issue
+Maternal mortality
+Health issue
+Childhood mortality
+Social issue
+Health disparities
+Health service
+Prenatal care
+Health service
+Delivery by skilled provider
+Health service
+Emergency obstetric care
+Social service
+Social protection interventions
+Economic strategy
+Poverty reduction strategies
+Policy approach
+Intersectoral action
+Economic measure
+Wealth index
+Social determinant of health
+Wealth status
+Public health concept
+Health outcomes
+Social determinant of health
+Poverty
+Social determinant of health
+Education
+Social determinant of health
+Employment
+Social determinant of health
+Access to health care
+Social determinant of health
+Socioeconomic status
+Social determinant of health
+Housing
+Social determinant of health
+Environment
+Social determinant of health
+Nutrition
+Patients with reduced access to care
+Medicaid patients
+Patients with better access to care
+Privately insured patients
+Type of healthcare appointment
+Primary care appointment
+Type of healthcare appointment
+Specialty appointment
+Method of evaluating healthcare services accessibility
+Audit studies
+Type of health insurance
+Medicaid insurance
+Type of health insurance
+Private insurance
+Measure of healthcare services accessibility
+Appointment availability
+Underserved Subpopulation
+Physical Disabilities
+Disparity in Health Care Access
+Unmet Health Care Needs
+Health Care Need
+Medical Care
+Health Care Need
+Dental Care
+Health Care Need
+Prescription Medications
+Socioeconomic Factor
+Poverty Level
+Health Care Access Factor
+Health Insurance
+Health Policy
+Affordable Care Act
+Health Inequality
+Cancer disparities
+Affected Populations
+Racial and ethnic minorities
+Affected Populations
+Populations with low income and education
+Affected Populations
+Residents of rural areas or low socioeconomic neighborhoods
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Discrimination
+Social Determinant of Health
+Access to housing and education
+Social Determinant of Health
+Jobs with fair pay
+Social Determinant of Health
+Access to health care
+Approach to reduce cancer disparities
+Policy
+Approach to reduce cancer disparities
+Health system interventions
+Approach to reduce cancer disparities
+Innovative delivery and health care coverage
+Social determinant of health
+Poverty
+Social determinant of health
+Unemployment
+Social determinant of health
+Low Education
+Social determinant of health
+Poor Housing
+Social determinant of health
+Food Insecurity
+Social determinant of health
+Lack of Access to Healthcare
+Social determinant of health
+Social Isolation
+Social determinant of health
+High Crime Neighborhoods
+Environmental determinant of health
+Pollution
+Economic determinant of health
+Income Inequality
+social determinant of health
+Poverty
+social determinant of health
+Educational level
+social determinant of health
+Employment status
+social determinant of health
+Housing condition
+social determinant of health
+Access to healthcare
+social determinant of health
+Social support
+environmental determinant of health
+Air quality
+social determinant of health
+Food security
+"Socioeconomic-related inequality"
+"Healthcare delivery inequality"
+"Equity Assessment Context"
+"Healthcare delivery"
+"Decomposition method"
+"Microsimulation-based decomposition"
+"Healthcare Utilisation Level"
+"Primary-level healthcare utilisation"
+"Inequality driving factor"
+"Healthcare-seeking behaviour heterogeneity"
+"Inequality driving factor"
+"Prevailing socioeconomic inequalities"
+"Equity in healthcare delivery assessment context"
+"Occupied Palestinian territory"
+determinant of health system performance
+Public health expenditures
+determinant of health system performance
+Income inequality
+determinant of health system performance
+Marginalization index
+indicator of health system performance
+Maternal mortality
+indicator of health system performance
+Child mortality
+health indicator
+Life expectancy at birth
+health indicator
+Infant mortality
+social determinant of health
+Marginalization index
+social determinant of health
+Gini coefficient
+factor in health system performance
+Federal funding
+factor in health performance
+Health system reform
+Disease
+Gastroesophageal reflux disease
+Public health issue
+Health care disparities
+Demographic variable
+Race/ethnicity
+Social determinant of health
+Socioeconomic status
+Social determinant of health
+Environment
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Housing condition
+Social Determinant of Health
+Employment status
+Social Determinant of Health
+Social support
+Social Determinant of Health
+Access to healthy foods
+Social Determinant of Health
+Transportation
+Social Determinant of Health
+Neighborhood safety
+Social Determinant of Health
+Healthcare access
+Social Determinant of Health
+Racial discrimination
+People with disabilities
+People with communication disability
+Multicultural and multilingual nation
+Fiji
+Service providers
+Disability care workers
+Service providers
+Special education teachers
+Service providers
+Traditional healers
+Service providers
+Speech-language pathologists
+Barriers to service development
+Geographic barriers
+Barriers to service development
+Linguistic diversity
+Barriers to service development
+Cultural barriers
+Barriers to service development
+Financial barriers
+Drivers of change
+Macro-level drivers
+Drivers of change
+Meso-level drivers
+Drivers of change
+Micro-level drivers
+Micro-level drivers of change
+Disabled people's organisations
+Health Risk Behavior
+Smoking
+Health Outcome
+Obesity
+Socioeconomic Factor
+Education
+Environmental Factor
+Pollution
+Economic Factor
+Poverty
+Psychological Factor
+Mental Stress
+Socioeconomic Factor
+Unemployment
+Health System Factor
+Healthcare Access
+Lifestyle Factor
+Diet
+Public health policy term
+Disparity
+Result of inequitable health care delivery
+Disparity
+Result of health care delivery
+Health outcomes
+Group with different health outcomes
+Minorities
+Group with different health outcomes
+The poor
+Root of disparity
+Poverty
+Root of disparity
+Lack of social and medical infrastructure
+Tool for describing disparity
+Health services research
+Tool for describing disparity
+Quality discipline
+Root cause of disparity
+Structural and process-based deficits in health care delivery system
+Related concept to disparity
+Quality of care
+Conceptual Framework
+Health Equity Implementation Framework
+Implementation Problem
+Healthcare Disparity Implementation Challenges
+Healthcare Disparity Challenge
+Hepatitis C Virus Treatment
+Method to understand barriers
+Patient Level Implementation Assessment
+Data Collection Method
+Semi-structured Interviews
+Healthcare System
+VA Medical Clinics
+Implementation Issue
+Care Coordination after testing positive for HCV
+Healthcare Disparity Issue
+Testimonials about racial discrimination
+Treatment Facilitator
+High Cure Rates
+Method to offset HCV stigma
+Patient Confidentiality
+international travel
+Medical tourism
+investment in health infrastructure
+Medical tourism
+opportunity for health labour force development
+Medical tourism
+potential for reduced access to healthcare for locals
+Medical tourism
+potential for inefficient use of limited public resources
+Medical tourism
+contributor to environmental health equity issues
+Medical tourism
+host for medical tourism
+Caribbean countries
+concern in medical tourism
+Health equity
+concern in medical tourism growth
+Environmental health equity
+environmental concern in medical tourism
+Waste management infrastructure
+factor of cumulative health effect
+Disparity in physical activity engagement
+result of cumulative health effect
+Out-of-pocket health expenditure
+result of disparity in physical activity engagement
+Socioeconomic gap
+factor of social inequity
+Physical activity inequity
+obstacle for exploring physical activity inequity
+Difficulties in measuring physical activity
+method for measuring physical activity
+Smartphone-derived big data
+result of using smartphone-derived big data
+Fine-grained depiction
+contributor to social inequity
+Inequity in physical activity
+type of health disparity
+Racial and ethnic disparities
+chronic medical condition
+Hypertension
+strategy to reduce disparities
+Interventions
+barrier for translating interventions into practice
+Knowledge gaps
+requirement for translating interventions into practice
+Collaboration among stakeholders
+demographic group with health disparities
+Racial and ethnic minorities
+multilevel interventions, is-a, strategy to reduce disparities
+Pragmatic
+role in translating interventions into practice
+Implementation researchers
+strategy for translating interventions into practice
+Broad partnerships
+strategy for stakeholder coordination
+Balance and alignment in priorities and incentives
+tool for defining economic models
+EconomicClusters algorithm
+method for measuring economic status
+DHS assets
+metric of economic status
+EconomicClusters model
+economic model for Cameroon
+Twenty-group economic model
+economic model for Ghana
+Five-group economic model
+model for evaluating variability in health and social outcomes
+Wealth Index
+research area in low- and middle-income countries
+Health disparities research
+variable in agglomerative hierarchical clustering
+Child height-for-age Z-score
+factor in economic status analysis
+Women's literacy score
+factor in economic status analysis
+Proportion of children who are deceased
+significant factor contributing to health care problems
+Racial disparities
+barrier to effective health care
+Economic factors
+barrier to effective health care
+Lower literacy and education levels
+barrier to effective health care
+Cultural differences
+barrier embedded in the health system
+Discrimination and racism
+barrier to effective health care
+Disrespect of medical practitioners
+barrier to effective health care
+Inaccessibility to health services
+barrier to effective health care
+Decentralized services
+Medical condition
+Gastrointestinal diseases
+Patient category
+Rural patients
+Patient category
+Urban patients
+Patient category
+Suburban patients
+Health service
+Medical care for gastrointestinal diseases
+Health Database
+National Health Insurance Research Database
+Health service
+Ambulatory visits
+Medical professional category
+Non-gastroenterologists
+Medical professional category
+Gastroenterologists
+Health service
+Medical teleconsultation system
+Health service
+Specialist outreach clinics
+Health Condition
+Obesity
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Unemployment
+Environmental Determinant of Health
+Air Pollution
+Sustainable Development Goal
+Universal Health Coverage
+aspect of Universal Health Coverage
+RMNCH service coverage
+determinant of health intervention reach
+Socioeconomic subgroup
+determinant of health intervention reach
+Demographic subgroup
+method for understanding national progress
+Multiple Indicator Cluster Surveys
+method for understanding national progress
+Demographic and Health Surveys
+component of RMNCH
+Reproductive health
+component of RMNCH
+Maternal health
+component of RMNCH
+Child immunisation
+component of RMNCH
+Child illness treatment
+subgroup determinant for health intervention
+Maternal age
+subgroup determinant for health intervention
+Education
+subgroup determinant for health intervention
+Place of residence
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Safe Housing
+healthcare innovation
+New medical technologies
+research method
+Real-world evidence
+research method
+Randomized controlled trials
+health condition
+Chronic diseases
+healthcare objective
+Equity in care
+healthcare challenge
+Disparities in care
+research team
+Working group
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Access to Health Care
+'Surgical procedure'
+'Inguinal hernia repair'
+'Anesthesia modality'
+'Local anesthesia'
+'Anesthesia modality'
+'General anesthesia'
+'Surgical outcome'
+'Postoperative complications'
+'Healthcare database'
+'Veterans Affairs Surgical Quality Improvement Program database'
+Social determinant of health
+Racism
+Social determinant of health
+Discrimination
+Social determinant of health
+Violence
+Form of racism
+Systemic racism
+Form of systemic racism
+Overt racist laws and policies
+Form of systemic racism
+Covert racist laws and policies
+Form of systemic racism
+Law enforcement violence
+Form of systemic racism
+Criminal justice system interactions
+Health outcome
+Mental health
+Health outcome
+Physical health
+health resource
+Cardiac rehabilitation
+cardiovascular disease
+Coronary heart disease
+factor affecting use of cardiac rehabilitation
+Socioeconomic status
+tool for systematic referrals
+Electronic health records
+method to reduce healthcare provider biases
+Educational programs
+alternative modality for cardiac rehabilitation
+Home-based cardiac rehabilitation
+alternative modality for cardiac rehabilitation
+Internet-based cardiac rehabilitation
+potential beneficiaries of cardiac rehabilitation
+Patients with coronary heart disease
+vulnerable group for cardiac rehabilitation participation
+Minority populations
+demographic with lower cardiac rehabilitation referral and participation rates
+Rural communities
+demographic with lower cardiac rehabilitation referral and participation rates
+Racial and ethnic groups
+Health service utilization
+Eye care utilization
+Eye care provider
+Ophthalmologist
+Eye care provider
+Optometrist
+Research Method
+Cross-sectional survey
+Population survey
+Canadian Community Health Survey 2005
+Eye disease
+Glaucoma
+Eye disease
+Cataracts
+Chronic disease
+Diabetes
+Canadian province
+Newfoundland and Labrador
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Access to Health Care
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Neighborhood
+Social Determinant of Health
+Food Security
+Social Determinant of Health
+Transportation
+Disease
+Esophageal cancer
+Type of Esophageal cancer
+Adenocarcinoma
+Type of Esophageal cancer
+Squamous cell carcinoma
+Type of Esophageal cancer
+Cervical esophageal cancer
+Health outcome
+Mortality rate
+Treatment method
+Surgery
+Treatment method
+Radiation
+Health outcome
+Survival rate
+Cancer
+Endometrial Cancer
+Patient Group
+White Women with EC
+Patient Group
+Black Women with EC
+Health Factors
+Healthcare Experiences
+Health Conditions
+Reproductive Conditions
+Health service
+Surgical health services
+Health disparity
+Surgical disparities
+Research approach
+Community-based participatory models
+Process in healthcare
+Quality improvement
+Health care standard
+Optimal level of health care
+Financial Protection measure
+Catastrophic Health Expenditure
+Data Source
+National Sample Survey
+Health Indicator
+Health Care Utilisation
+Financial Burden
+Out-of-Pocket Payments for Health Care
+Disease Burden Measure
+Epidemiological Transition Level
+Health Metric
+Disability-Adjusted Life-Years
+Health Policy of India
+National Health Protection Mission
+Health Condition
+Communicable Diseases
+Health Condition
+Non-Communicable Diseases
+Policy maker
+South African government
+Conceptual framework
+Affordability Ladder
+Research methods
+Household surveys and studies
+Health policy issues
+Inequities in access and utilization
+Social determinants of health
+Community perceptions
+Social determinants of health
+Insurance status
+Health services
+Publicly provided care
+Evaluation metrics
+Household-level policy impacts
+Data source
+South African survey data
+Health service
+Quitline
+Health service
+Multi-state Asian-language quitline
+Financial organizations
+Funding agencies
+Health organization
+North American Quitline Consortium
+Health service
+State quitline
+Multilingual health service
+Asian-language quitline
+Research method
+Survey
+Research method
+Self-administered survey
+U.S. state
+Washington D.C.
+unpaid work
+Family caregiving
+priority in caregiving research
+Gender-based analysis
+determinant of caregiving experience
+Diversity
+social benefit program
+Compassionate Care Benefit
+method for analyzing social programs
+Utilization-focused evaluation
+data collection method
+Semi-structured phone interviews
+data analysis method
+Thematic diversity analysis
+axis of difference in caregiving
+Culture
+axis of difference in caregiving
+Gender
+axis of difference in caregiving
+Geography
+axis of difference in caregiving
+Lifecourse stage
+axis of difference in caregiving
+Material resources
+result of overlooked diversity
+Vulnerability and inequity
+sector influenced by diversity understanding
+Health policy
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+country case study
+This paper
+organization
+Universal Health Coverage Collection
+WHO initiative
+Universal Health Coverage Collection
+research team
+Mabel Segbafah and colleagues
+Research topic
+Progress towards UHC
+method
+Monitoring and evaluation
+country
+Ghana
+section of the article
+Editors' Summary
+key strategy for averting maternal mortality ratio
+Skilled birth attendance
+high risk in countries with low skilled birth attendance
+Lifetime risk of maternal death
+reducer of death due to intrapartum-related complications
+Skilled birth attendant
+source of data for skilled birth attendance prevalence
+Demographic and Health Surveys
+more likely group to seek skilled birth attendance
+Highly educated women
+more likely group to seek skilled birth attendance
+Women subscribed to health insurance
+more likely group to seek skilled birth attendance
+Women with four or more antenatal care visits
+more likely group to seek skilled birth attendance
+Women who watch television at least once a week
+factor affecting SBA rates
+Rural-urban disparity in healthcare
+factor affecting SBA rates
+Female education
+factor affecting SBA rates
+Antenatal care attendance
+health care service
+Breast cancer screening
+social determinant of health
+Area deprivation
+health financial data
+Medicare claims
+demographic data
+Census data
+statistical model
+Negative binomial regression
+health data
+Central cancer registry data
+geographic region
+Appalachia
+health condition
+Later stage breast cancer (LSBC)
+social determinant of health
+Geographic area deprivation
+data analysis method
+Exploratory spatial analysis
+colleague
+John E. Ataguba
+study
+Universal Health Coverage Collection
+country
+South Africa
+Health care access issue
+Racial disparity
+Health care access issue
+Ethnic disparity
+Economic factor affecting healthcare access
+Health insurance
+Economic factor affecting healthcare access
+Education
+Economic factor affecting healthcare access
+Income
+Health Equity Advocate
+American Pharmacists Association
+Health Equity Advocate
+U.S. Food and Drug Administration Office of Minority Health and Health Equity
+Healthcare Provider
+Pharmacists
+Health Disparity Issue
+Diabetes
+Result of Economic, Social, or Environmental Disadvantage
+Health Disparities
+Technique for Patient Communication
+Health Literacy
+Technique for Patient Communication
+Numerate Techniques
+Technique for Patient Communication
+Culturally Competent Techniques
+Focus Area of American Pharmacists Association and U.S. Food and Drug Administration Office of Minority Health and Health Equity
+Health Equity
+Health Disparity Indicator
+Morbidity and Mortality
+Health Disparity Indicator
+Injury or Violence
+inequality in health outcomes
+Health disparities
+construct within the Integrative Behavioral Model
+Perceived behavioral control
+planning tool for addressing health disparities
+Social determinants of health
+predictor and determinant of perceived behavioral control
+Unified social determinant of health framework
+Healthcare System
+UK National Health Service
+Healthcare System
+Fee-for-service system
+Healthcare System
+China's health system
+Healthcare principle
+Universal health coverage
+Economic System
+Market system
+Healthcare strategy
+Health system reform
+Financial Resource
+Government funding
+health intervention
+Immunization
+health issue
+Childhood diseases
+health issue
+Child health
+health indicator
+Childhood immunization coverage
+Vaccine Alliance
+Gavi
+financial support phase
+Gavi preparatory transition phase
+financial support phase
+Accelerated transition phase
+financial support phase
+Full self-financing
+data source
+Demographic Health Surveys and Multiple Indicator Cluster Surveys
+measure of inequality
+Rate difference
+measure of inequality
+Rate ratio
+measure of inequality
+Relative concentration index
+strategy to address inequality
+Health interventions
+strategy to reduce incidence of mortality and morbidity
+Primary health care system
+Health Service
+Antenatal Care
+African Country
+Angola
+Health Outcome
+Maternal Mortality
+Geographic Location
+Urban Residence
+Geographic Location
+Rural Residence
+Socioeconomic Group
+Rich Women
+Socioeconomic Group
+Educated Women
+Socioeconomic Group
+Poor Women
+Socioeconomic Group
+Uneducated Women
+Socioeconomic Indicator
+Economic Status
+Socioeconomic Indicator
+Education
+Geographic Indicator
+Residence
+Geographic Indicator
+Region
+Health Services
+ANC Services
+type of healthcare
+Chronic disease management
+chronic disease
+Diabetes
+source of data
+Regional national health insurance fund
+source of data
+Socio-demographic databases
+socio-economic indicator
+Median household income
+type of healthcare
+Diabetes monitoring and care
+type of medication
+Oral diabetes drugs
+geographical location
+PACA region
+social inequity
+Income disparity
+social inequity
+Health inequity
+type of healthcare service
+Diabetes specialist visit
+economic condition
+Recession
+type of healthcare
+Diabetes-related healthcare
+standard of care for chronic liver disease
+Liver transplantation
+organ allocation organization
+United Network for Organ Sharing
+liver disease scoring system
+Childs-Turcotte-Pugh system
+liver disease scoring system
+MELD score
+health care access issue
+Organ allocation disparities
+health care access issue
+Racial disparities
+health care access issue
+Geographic disparities
+health care access issue
+Gender disparities
+demographic group
+American Indian children
+demographic group
+White children
+geographic location
+North Dakota
+data source
+Immunization Information System
+health measure
+Immunization coverage rate
+health program
+Vaccines for Children
+health intervention
+Immunization
+social determinant of health
+Racial disparity
+social determinant of health
+Vaccination barrier
+health measure
+Timeliness of vaccine administration
+health measure
+Number of doses needed
+health service provider
+Public health providers
+health service provider
+Private healthcare providers
+major elective surgeries
+TKA
+subset of TKA patients
+African American TKA patients
+healthcare system factor
+Provider bias
+healthcare system factor
+Rates of health insurance coverage
+healthcare system factor
+Utilization of lower quality hospitals
+societal factor
+Systemic racism
+patient factor
+Physical and mental health at baseline
+patient factor
+Social support
+clinical outcomes
+Outcome disparities
+healthcare service factor
+Quality of surgical care
+type of, hip fracture
+Femoral neck fractures
+type of, hip fracture
+Pertrochanteric fractures
+treatment, for hip fracture
+Total hip arthroplasty
+treatment, for hip fracture
+Hemiarthroplasty
+treatment, for hip fracture
+Open reduction and internal fixation
+treatment, for hip fracture
+Nonoperative management
+variable, in treatment determination
+Patient race
+variable, in treatment determination
+Patient age
+variable, in treatment determination
+Patient sex
+variable, in treatment determination
+Charlson Comorbidity Index score
+geographic variable, in treatment determination
+Hospital referral region
+examination of racial and socioeconomic disparities
+This study
+aspect of access to primary care
+Racial and socioeconomic disparities
+target group for access to primary care
+People with chronic conditions
+factor for usual source of care
+Racial disparities
+factor for type of primary care providers
+Racial disparities
+factor for location of primary care
+Racial disparities
+limited factor for access to primary care
+Socioeconomic disparities
+group needing improved access to primary care
+Racial/ethnic minorities with chronic conditions
+necessary resource for people with chronic conditions
+Primary care
+Pandemic
+COVID-19
+Geographic location
+United States
+Demographic group
+Communities of color
+Geographic location
+Rural areas
+Economic condition
+Areas of low income
+Type of inequity
+Geographic disparity
+Social determinant of health
+Structural inequities
+Health care challenge
+COVID-19
+Demographic group
+Geographically disparate populations
+Solutions to current situation
+Recommendations
+health event
+COVID-19 pandemic
+demographic group
+African Americans
+health outcome
+Disparities
+social determinant of health
+Structural inequities
+driving factor of structural inequities
+Historical context
+determinant of COVID-19 progression in African Americans
+Impact of structural inequities
+strategy for addressing healthcare disparities
+Multifaceted approach
+determinant of health
+Socioeconomic status
+determinant of health
+Education
+determinant of health
+Income
+determinant of health behavior
+Cognitive decision-making constructs
+determinant of health behavior
+Affective decision-making constructs
+health behavior
+Colorectal cancer screening
+determinant of health behavior
+Barriers to screening
+determinant of health behavior
+Fear of colonoscopy
+determinant of health behavior
+Colorectal cancer knowledge
+health behavior
+Screening compliance
+health care service
+Nursing home care
+patient group
+Racial/Ethnic minorities
+care deficiency
+Limited clinical and financial resources
+care deficiency
+Low nurse staffing levels
+quality indicator for nursing home care
+High number of care deficiency citations
+characterization of nursing home facilities
+Facilities with different concentrations of racial/ethnic minority residents
+quality improvement trend in nursing home care
+Decrease in the number of health care-related deficiencies
+aspect of health care equity
+Disparities in health care-related deficiencies
+financial resource for nursing home care
+Medicaid payment rate
+financial policy affecting nursing home care
+State case-mix payment approaches
+health policy approach
+Quality improvement and cost containment efforts
+uninsured group
+Latino young adults
+healthcare policy
+2010 Affordable Care Act
+insurance coverage
+Employer-provided health insurance
+insurance coverage
+Parents' health insurance
+social determinant of health
+Socio-economic status
+result of socio-economic status
+Health inequalities
+aspect of health inequalities
+Mortality
+aspect of health inequalities
+Life expectancy
+aspect of health inequalities
+Self-rated health
+aspect of health inequalities
+Smoking
+aspect of health inequalities
+Obesity
+method of studying health inequalities
+Empirical analyses
+measure of individual socio-economic status
+Educational level
+measure of socio-economic status
+Regional deprivation
+measure of health inequalities
+Absolute and relative inequality
+stratification factor for health inequalities
+Sex
+analysis method for health inequalities
+Significance tests for time trend
+time trend in society
+Health Inequalities
+vaccination behavior
+HPV vaccine uptake
+demographic factor
+Ethnicity
+socioeconomic factor
+Deprivation
+educational factor
+Non-mainstream educational settings
+Disadvantaged group in infertility treatment
+Underinsured women
+Disadvantaged group in infertility treatment
+Uninsured women
+Element of family planning
+Infertility treatment
+Focus group in CAM studies
+Patients who have insurance
+Complementary and alternative medicine
+Acupuncture
+Complementary and alternative medicine
+Herbal supplements
+Complementary and alternative medicine
+Dietary supplements
+SocialDeterminantOfHealth
+Poverty
+SocialDeterminantOfHealth
+Education
+SocialDeterminantOfHealth
+Employment
+SocialDeterminantOfHealth
+SocialSupport
+SocialDeterminantOfHealth
+AccessToHealthCare
+SocialDeterminantOfHealth
+Housing
+medical procedure
+SLND
+medical procedure
+ALND
+disease
+Breast cancer
+health facility
+Community cancer centers
+health facility
+Academic/research centers
+social determinant of health
+Health insurance
+social determinant of health
+Race and ethnicity
+social determinant of health
+Residential characteristics
+health inequity
+Disparities in medical procedure utilization
+intervention strategy
+Patient and surgeon education
+Disadvantaged Group
+Rural populations
+Adverse Health Outcome
+Poorer health
+Adverse Health Outcome
+Higher age-adjusted mortality
+Health Care Factor
+Health care provider availability
+Health Care Factor
+Health care provider accessibility
+Systemic Disadvantage
+Structural urbanism
+Economic Factor
+Health care funding models
+Systemic Disadvantage
+Biases in health care funding
+ethnicity
+Latino
+ethnicity
+White
+ethnicity
+Black
+survey
+National Health Interview Survey
+method
+Blinder-Oaxaca decomposition
+health metric
+Health-care access
+health metric
+Health-care utilization
+factor affecting health-care disparity
+Sociodemographic characteristics
+factor affecting health-care disparity
+Health-care return
+health-care utilization measure
+Emergency department use
+health-care utilization measure
+Preventive care
+health-care utilization measure
+Delayed care
+Legislation
+MHPAEA
+Health Coverage Act
+MHPAEA
+Plan Management Strategy
+NQTL
+Health condition
+Mental illness
+Health condition
+Substance use disorder
+Chronic disease
+Heart disease
+Health condition
+Obesity
+Social determinant of health
+Poverty
+Society
+SSAT
+Committee
+Task Force
+Permanent Committee
+Diversity and Inclusion liaison committee
+Profession
+Gastrointestinal surgeons
+Research Focus
+Research related to healthcare disparities
+Skill
+Cultural competency
+Role
+Leaders with Unique Perspectives
+global problem
+Infertility
+health issue
+Infertility
+health service
+Treatment
+determinant of health
+Access to care
+measure of healthcare effectiveness
+Assisted reproductive technology outcomes
+Health indicator
+Immunization coverage rates
+Health survey
+National Immunization Survey
+Geographic location
+Central cities
+Preventive health measure
+Childhood immunization
+Health Equality indicator
+Immunization disparities
+Demographic group
+Hispanic population
+Public health metric
+Childhood immunization coverage
+Population survey
+Census
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Access to Health Care
+Social Determinant of Health
+Housing
+Social Determinant of Health
+Neighborhood Environment
+Social Determinant of Health
+Food Security
+Social Determinant of Health
+Transportation
+Social Determinant of Health
+Social Exclusion
+Health Inequity
+Racial/Ethnic disparities in pediatric care
+Health Inequity
+Disparities in ambulatory care service intensity
+Health Inequity
+Disparities in hospital use
+health disparity
+Type 2 diabetes
+issue in diabetes control
+Racial/ethnic health disparities
+method to reduce racial/ethnic disparities in diabetes control
+Multifaceted interventions
+condition targeted by multifaceted interventions
+Poorly controlled diabetes
+healthcare provider for diabetes patients
+Federally Qualified Health Center in New York
+Whites, are-a, racial/ethnic groups affected by diabetes
+Blacks
+health outcome improved by multifaceted interventions
+Diabetes control
+health disparity reduced by multifaceted interventions
+Racial/ethnic disparities in diabetes control
+Health Professionals
+Occupational Therapists
+Framework
+Equity Lens for Occupational Therapy (ELOT)
+Tool for Reflecting on Equity Issues
+ELOT
+Base for ELOT
+Occupational Therapy Practice Model
+Component of Occupational Therapy
+Program Development and Evaluation Processes
+Method for Critical Reflection on Occupational Therapy Programs
+Equity Lens
+Outcome of using ELOT
+Action Strategies
+Method for Addressing Inequities in Occupational Therapy
+Social Advocacy
+Context of Occupational Therapy
+Health and Social Systems
+Challenge in Occupational Therapy
+Inequities
+health disparity
+HIV
+determinant for HIV health services utilization
+Gender inequity
+determinant for HIV health services outcomes
+Gender inequity
+barrier for HIV services in rural India
+Gender-related gaps
+factor in gender-equitable HIV testing and care
+Gender-specific patient needs
+requirement for rural care providers
+Gender sensitivity training
+institutional requirement for gender-equity in health care
+Gender-equitable medical workplaces
+foundation for gender equity in overall health care system
+Gender-equitable approach
+Health Disparity Research
+Pain disparities research
+Pain disparities research
+Fourth generation of pain disparities research
+Goal for health research
+Health justice and equity
+Health disparity issue
+Pain care for racialized groups
+Needed development in health research
+New theoretical models
+Factor in health disparity
+Historical context of human existence
+Health care disparity
+Inadequate pain care
+Focus of health research
+Existing problems in health disparities
+Future of health research
+Proposed solutions for health disparities
+partnership
+Medical-legal partnerships
+profession
+Medical professionals
+profession
+Lawyers
+educational program
+Residency programs
+profession
+Health care providers
+student
+Medical students
+educational program
+Medical school courses
+event
+Noon conferences
+educational program
+Advocacy electives
+educational program
+CME courses
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Unemployment
+Social Determinant of Health
+Safe housing
+Social Determinant of Health
+Healthy food access
+Social Determinant of Health
+Community Safety
+'Conditional cash transfer program'
+'Oportunidades program'
+'Healthcare institution'
+'Mexican Social Security Institute'
+'Healthcare providers'
+'Indigenous midwives'
+'Recipients of maternal health care'
+'Indigenous mothers'
+'Healthcare professionals'
+'Health care administrators'
+'Aspect of maternal health'
+'Health-disease-care processes'
+'Sociocultural factor influencing health'
+'Interculturality'
+'Process of racialization'
+'Racial i(nter)dentification'
+Health organization
+United States Preventive Services Taskforce
+Preventive medical procedure
+Lung cancer screening
+Medical imaging technique
+Low-dose chest CT imaging
+Patient classification
+High-risk individuals
+Social determinant of health
+Racial disparities
+Health outcome
+Lung cancer mortality
+Health behavior
+Adherence to LCS follow-up
+Research method
+Systematic review
+EMBASE, Web of Science, Cumulative Index to Nursing and Allied Health Literature Database, is-a, Scientific database
+MEDLINE
+Statistical procedure
+Meta-analysis
+Racial group
+Black population
+Health program
+LCS program
+Health intervention
+Physician education
+Health professional role
+Screening program coordinators
+Neurosurgical Procedure
+Pituitary Surgery
+Condition Requiring Pituitary Surgery
+Pituitary Adenomas
+Factor Affecting Surgical Results
+Healthcare Disparity
+Factor in Healthcare Disparity
+Race
+Factor in Healthcare Disparity
+Socioeconomic Status
+Factor in Healthcare Disparity
+Age
+Factor in Healthcare Disparity
+Gender
+Postoperative Complication
+Transient Diabetes Insipidus
+Postoperative Complication
+Stroke
+Preferred Treatment Location
+High-Volume Centers
+Type of Patient Insurance
+Government Insurance
+Type of Patient Insurance
+No Insurance
+Treatment Recommendation
+Active Surveillance
+Treatment Recommendation
+Definitive Treatment
+Treatment for Pituitary Adenomas
+Surgical Treatment
+Treatment Outcome Measure
+Postoperative Course
+health care issue
+Racial/ethnic health disparities
+national insurance coverage
+Affordable Care Act
+US integrated health care system
+Veterans Health Administration
+method to address health disparities
+Health equity research
+research subject in VHA
+Racial/ethnic mortality disparities
+database for research
+MEDLINE
+database for research
+Cochrane Central Registry of Controlled Trials
+part of research method
+Study selection decisions
+part of research method
+Data collection and analysis
+statistical tool for data analysis
+Random effects models
+visualization tool for representing data
+Evidence map
+health outcome of interest in the study
+Mortality disparities
+racial group in the study
+Black veterans
+racial group in the study
+American Indian and Alaska Native veterans
+racial group in the study
+Hispanic veterans
+Health Policy
+ACA
+Latino Subgroup
+Mexicans
+Latino Subgroup
+Central Americans
+Latino Subgroup
+Puerto Ricans
+Ethnical Group
+Non-Latino whites
+Data collection method
+National Health Interview Survey
+Statistical analysis method
+Logistic regression models
+Age group
+18-64 years old
+Demographic characteristic
+Citizenship status
+Cultural characteristic
+Language use
+Measure of access to health care
+Insurance status
+Measure of health care utilization
+Emergency department visit
+Measure of health care utilization
+Physician visit
+Measure of health care access
+Delaying medical care
+social determinant of health
+Unemployment
+social determinant of health
+Education
+social determinant of health
+Housing
+social determinant of health
+Income
+social determinant of health
+Social support networks
+social determinant of health
+Access to health care
+Health issue
+Occupational disease
+Decision-making body
+Regional committee
+Measure of decision outcome
+Acceptance rate
+Source of injustice
+Discrepancy
+Occupational disease
+Asbestos related diseases
+Occupational disease
+Musculoskeletal disorders
+Representative of compensation claim
+Clinical case
+Outcome of committee review
+Decision
+"gastric cancer screening method"
+"Endoscopic screening"
+"gastric cancer screening method"
+"Radiographic screening"
+"method of collecting data"
+"National survey"
+"medical procedure"
+"Endoscopic examinations"
+"geographical area of healthcare coverage"
+"Medical districts"
+"urban geographical area"
+"Big cities"
+"non-urban geographical area"
+"Rural areas"
+"national governing body"
+"Japanese government"
+"medical procedure"
+"Upper gastrointestinal endoscopy"
+"statistical measure of engagement"
+"Participation rates"
+"healthcare provision factor"
+"Medical resources"
+Social Issue
+Racism
+Ethical Issue
+Racism
+Political Issue
+Racism
+Cultural Issue
+Racism
+Legal Issue
+Racism
+Health Issue
+Health Disparities
+Result of Racism
+Health Disparities
+Health Issue
+Racial disparities in health
+Result of Racism
+Racial disparities in health
+health condition
+Gestational diabetes mellitus
+first-line pharmacotherapy for gestational diabetes mellitus
+Insulin prescription
+first-line pharmacotherapy for gestational diabetes mellitus
+Oral antidiabetic medication
+prenatal factor associated with insulin prescription
+Maternal age
+prenatal factor associated with insulin prescription
+Hispanic ethnicity
+prenatal factor associated with insulin prescription
+Lack of insurance
+prenatal factor associated with insulin prescription
+Endocrinology management of GDM
+healthcare setting
+University hospital
+oral antidiabetic medication
+Metformin
+oral antidiabetic medication
+Glyburide
+type of Health Care
+Neurologic care
+type of Survey Data
+Medical Expenditure Panel Survey
+type of Population Characteristics
+Demographics
+type of Health Care Utilization Data
+Neurology visit rates
+type of Health Care Utilization Data
+Outpatient department neurologic care visit rates
+type of Health Care Setting
+Emergency department
+type of Health Care Utilization
+Hospital stays
+type of Health Care Cost
+Per capita inpatient expenditures
+Health care disparity
+Racial/Ethnic Health care disparities
+Definition method
+IOM definition
+Data collection method
+Medical Expenditure Panel Survey
+Health care cost
+Mental health care expenditure
+Health inequality
+Health inequity
+Data set
+American sample of the 2002-03 Joint Canada/United States Survey of Health
+Health measurement tool
+Health Utilities Index (HUI)
+Statistical method
+Ordinary Least Squares
+Inequality measure
+Gini coefficient
+Fairness-standardization method
+Direct standardization
+Fairness-standardization method
+Indirect standardization
+healthcare service
+Esophageal cancer operation
+health data registry
+Michigan Cancer Surveillance Program
+surgical procedure for esophageal cancer
+Esophagectomy
+geographical classification
+Urban vs rural designations
+regional economic classifications
+Michigan Economic Recovery Council designations
+and chi-square test, is-a, statistical analysis methods
+ANOVA
+measure of the effect of healthcare
+Health outcomes
+factor impacting health outcomes
+Regional variation
+determinant of receiving operation
+Health insurance
+determinant of receiving operation
+Race
+determinant of receiving operation
+Gender
+determinant of receiving operation
+Residence location
+Health Condition
+Autism Spectrum Disorder
+Demographic Factor
+Child Race-Ethnicity
+Social Determinant of Health
+Neighborhood Characteristics
+Health Care Access Indicator
+Treatment Receipt Age
+Treatment
+PCI
+Heart condition
+STEMI
+Cognitive condition
+Dementia
+Procedure
+Diagnostic cardiac catheterization
+Surgical procedure
+CABG
+Metabolic disorder
+Hyperlipidemia
+"Requirement for health disparity elimination"
+"High-quality data"
+"Requirement for cancer prevention and control"
+"High-quality data"
+"Aspect of race and ethnicity data collection"
+"Granular ethnicity"
+"System for capturing race and ethnicity data"
+"Patient registration system"
+"Method to improve data collection"
+"Staff training"
+"Place for data collection"
+"Hospital"
+"Way to improve quality of hospital and state cancer registry data"
+"Identification of racial and ethnic minorities"
+"Possible benefit from improved data collection"
+"Alignment with language services"
+"Possible benefit from improved data collection"
+"Understanding of healthcare needs"
+"Outcome of better data collection"
+"Strategies to address disparities"
+vulnerable population
+Immigrant children
+benchmark population
+Native-born adult populations
+immigrant children
+First-generation immigrant children
+immigrant children
+Second-generation immigrant children
+health disparity factor
+Socioeconomic status
+health disparity factor
+Insurance and language barriers
+health disparity factor
+Authorization status
+health disparity factor
+Bias/Xenophobia
+health condition
+Pediatric epilepsy
+intervention
+Language concordance
+intervention
+Community-driven educational efforts
+intervention
+Broad-scale policy changes
+Country
+USA
+Sector
+Health care
+Health care model
+Universal health coverage
+Health outcome measure
+Life expectancy
+Health condition
+Mental illness
+Health outcome
+Suicide
+Social condition
+Homelessness
+Socioeconomic factor
+Employment
+Socioeconomic factor
+Disparity
+health inequality
+Disparity in access to surgical cancer care
+health inequality
+Disparity in quality of surgical cancer care
+health concern
+Cancer incidence
+health concern
+Cancer mortality
+health inequality
+Inequities in global cancer surgery
+health intervention
+Potential solutions to overcome these challenges
+low-income country
+Kenya
+resource for the poor
+Public facilities
+indicator of service equity
+Facility characteristics
+determinant of health service quality
+Poverty level
+contributing factor to health service quality
+Socioeconomic status
+service prone to pro-rich inequality
+Electricity in health facilities
+service prone to pro-rich inequality
+Laboratory services
+marker of service availability
+Qualified staff
+Legislation
+Children's Health Insurance Program Reauthorization Act
+Authority
+Federal government
+Implementation Body
+States
+Improvement Method
+Quality measurement and demonstrations
+Provision
+Enrollment and outreach
+Service
+Health care delivery for children
+Policy Change
+Health reform
+Eligible Group for CHIPRA
+Low income children
+Special Needs Group
+Children with developmental and behavioral needs
+Information Source
+Legislative analysis and expert input
+Part of Legislation
+Quality related provisions
+type of Health Care Service
+Surgical Services
+type of Healthcare Facility
+Rural Hospitals
+type of Healthcare Facility
+Major Surgery Hospitals
+type of Healthcare System Change
+Hospital Consolidation
+type of Research Tool
+Geospatial Analysis Tools
+treatment for Parkinson's disease
+DBS surgery
+barrier in DBS surgery for Parkinson's disease
+Gender disparity
+source of patient data
+University of Miami DBS Database
+reason for not receiving surgery
+Medical optimization
+reason for not receiving surgery
+Neuropsychological evaluation
+reason for not receiving surgery
+Patient preference
+factor influencing DBS surgery
+Patient education and awareness
+"Initiative"
+"Aligning Forces for Quality"
+"Foundation"
+"Robert Wood Johnson Foundation"
+"Alliance"
+"Multistakeholder alliance"
+"Board"
+"Consumer advisory boards"
+"Report"
+"Public reports of providers' quality"
+basic social demand
+Spatial accessibility to hospital care
+policy factor
+Allocation of government investment
+method
+Shortest path analysis
+method
+Enhanced two-step floating catchment area (E2SFCA) method
+healthcare institution
+Primary hospitals
+healthcare institution
+Secondary hospitals
+healthcare institution
+Tertiary hospitals
+healthcare institution
+Public hospitals
+healthcare institution
+Private hospitals
+financial resource
+Government investment
+healthcare resource
+Healthcare personnel
+financial resource
+Social capital investment
+infrastructure development
+Road construction in rural area
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Low level of education
+Outcome of social determinants of health
+Inequalities in public health
+Measure of Socio-Economic Status
+Family Affluence Scale (FAS)
+Health Outcome
+Health self-assessment
+Health Outcome
+Asthma
+Health Outcome
+Pneumonia
+Health Outcome
+Bronchitis
+Health Outcome
+Spinal deformities
+Social Determinant of Health
+Parents' education
+Social Determinant of Health
+Place of residence
+is-a, culturally diverse area
+Washington
+health condition
+Epilepsy
+measurement of health condition
+Prevalence
+measurement of health condition
+Incidence
+type of prevalence
+Lifetime prevalence
+type of epilepsy
+Active epilepsy
+research method
+Probability-based sampling
+Public health concern
+Childhood morbidity
+Preventable disease
+Diarrheal disease
+Preventable disease
+Acute respiratory infection
+Preventable disease
+Fever
+Factor affecting health outcomes
+Socioeconomic inequality
+Low-income country
+Bangladesh
+Determinant of child health
+Maternal education attainment
+Factor affecting child health
+Pre-delivery care
+Cause of child morbidity
+Chronic undernutrition
+Factor affecting child morbidity
+Immunisation coverage
+Solution for economic inequality
+Healthcare services
+Result of socio-economic inequality
+Childhood morbidity
+socioeconomic factor
+Regional deprivation
+health outcome
+Mortality rates
+health outcome measure
+Standardised mortality ratios (SMRs)
+region type categorized by deprivation
+Poverty poles
+region type categorized by deprivation
+Prospering regions and suburban counties
+region type
+Heterogeneous counties
+population group
+Resettlers from Former Soviet Union countries
+research method
+Retrospective cohort study
+research method
+Natural experiment
+federal state of Germany
+North Rhine-Westphalia
+administrative division of federal state
+Counties of North Rhine-Westphalia
+Surgical Procedure
+Minimally Invasive Surgery
+Minimally Invasive Surgery
+Laparoscopic Surgery
+Minimally Invasive Surgery
+Robotic Surgery
+Insurance Coverage Type
+Private Insurance
+Hospital Type
+Academic Center
+Disease
+Rectal Cancer
+Treatment Method
+Surgical Approach
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Access to Health Care
+healthcare intervention
+Inclusive healthcare innovations
+strategy
+Scaling up
+strategy
+Policy advocacy
+policy advocacy
+Intensive lobbying
+role in healthcare intervention
+Funders
+means for healthcare intervention
+Investment
+factor in healthcare intervention
+Accessibility
+factor in healthcare intervention
+Cost-effectiveness
+factor in healthcare intervention
+Sustainability
+factor in healthcare intervention
+Infrastructure
+health priority
+Health equity
+component of transdisciplinary translational behavior research
+Intervention development
+component of transdisciplinary translational behavior research
+Evaluation
+critical first step in translational research
+Discovery science
+tool for understanding minority health and health disparities
+Conceptual models
+tool for understanding minority health and health disparities
+Frameworks
+basic behavioral mechanism relevant to minority health and health disparities
+Stress responses
+basic behavioral mechanism relevant to minority health and health disparities
+Stress reactivity
+Social determinant of health
+Childhood poverty
+Social determinant of health
+Low education level
+Social determinant of health
+Unemployment
+Social determinant of health
+Poor housing conditions
+Social determinant of health
+Inadequate access to healthcare
+Social determinant of health
+Racial discrimination
+Social determinant of health
+Food insecurity
+Social determinant of health
+Lack of social support
+Social determinant of health
+Exposure to violent crime
+Social determinant of health
+Substance abuse
+social determinant of health
+Low socio-economic status
+social determinant of health
+Educational attainment
+social determinant of health
+Employment status
+social determinant of health
+Access to healthcare
+social determinant of health
+Housing conditions
+social determinant of health
+Social support
+social determinant of health
+Food security
+social determinant of health
+Physical environment
+social determinant of health
+Healthy behavior
+social determinant of health
+Psychological distress
+Country
+Ghana
+Demographic group
+Older adults in Ghana
+Type of healthcare service
+Outpatient services
+Type of healthcare service
+Inpatient services
+Healthcare access factor
+Health insurance
+Factor affecting healthcare access
+Socioeconomic status
+Result of healthcare access
+Healthcare utilisation
+Research study
+World Health Organization's Study on global AGEing
+Healthcare goal
+Equity in healthcare access
+Type of research data
+Cross-sectional data
+determinant of maternal health outcomes
+Health service coverage
+barrier to health service utilization
+Geographical factors
+contributor to poor maternal health outcomes
+Shortages of skilled health providers
+enabler of health service utilization
+Solidarity support for poor people
+enabler of health service utilization
+Interconnectedness between local leaders and heads of health facilities
+factor in resource allocation for universal coverage
+Disparities between districts
+method for improving solidarity and scaling up health services
+Local innovations
+population group
+Rural populations
+barrier type
+Structural barriers
+barrier type
+Community barriers
+barrier type
+Individual-level barriers
+cancer type continuum
+Breast cancer continuum
+cancer type continuum
+Cervical cancer continuum
+health care professional role
+Public health nurses
+aspect of healthcare
+Healthcare landscape
+healthcare access issue
+Access to cancer-focused care
+healthcare access issue
+Access to insurance
+socio-economic issue
+Collective poverty
+population characteristics
+Demographic factors
+patient group
+Rural patients
+Population group
+Immigrant women
+Health issue
+Health inequities
+Social determinant of health
+Sociodemographic status
+Health promotion strategy
+Salutogenic approach
+Personal resources
+Internal assets
+Social resources
+Community assets
+Systemic resources
+Institutional assets
+Research method
+Photovoice session
+Personal beliefs
+Religious beliefs
+Social resource
+Social support
+Risk factor for childhood illness
+Poverty
+Risk factor for childhood illness
+Lack of female empowerment
+Risk factor for childhood illness
+Lack of education
+Solution to poverty and gender disparity
+Microcredit programs
+Solution to lack of knowledge about important health issues
+Health education module
+Community intervention
+World Health Organization's Integrated Management of Childhood Illness
+Part of microcredit organization
+Loan groups
+Monthly session at loan groups
+Health education intervention
+Child's physical condition measure
+Child health status
+Outcome measure of health education intervention
+Child health issues knowledge
+Health service
+Access to Primary Health Care (PHC)
+Aspect of health equity
+Geographic access to care
+Aspect of health equity
+Financial access to care
+Social determinant of health
+Education disparity
+Social determinant of health
+Wealth Disparity
+Social determinant of health
+Conflict intensity
+Country
+Aotearoa/NZ
+Country
+United States
+Goal of National Health Strategy
+Health Equity
+Influencer of Health Equity
+Healthcare system
+Influencer of Health Equity
+Social services
+Aspect of Healthcare system
+Quality of care
+Aspect of Healthcare system
+Payment of care
+Aspect of Healthcare system
+Access to care
+Receiver of Government and Private Policies
+Healthcare system
+Root Cause of Health Inequities
+Structural racism
+Root Cause of Health Inequities
+Colonialism
+Root Cause of Health Inequities
+White privilege
+Group Affected by Health Inequities
+Racial/Ethnic Minorities
+Group Affected by Health Inequities
+Indigenous Peoples
+health behavior
+Primary healthcare utilization
+geographical disparity
+Regional differences
+statistical method
+Binary logistic regression
+research design
+Cross-sectional research
+research subjects
+Participants
+geographical region
+Java Region-Indonesia
+health inequality
+Healthcare utilization disparity
+Social Determinant of Health
+Poor Nutrition
+Social Determinant of Health
+Low-Income
+Social Determinant of Health
+Unemployment
+Social Determinant of Health
+Lack of Education
+Social Determinant of Health
+Stress
+Social Determinant of Health
+Housing Instability
+Social Determinant of Health
+Food Insecurity
+Social Determinant of Health
+Social Exclusion
+Social Determinant of Health
+Health Care Access
+Social Determinant of Health
+Transportation Access
+Population Group
+Aboriginals
+Population Group
+Non-Aboriginals
+Population Group
+Welfare Recipients
+Health Indicator
+Healthcare Utilisation Rates
+Specialty
+Cardiology
+Specialty
+Ophthalmology
+Health Issue
+Health Disparities
+Province of Canada
+Alberta
+mental health issue
+major depressive disorder
+mental health issue
+general anxiety disorder
+mental health issue
+suicidal ideation
+psychosocial predictor
+acculturation stress
+psychosocial predictor
+negative interaction with family members
+psychosocial predictor
+discrimination
+protective factor
+social support
+protective factor
+racial/ethnic identity
+protective factor
+religious involvement
+Health inequality
+Health expenditure disparities
+Demographic factor
+United States residence years
+Sociopolitical factor
+Citizenship/Nativity status
+Data source
+Medical Expenditure Panel Survey
+Data source
+National Health Interview Survey
+Health economic measure
+Health spending
+Social determinant of health
+Health insurance status
+Statistical analysis method
+Decomposition technique
+Quality Improvement Initiatives
+Hospital
+Patient Safety Initiatives
+Hospital
+Severe Maternal Morbidity
+Quality Improvement Initiatives
+Severe Maternal Morbidity
+Patient Safety Initiatives
+Non-Hispanic Black Women
+Severe Maternal Morbidity
+Guideline Development
+Data Stratification
+Reduce Racial Disparity
+Guideline Development
+type of health care service
+Low value care
+type of study design
+Retrospective cohort study
+type of healthcare data
+Medicare fee-for-service administrative data
+type of study participants
+Black and White Medicare patients aged 65 or older
+provider of healthcare services
+Health system
+type of healthcare measure
+40 low value services
+type of health disparity
+Racial differences in receipt of low value care
+type of demographic factor
+Racial composition of the health system's population
+type of healthcare service
+Low value acute diagnostic tests and treatments
+type of health behavior
+Healthcare use
+type of clinical role
+Health system leaders
+type of academic role
+Researchers
+type of government role
+Policy makers
+health condition
+Male breast cancer
+social determinant of health
+Socioeconomic status
+social determinant of health
+Race
+social determinant of health
+Ethnicity
+Social determinant of health
+Income Inequality
+Social determinant of health
+Educational Opportunities
+Social determinant of health
+Access to Nutritious Food
+Social determinant of health
+Access to Healthcare
+Social determinant of health
+Housing Stability
+Social determinant of health
+Neighborhood Safety
+Social determinant of health
+Environmental Conditions
+Social determinant of health
+Employment Opportunities
+Social determinant of health
+Social Support Networks
+Social determinant of health
+Race and Ethnicity
+population group
+Hispanic women
+population group
+Non-Hispanic White women
+health care service
+Infertility services
+social determinant of health
+Economic factors
+social determinant of health
+Geographic factors
+social determinant of health
+Cultural factors
+social determinant of health
+Societal factors
+health care inequality
+Disparities in treatment outcomes
+infertility treatment
+In-vitro fertilization treatment
+demographic information
+Race data
+economic factor
+Insurance coverage
+health care service
+Patient education
+health care service
+Provider education
+health care inequality
+Access to reproductive medicine
+determinant of health facility delivery
+Urbanity
+determinant of health facility delivery
+Administrative region
+determinant of health facility delivery
+Economic status
+determinant of health facility delivery
+Maternal education
+level of education
+Secondary/higher education
+level of education
+No education
+type of dwelling area
+Urban area
+type of dwelling area
+Rural place
+economic class
+Upper economic quintile
+economic class
+Lowest quintile
+measure of health care
+Healthcare affordability
+aspect of healthcare in Canada
+Access to publicly funded health care
+determinant of equitable access
+Healthcare affordability
+method of measuring healthcare affordability
+Survey-based measure
+method of developing items for a survey
+Focus group exploration
+method of conducting initial instrument
+Telephone administration
+evolved form of initial instrument
+Self-administered version
+method to examine score predictions
+Ordinal logistic regression modelling
+factor affecting affordability
+Income status
+result of affordability issues
+Unmet needs
+result of affordability issues
+Emergency room use
+result of affordability issues
+Health problem aggravation
+application of the subscale measure
+Healthcare equity
+health disparity
+Variations in medication treatment
+or sex, is-a, health disparity
+Differences in drug treatment based on race
+health disparity
+Differences in receipt of prescription drugs
+health disparity
+Differences in drugs prescribed
+health disparity
+Differences in drug dosing or administration
+health disparity
+Wait time to receipt of a drug
+health outcome associated with pharmacotherapeutic disparities
+Increased rates of hospitalization
+health outcome associated with pharmacotherapeutic disparities
+Decreased rates of therapeutic goal attainment
+health outcome associated with pharmacotherapeutic disparities
+Decreased rates of survival
+Behavioral determinant
+Tobacco Use
+Socioeconomic determinant
+Low Education
+Socioeconomic determinant
+Unemployment
+Environmental determinant
+Poor Housing
+Environmental determinant
+Access to Healthy Foods
+socioeconomic factor
+Family income
+health service usage
+Dental care use
+socioeconomic factor
+Social inequalities
+socioeconomic factor
+Education
+socioeconomic factor
+Place of residence
+health outcome
+Health inequalities
+research method
+Survey method
+human population
+Polish population
+health service
+Dental services
+type of residence
+Rural area
+type of residence
+City
+research organization
+Statistics Poland
+social determinant of health
+Poverty
+social determinant of health
+Education
+social determinant of health
+Employment
+social determinant of health
+Social support
+social determinant of health
+Access to healthcare
+Method to understand health disparities
+Research
+Substance use disorder treatment
+Contingency Management Treatment
+Substance use disorder treatment
+Medication-Assisted Treatment
+Substance use disorder treatment
+Cultural Competent Practices
+Demographic group
+Mexican Americans
+Demographic group
+Non-Latino Whites
+Health outcome
+Treatment Completion
+health service
+Substance use disorder treatment programs
+health determinant
+Client demographics
+health determinant
+Drug use severity
+health determinant
+Mental health issues
+quality indicator of health service
+Program license and professional accreditation
+social determinant of health
+Socioeconomic status
+social determinant of health
+Education level
+social determinant of health
+Employment status
+social determinant of health
+Geographical location
+social determinant of health
+Housing condition
+social determinant of health
+Access to healthcare
+social determinant of health
+Nutrition
+social determinant of health
+Physical environment
+social determinant of health
+Social support networks
+care delivery model
+Home hospital care
+substitute for traditional inpatient hospital care
+Home hospital care
+healthcare enrollment program
+Medicare Advantage
+healthcare organization
+Centers for Medicare & Medicaid Services
+healthcare service program
+Hospitals Without Walls program
+component of Hospitals Without Walls program
+Acute hospital care at home
+Population Group
+American Indian/Alaska Native
+Population Group
+Non-Hispanic Whites
+Health Disparity Indicator
+Uninsurance rate
+Data Source
+Current Population Survey
+Data Source
+National Health Interview Survey
+Data Source
+Medical Expenditure Panel Survey
+Researched population
+Aboriginal Australians
+Population
+Non-Aboriginal Australians
+Tool for social interventions
+Evidence-based practice
+Area uninformed by evidence-based practice
+Aboriginal policy
+Cause of uninformed Aboriginal policy
+Criticism of Evidence-Based Practice
+Recipients of intervention
+Indigenous peoples
+Well-being index
+Life expectancy
+Measure of health
+Other well-being indices
+Base for evidence-based practice
+Clinical expertise and systematic research
+system
+Asylum seeker detention in Australia
+right
+Right to health
+issue
+Ethical problems
+occupation
+Healthcare providers
+Healthcare providers
+Nurses
+approach
+Ethics of care
+experience
+Witnessing suffering
+professional practice
+Ethical nursing practice
+Treatment method
+Psychotherapy
+Type of Psychotherapy
+Interpersonal Therapy
+Pittsburgh, are-a, Cities
+New York City
+Type of Depression
+Major Depression
+Type of Depression
+Minor Depression
+Ethnic group
+African American
+Ethnic group
+Whites
+Medication
+Antidepressant
+Healthcare Professional
+Primary Care Physician
+Group with poorer physical and mental health
+Older American Indians and Alaska Natives
+Group with better access to medical care
+Non-Hispanic Whites
+Group with unmet health care needs
+Older American Indians and Alaska Natives
+Group with difficulty understanding medical information
+Older American Indians and Alaska Natives
+Group delaying needed medical care
+Older American Indians and Alaska Natives
+Source of health care data
+California Health Interview Survey
+Population needing more health care research
+Older American Indians and Alaska Natives
+Phenomenon needing informed efforts for reduction
+Health disparities
+Environmental determinant of health
+Air quality
+Social determinant of health
+Socioeconomic status
+Social determinant of health
+Education level
+Social determinant of health
+Employment status
+System determinant of health
+Access to healthcare
+Lifestyle determinant of health
+Diet
+Lifestyle determinant of health
+Smoking
+Lifestyle determinant of health
+Physical activity
+Psychological determinant of health
+Stress
+Environmental determinant of health
+Housing quality
+population group
+Poor adults
+population group
+Nonpoor adults
+database
+Behavioral Risk Factor Surveillance System
+economic measure
+Federal poverty threshold
+analytical method
+Linear probability models
+health inequality measure
+Dental care utilization gap
+health insurance program
+Medicaid
+healthcare service
+Dental coverage
+health measure
+Oral health outcomes
+social determinant of health
+Inequality in dental care utilization
+policy solutions
+Alternative approaches
+cardiovascular disease
+Acute myocardial infarction
+structured initiative
+Guidelines Applied in Practice [GAP]
+main outcome measure
+Adherence to guideline-based medications/recommendations
+indicator of quality care
+GAP discharge tool usage
+hospital service
+Smoking cessation counseling
+patient population
+Medicare patients
+patient population
+Nonwhite patients
+patient population
+White patients
+health care issue
+Racial disparities
+health policy strategy
+Quality improvement programs
+cause of financial hardship
+Cancer treatment
+proposed quality metric for oncology practices
+Financial hardship screening and management
+rising factor
+The cost of cancer treatment
+successful method in establishing standards of care
+Quality measurement and reporting
+potential endorsers for financial hardship screening
+National Quality Forum and professional societies for oncology care clinicians
+not currently part of most clinical practices
+Screening for financial hardship
+growing urgency due to the rising cost of cancer treatment
+The need to mitigate adverse consequences of financial hardship
+strong argument to mitigate the financial consequences of cancer
+The confluence of increasingly high-cost care and widening disparities in ability to pay
+determinant of child health
+Socio-economic factors
+factor affecting child health
+Health risk behaviors
+factor affecting child health
+Psychosocial well-being
+research methodology
+Cross sectional territory wide survey
+research tool
+Youth Risk Behavior Surveillance questionnaire
+research tool
+Children Behavior Checklist (CBCL)
+research tool
+Health-related knowledge and hygienic practice questionnaire
+child health issue
+Somatic complaints
+child health issue
+Anxiety/depression
+health risk behavior
+Eating habits
+health risk behavior
+Screen time
+health risk behavior
+Exposure to passive smoking
+socio-economic factor
+Higher family income
+socio-economic factor
+Higher parental education
+socio-economic factor
+Unemployment
+socio-economic factor
+Social assistance
+Social Determinant of Health
+Poverty
+Social Determinant of Health
+Education
+Social Determinant of Health
+Employment
+Social Determinant of Health
+Social Support
+Social Determinant of Health
+Access to Healthcare
+factor in lower extremity revascularization (LER
+Racial disparity
+method to limit rising hospitalization costs
+All-payer rate-setting system
+hospital compensation method
+Aggregate payment system
+result of patient-level factors
+Cost differences
+method to assess intensive care unit (ICU
+Quality metrics
+factor in discrepancies in LER hospital costs
+Racial differences
+group with higher LER costs
+Disadvantaged populations
+cause of higher LER costs in AA patients
+Extended hospitalization and ICU admission
+factor contributing to higher LER costs
+Socioeconomic factors
+vulnerable population
+Individuals with disabilities
+key access point in the healthcare delivery system
+Nurse practitioners
+cornerstone to improving health and quality of life
+Preventive services
+barrier to preventive care
+Physical environment and system
+barrier to preventive care
+Transportation
+barrier to preventive care
+Provider knowledge and attitude
+barrier to preventive care
+Financial
+health event
+COVID-19 cases
+health event
+COVID-19 deaths
+demographic group
+Nursing home residents
+demographic group
+Nursing home staff
+social determinant of health
+Racial/ethnic disparities
+research design
+Cross-sectional analysis
+data source
+National nursing home COVID-19 reports
+care setting
+Nursing home
+health resource
+Personal protective equipment (PPE)
+health system factor
+Shortages in staff and PPE
+Parent Concept
+Child Concept
+Pathway for health disparities
+Housing
+Pillar of health-promoting housing factor
+Cost
+Pillar of health-promoting housing factor
+Conditions
+Pillar of health-promoting housing factor
+Consistency
+Pillar of health-promoting housing factor
+Context
+Cause of unequal distribution of access to health-promoting housing factors
+Structural inequalities
+Aspect of cost
+Housing affordability
+Aspect of conditions
+Housing quality
+Aspect of consistency
+Residential stability
+Aspect of context
+Neighborhood opportunity
+Aspect of health equity
+Healthy housing
+Result of interaction between housing factors and structural inequalities
+Cumulative burden
+Result of cumulative burden
+Health disparities
+early onset of chronic diseases
+Low socioeconomic status
+reduced life expectancy
+Low socioeconomic status
+chronic health conditions
+SES
+low SES communities
+Chronic life stress
+determinant of cancer risk
+Neighborhood-level factors
+contributor to cancer outcomes
+Neighborhood-level factors
+socioenvironmental factor affecting tumor biology
+Environmental pollutants
+socioenvironmental factor affecting tumor biology
+Neighborhood deprivation
+socioenvironmental factor affecting tumor biology
+Social isolation
+socioenvironmental factor affecting tumor biology
+Structural racism
+socioenvironmental factor affecting tumor biology
+Discrimination
+measurable factor in cancer health disparities
+Deprivation
+measurable factor in cancer health disparities
+Discrimination
+determinant of health
+Living environment
+determinant of health
+Dwellings
+determinant of health
+Housing
+housing factor that impacts health
+Residential instability
+housing factor that impacts health
+Affordability
+housing factor that impacts health
+Housing safety and quality
+determinant of health
+Neighborhood characteristics
+factor that impacts neighborhood conditions
+Political choices
+factor that impacts neighborhood conditions
+Administrative choices
+factor that ensures Public Health protection
+Regulatory system
+outcome of good health standards
+Social justice
+SUDs treatment outcome
+Relapse rates
+factor influencing SUDs treatment outcome
+Social determinants of recovery
+social determinant of health
+Economic stability
+social determinant of health
+Educational access and quality
+social determinant of health
+Healthcare access and quality
+social determinant of health
+Neighborhood and built environment
+social determinant of health
+Social and community context
+factor influencing SUDs treatment outcome
+Race and racial discrimination
+social determinant of health
+Race and racial discrimination
+determinant of health conditions
+Social advantage
+determinant of life expectancy
+Social advantage
+potential modulator of health impact
+Farmworker housing
+factor affecting farmworker health
+Social capital
+stress factor for farmworkers
+Housing situations
+factor affecting social support for healthy behaviors
+Housing
+need for specific social and community benefits
+Adequate farmworker housing
+potential long-term determinant of health
+Effects on children
+Critical factor for health
+Sleep
+Factor affecting sleep outcomes
+Physical environment
+Factor affecting sleep outcomes
+Social environment
+Environmental factor promoting sleep loss
+Neighborhood airplane noise pollution
+Environmental factor promoting sleep loss
+Roadway noise pollution
+Environmental factor promoting sleep loss
+Rail noise pollution
+Environmental factor promoting sleep loss
+Air pollution
+Environmental factor promoting sleep loss
+Ambient light
+Social characteristic affecting sleep
+Neighborhood green space
+Social characteristic affecting sleep
+Walkability
+Social characteristic affecting sleep
+Safety
+Life and health outcome
+Children's cognitive abilities
+Factor influencing individual differences in children's cognitive abilities
+Environmental components
+Factor influencing individual differences in children's cognitive abilities
+Socioeconomic effects
+Longitudinal study
+Adolescent Brain Cognitive Development Study
+Method for defining principal components of children's environments
+Youth- and caregiver-report questionnaires
+Method for defining principal components of children's environments
+National database registries
+Component of children's environments
+Home
+Component of children's environments
+School
+Component of children's environments
+Neighborhood
+Component of children's environments
+Cultural environments
+Cognitive performance in children
+General cognitive ability
+Cognitive performance in children
+Executive functioning
+Cognitive performance in children
+Learning/memory abilities
+determinant of diabetes risk factors
+Neighborhood environment
+component of neighborhood environment
+Social environment
+component of neighborhood environment
+Economic environment
+component of neighborhood environment
+Physical environment
+factor influencing health outcomes
+Access to healthy food
+factor influencing health outcomes
+Access to green spaces
+factor influencing health outcomes
+Access to safe housing
+factor influencing health outcomes
+Access to transportation options
+social factor influencing health outcomes
+Social cohesion
+social factor influencing health outcomes
+Neighborhood safety
+driver of neighborhood environment
+Structural racism
+driver of neighborhood environment
+Institutional racism
+principle in health disparities research
+Health equity
+Community-based programming
+CBGGs
+Community-based programming
+Gender equity promotion
+Research method
+Impact evaluations
+Research method
+Randomized controlled trials
+Research method
+Quasi-experimental designs
+Program content
+Life skills education
+Program content
+Financial literacy and microsavings
+Program approach
+Complementary activities with community
+health implication
+Social isolation
+demographic at risk of social isolation
+Older adults
+factor influencing social isolation
+Housing unit type
+type of housing unit
+Townhome-style unit
+type of housing unit
+Apartment building-style unit
+subjective health outcome
+Perceived social isolation
+type of health outcomes
+Mental and emotional health outcomes
+"practical programme of action research"
+"Neighbourhood Resilience Programme"
+"zone of resilience study"
+"Neighbourhoods For Learning"
+"statistical method"
+"Difference-in-difference analysis"
+local decision-making, economic activity, and the local environment", is-a, "resilience domains"
+"Social connectivity
+"literature review method"
+"A narrative review"
+"survey method"
+"Longitudinal household survey"
+"academic record"
+"Reflexive journals"
+"research method"
+"Semi-structured interviews"
+population group
+Older adults
+health risk factor
+Social isolation
+health risk factor
+Loneliness
+health consequence
+Physical impacts
+health consequence
+Mental impacts
+health consequence
+Spiritual impacts
+health care professionals
+Faith community nurses
+population group
+Community-dwelling older adults
+health determinant
+Risk factors
+health care strategies
+Interventions
+research method
+Case study

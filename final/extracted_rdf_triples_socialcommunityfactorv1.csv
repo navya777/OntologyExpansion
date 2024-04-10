@@ -1,0 +1,126 @@
+PMID,Child Concept,Relationship,Parent Concept
+31675514,Housing,is-a,Pathway for health disparities
+31675514,Cost,is-a,Pillar of health-promoting housing factor
+31675514,Conditions,is-a,Pillar of health-promoting housing factor
+31675514,Consistency,is-a,Pillar of health-promoting housing factor
+31675514,Context,is-a,Pillar of health-promoting housing factor
+31675514,Structural inequalities,is-a,Cause of unequal distribution of access to health-promoting housing factors
+31675514,Housing affordability,is-a,Aspect of cost
+31675514,Housing quality,is-a,Aspect of conditions
+31675514,Residential stability,is-a,Aspect of consistency
+31675514,Neighborhood opportunity,is-a,Aspect of context
+31675514,Healthy housing,is-a,Aspect of health equity
+31675514,Cumulative burden,is-a,Result of interaction between housing factors and structural inequalities
+31675514,Health disparities,is-a,Result of cumulative burden
+36562901,Low socioeconomic status,is-associated-with,early onset of chronic diseases
+36562901,Low socioeconomic status,is-associated-with,reduced life expectancy
+36562901,SES,is-associated-with,chronic health conditions
+36562901,Chronic life stress,is-more-prevalent-in,low SES communities
+36562901,Neighborhood-level factors,is-a,determinant of cancer risk
+36562901,Neighborhood-level factors,is-a,contributor to cancer outcomes
+36562901,Environmental pollutants,is-a,socioenvironmental factor affecting tumor biology
+36562901,Neighborhood deprivation,is-a,socioenvironmental factor affecting tumor biology
+36562901,Social isolation,is-a,socioenvironmental factor affecting tumor biology
+36562901,Structural racism,is-a,socioenvironmental factor affecting tumor biology
+36562901,Discrimination,is-a,socioenvironmental factor affecting tumor biology
+36562901,Deprivation,is-a,measurable factor in cancer health disparities
+36562901,Discrimination,is-a,measurable factor in cancer health disparities
+33146364,Living environment,is-a,determinant of health
+33146364,Dwellings,is-a,determinant of health
+33146364,Housing,is-a,determinant of health
+33146364,Residential instability,is-a,housing factor that impacts health
+33146364,Affordability,is-a,housing factor that impacts health
+33146364,Housing safety and quality,is-a,housing factor that impacts health
+33146364,Neighborhood characteristics,is-a,determinant of health
+33146364,Political choices,is-a,factor that impacts neighborhood conditions
+33146364,Administrative choices,is-a,factor that impacts neighborhood conditions
+33146364,Regulatory system,is-a,factor that ensures Public Health protection
+33146364,Social justice,is-a,outcome of good health standards
+37078786,Relapse rates,is a,SUDs treatment outcome
+37078786,Social determinants of recovery,is a,factor influencing SUDs treatment outcome
+37078786,Economic stability,is a,social determinant of health
+37078786,Educational access and quality,is a,social determinant of health
+37078786,Healthcare access and quality,is a,social determinant of health
+37078786,Neighborhood and built environment,is a,social determinant of health
+37078786,Social and community context,is a,social determinant of health
+37078786,Race and racial discrimination,is a,factor influencing SUDs treatment outcome
+37078786,Race and racial discrimination,is a,social determinant of health
+26315036,Social advantage,is-a,determinant of health conditions
+26315036,Social advantage,is-a,determinant of life expectancy
+26315036,Farmworker housing,is-a,potential modulator of health impact
+26315036,Social capital,is-a,factor affecting farmworker health
+26315036,Housing situations,is-a,stress factor for farmworkers
+26315036,Housing,is-a,factor affecting social support for healthy behaviors
+26315036,Adequate farmworker housing,is-a,need for specific social and community benefits
+26315036,Effects on children,is-a,potential long-term determinant of health
+30036811,Sleep,is-a,Critical factor for health
+30036811,Physical environment,is-a,Factor affecting sleep outcomes
+30036811,Social environment,is-a,Factor affecting sleep outcomes
+30036811,Neighborhood airplane noise pollution,is-a,Environmental factor promoting sleep loss
+30036811,Roadway noise pollution,is-a,Environmental factor promoting sleep loss
+30036811,Rail noise pollution,is-a,Environmental factor promoting sleep loss
+30036811,Air pollution,is-a,Environmental factor promoting sleep loss
+30036811,Ambient light,is-a,Environmental factor promoting sleep loss
+30036811,Neighborhood green space,is-a,Social characteristic affecting sleep
+30036811,Walkability,is-a,Social characteristic affecting sleep
+30036811,Safety,is-a,Social characteristic affecting sleep
+35452534,Children's cognitive abilities,is-a,Life and health outcome
+35452534,Environmental components,is-a,Factor influencing individual differences in children's cognitive abilities
+35452534,Socioeconomic effects,is-a,Factor influencing individual differences in children's cognitive abilities
+35452534,Adolescent Brain Cognitive Development Study,is-a,Longitudinal study
+35452534,Youth- and caregiver-report questionnaires,is-a,Method for defining principal components of children's environments
+35452534,National database registries,is-a,Method for defining principal components of children's environments
+35452534,Home,is-a,Component of children's environments
+35452534,School,is-a,Component of children's environments
+35452534,Neighborhood,is-a,Component of children's environments
+35452534,Cultural environments,is-a,Component of children's environments
+35452534,General cognitive ability,is-a,Cognitive performance in children
+35452534,Executive functioning,is-a,Cognitive performance in children
+35452534,Learning/memory abilities,is-a,Cognitive performance in children
+37354326,Neighborhood environment,is-a,determinant of diabetes risk factors
+37354326,Social environment,is-a,component of neighborhood environment
+37354326,Economic environment,is-a,component of neighborhood environment
+37354326,Physical environment,is-a,component of neighborhood environment
+37354326,Access to healthy food,is-a,factor influencing health outcomes
+37354326,Access to green spaces,is-a,factor influencing health outcomes
+37354326,Access to safe housing,is-a,factor influencing health outcomes
+37354326,Access to transportation options,is-a,factor influencing health outcomes
+37354326,Social cohesion,is-a,social factor influencing health outcomes
+37354326,Neighborhood safety,is-a,social factor influencing health outcomes
+37354326,Structural racism,is-a,driver of neighborhood environment
+37354326,Institutional racism,is-a,driver of neighborhood environment
+37354326,Health equity,is-a,principle in health disparities research
+32606096,CBGGs,is-a,Community-based programming
+32606096,Gender equity promotion,is-a,Community-based programming
+32606096,Impact evaluations,is-a,Research method
+32606096,Randomized controlled trials,is-a,Research method
+32606096,Quasi-experimental designs,is-a,Research method
+32606096,Life skills education,is-a,Program content
+32606096,Financial literacy and microsavings,is-a,Program content
+32606096,Complementary activities with community,is-a,Program approach
+34919687,Social isolation,is-a,health implication
+34919687,Older adults,is-a,demographic at risk of social isolation
+34919687,Housing unit type,is-a,factor influencing social isolation
+34919687,Townhome-style unit,is-a,type of housing unit
+34919687,Apartment building-style unit,is-a,type of housing unit
+34919687,Perceived social isolation,is-a,subjective health outcome
+34919687,Mental and emotional health outcomes,is-a,type of health outcomes
+35801904,"""Neighbourhood Resilience Programme""",is-a,"""practical programme of action research"""
+35801904,"""Neighbourhoods For Learning""",is-a,"""zone of resilience study"""
+35801904,"""Difference-in-difference analysis""",is-a,"""statistical method"""
+35801904,"""Social connectivity",cultural coherence,"local decision-making, economic activity, and the local environment"", is-a, ""resilience domains"""
+35801904,"""A narrative review""",is-a,"""literature review method"""
+35801904,"""Longitudinal household survey""",is-a,"""survey method"""
+35801904,"""Reflexive journals""",is-a,"""academic record"""
+35801904,"""Semi-structured interviews""",is-a,"""research method"""
+34477585,Older adults,is-a,population group
+34477585,Social isolation,is-a,health risk factor
+34477585,Loneliness,is-a,health risk factor
+34477585,Physical impacts,is-a,health consequence
+34477585,Mental impacts,is-a,health consequence
+34477585,Spiritual impacts,is-a,health consequence
+34477585,Faith community nurses,is-a,health care professionals
+34477585,Community-dwelling older adults,is-a,population group
+34477585,Risk factors,is-a,health determinant
+34477585,Interventions,is-a,health care strategies
+34477585,Case study,is-a,research method

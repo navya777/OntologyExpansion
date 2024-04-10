@@ -1,0 +1,66 @@
+PMID,Child Concept,Relationship,Parent Concept,Most Similar Concept
+34334214,Economic instability,is-a,Economic condition,economic condition
+33716899,Financial instability,is-a,Economic condition,economic condition
+33716899,Economic cycle,is-a,Economic condition,economic condition
+29026491,Economic instability,is-a,economic condition,economic condition
+25603937,Workforce volatility,is-a,economic condition,economic condition
+37887669,Economic instability,is-a,economic condition,economic condition
+3616688,Declining real income,is-a,Economic condition,economic condition
+36623213,Economic instability,is-a,Economic condition,economic condition
+35805517,Economic Instability,is-a,Economic Condition,economic condition
+35089147,Economic Instability,is-a,Social Risk Factor,Social Risk Factor
+35089147,Disadvantaged Neighborhood,is-a,Social Risk Factor,Social Risk Factor
+35089147,Low Educational Attainment,is-a,Social Risk Factor,Social Risk Factor
+35089147,Social Isolation,is-a,Social Risk Factor,Social Risk Factor
+26506676,Economic stability,is-a,economic condition,economic condition
+34334214,Economic instability,is-a,Economic condition,economic condition
+36324860,Economic instability,is-a,Economic Condition,economic condition
+27748647,Economic Instability,is-a,Economic Condition,economic condition
+26553887,Economic instability,is-a,Economic condition,economic condition
+19326781,Economic instability,is-a,Economic conditions,economic condition
+15860764,Unemployment,is-a,Economic condition,economic condition
+37897568,Financial stability,is-a,economic condition,economic condition
+37897568,Economic growth,is-a,economic condition,economic condition
+30233917,Economic instability,is-a,economic condition,economic condition
+30233917,Economic scarcity,is-a,economic condition,economic condition
+35079208,Economic instability,is-a,economic condition,economic condition
+36189082,Economic instability,is-a,Economic condition,economic condition
+37232615,Economic instability,is-a,economic condition,economic condition
+36849680,Poverty,is-a,Economic Condition,economic condition
+35805517,Economic instability,is-a,Economic condition,economic condition
+26497097,Economic Instability,is-a,Social Risk Factor,Social Risk Factor
+26497097,Male Dominance,is-a,Social Risk Factor,Social Risk Factor
+16619736,Sustained economic growth,is-a,economic condition,economic condition
+16619736,Economic stability,is-a,economic condition,economic condition
+15860764,Long-term welfare dependency,is-a,Economic condition,economic condition
+31242086,Low economic stability,is-a,economic condition,economic condition
+32808192,Poverty,is-a,economic condition,economic condition
+36111269,Economic Stability,is-a,Social Risk Factor,Social Risk Factor
+36111269,Education,is-a,Social Risk Factor,Social Risk Factor
+36111269,Location of Residence,is-a,Social Risk Factor,Social Risk Factor
+34984619,National economic stability,is-a,economic condition,economic condition
+33834230,Economic instability,is-a,Economic Condition,economic condition
+38242184,Economic instability,is-a,Social risk factor,Social Risk Factor
+38242184,Lack of community,is-a,Social risk factor,Social Risk Factor
+38242184,Educational deficit,is-a,Social risk factor,Social Risk Factor
+38242184,Food insecurity,is-a,Social risk factor,Social Risk Factor
+38242184,Social isolation,is-a,Social risk factor,Social Risk Factor
+38242184,Inadequate access to care,is-a,Social risk factor,Social Risk Factor
+12291891,Economic instability,is-a,economic condition,economic condition
+16937623,Economic instability,is-a,Economic condition,economic condition
+22180884,Economic instability,is-a,Economic condition,economic condition
+22180884,High unemployment rates,is-a,Economic condition,economic condition
+22180884,Precarious wages,is-a,Economic condition,economic condition
+24790545,Chronic poverty,is-a,economic condition,economic condition
+24790545,Persistent affluence,is-a,economic condition,economic condition
+19927415,Economic Stability,is-a,Economic Condition,economic condition
+14618002,Economic stability,is-a,Economic Condition,economic condition
+22522474,Recession,is-a,Economic Condition,economic condition
+22522474,Unemployment,is-a,Economic Condition,economic condition
+22522474,Economic stability,is-a,Economic Condition,economic condition
+22522474,Economic recession,is-a,Economic Condition,economic condition
+12292243,High level of unemployment,is-a,Economic condition,economic condition
+36003841,Economic Stability,is-a,Economic Condition,economic condition
+36531668,Financial insecurity,is-a,economic condition,economic condition
+35709808,Economic Instability,is-a,Economic Condition,economic condition
+35709808,Food Insecurity,is-a,Economic Condition,economic condition
